@@ -1,0 +1,2692 @@
+﻿Country/Region,Region,Year,Health Exp % GDP,Health Exp/Capita,Infant Mortality Rate,Life Expectancy Female,Life Expectancy Male
+Algeria,Africa,12/1/2000,3.50%,$60 ,0.034,71,67
+Angola,Africa,12/1/2000,3.40%,$22 ,0.128,47,44
+Benin,Africa,12/1/2000,4.30%,$15 ,0.09,57,53
+Botswana,Africa,12/1/2000,4.70%,$152 ,0.054,52,49
+Burkina Faso,Africa,12/1/2000,5.10%,$12 ,0.096,52,49
+Burundi,Africa,12/1/2000,6.30%,$7 ,0.092,49,47
+Cameroon,Africa,12/1/2000,4.40%,$26 ,0.093,53,51
+Central African Republic,Africa,12/1/2000,4.30%,$11 ,0.113,45,42
+Chad,Africa,12/1/2000,6.30%,$10 ,0.106,48,46
+Comoros,Africa,12/1/2000,3.50%,$13 ,0.073,59,56
+Congo (Kinshasa),Africa,12/1/2000,4.80%,$14 ,0.115,48,45
+Congo (Brazzaville),Africa,12/1/2000,2.10%,$22 ,0.077,53,51
+Cote d'Ivoire,Africa,12/1/2000,6.50%,$42 ,0.1,47,46
+Djibouti,Africa,12/1/2000,5.80%,$44 ,0.08,59,55
+Egypt,Africa,12/1/2000,5.40%,$79 ,0.036,71,66
+Equatorial Guinea,Africa,12/1/2000,2.40%,$57 ,0.099,49,46
+Eritrea,Africa,12/1/2000,4.50%,$7 ,0.058,58,54
+Ethiopia,Africa,12/1/2000,4.30%,$5 ,0.09,53,51
+Gabon,Africa,12/1/2000,2.90%,$118 ,0.056,61,59
+"Gambia, The",Africa,12/1/2000,4.50%,$29 ,0.063,56,54
+Ghana,Africa,12/1/2000,4.80%,$13 ,0.065,58,56
+Guinea,Africa,12/1/2000,5.60%,$19 ,0.103,51,51
+Guinea-Bissau,Africa,12/1/2000,4.90%,$16 ,0.109,53,50
+Kenya,Africa,12/1/2000,4.70%,$19 ,0.069,54,52
+Lesotho,Africa,12/1/2000,6.90%,$29 ,0.081,48,47
+Liberia,Africa,12/1/2000,5.90%,$11 ,0.119,53,52
+Libya,Africa,12/1/2000,3.40%,$252 ,0.024,74,70
+Madagascar,Africa,12/1/2000,5.00%,$12 ,0.071,60,57
+Malawi,Africa,12/1/2000,6.10%,$9 ,0.103,46,46
+Mali,Africa,12/1/2000,6.30%,$16 ,0.116,49,49
+Mauritania,Africa,12/1/2000,6.00%,$24 ,0.076,61,58
+Mauritius,Africa,12/1/2000,3.70%,$146 ,0.016,75,68
+Morocco,Africa,12/1/2000,4.20%,$54 ,0.043,70,67
+Mozambique,Africa,12/1/2000,6.20%,$15 ,0.114,49,46
+Namibia,Africa,12/1/2000,6.10%,$126 ,0.049,57,53
+Niger,Africa,12/1/2000,6.40%,$10 ,0.101,51,51
+Nigeria,Africa,12/1/2000,4.60%,$17 ,0.113,47,46
+Rwanda,Africa,12/1/2000,4.20%,$9 ,0.108,49,47
+Sao Tome and Principe,Africa,12/1/2000,8.90%,$46 ,0.058,65,62
+Senegal,Africa,12/1/2000,4.60%,$22 ,0.069,59,56
+Seychelles,Africa,12/1/2000,4.80%,$371 ,0.012,0,0
+Sierra Leone,Africa,12/1/2000,18.40%,$28 ,0.141,39,37
+Somalia,Africa,12/1/2000,0,0,0.105,52,49
+South Africa,Africa,12/1/2000,8.30%,$246 ,0.052,58,54
+South Sudan,Africa,12/1/2000,0,0,0.11,50,48
+Sudan,Africa,12/1/2000,3.40%,$15 ,0.069,60,56
+Swaziland,Africa,12/1/2000,5.30%,$75 ,0.08,49,48
+Tanzania,Africa,12/1/2000,3.40%,$10 ,0.08,51,49
+Togo,Africa,12/1/2000,5.30%,$14 ,0.077,54,53
+Tunisia,Africa,12/1/2000,5.40%,$123 ,0.026,75,71
+Uganda,Africa,12/1/2000,6.60%,$16 ,0.089,48,48
+Zambia,Africa,12/1/2000,5.60%,$18 ,0.1,42,42
+Zimbabwe,Africa,12/1/2000,0,0,0.061,44,44
+Afghanistan,Asia,12/1/2000,0,0,0.095,56,54
+Armenia,Asia,12/1/2000,6.30%,$39 ,0.027,75,68
+Azerbaijan,Asia,12/1/2000,4.70%,$30 ,0.061,70,64
+Bangladesh,Asia,12/1/2000,2.80%,$10 ,0.064,66,65
+Bhutan,Asia,12/1/2000,6.70%,$52 ,0.059,60,60
+Brunei,Asia,12/1/2000,3.00%,$543 ,0.008,78,74
+Cambodia,Asia,12/1/2000,6.30%,$19 ,0.082,65,59
+China,Asia,12/1/2000,4.60%,$43 ,0.03,74,71
+Georgia,Asia,12/1/2000,6.90%,$45 ,0.031,75,68
+Hong Kong SAR,Asia,12/1/2000,0,0,0,84,78
+India,Asia,12/1/2000,4.30%,$20 ,0.067,63,61
+Indonesia,Asia,12/1/2000,2.00%,$15 ,0.041,69,65
+Japan,Asia,12/1/2000,7.60%,"$2,834 ",0.003,85,78
+Kazakhstan,Asia,12/1/2000,4.20%,$52 ,0.038,71,60
+North Korea,Asia,12/1/2000,0,0,0.045,69,61
+South Korea,Asia,12/1/2000,4.30%,$491 ,0.005,80,72
+Kyrgyzstan,Asia,12/1/2000,4.70%,$13 ,0.042,72,65
+Laos,Asia,12/1/2000,3.30%,$11 ,0.083,63,60
+Macao SAR,Asia,12/1/2000,0,0,0,80,75
+Malaysia,Asia,12/1/2000,3.00%,$120 ,0.009,75,71
+Maldives,Asia,12/1/2000,7.10%,$162 ,0.035,70,69
+Mongolia,Asia,12/1/2000,4.70%,$22 ,0.049,66,60
+Myanmar,Asia,12/1/2000,2.10%,$3 ,0.059,64,60
+Nepal,Asia,12/1/2000,5.00%,$12 ,0.06,63,61
+Pakistan,Asia,12/1/2000,3.00%,$15 ,0.088,65,63
+Philippines,Asia,12/1/2000,3.20%,$33 ,0.03,70,64
+Singapore,Asia,12/1/2000,2.70%,$662 ,0.003,80,76
+Sri Lanka,Asia,12/1/2000,3.70%,$32 ,0.014,75,68
+Tajikistan,Asia,12/1/2000,4.60%,$6 ,0.075,68,60
+Thailand,Asia,12/1/2000,3.40%,$67 ,0.019,75,67
+Timor-Leste,Asia,12/1/2000,5.10%,$19 ,0.084,61,58
+Turkmenistan,Asia,12/1/2000,3.90%,$44 ,0.066,68,60
+Uzbekistan,Asia,12/1/2000,5.30%,$29 ,0.053,70,64
+Vietnam,Asia,12/1/2000,5.30%,$20 ,0.027,78,69
+Albania,Europe,12/1/2000,6.40%,$70 ,0.023,77,71
+Andorra,Europe,12/1/2000,6.20%,"$1,330 ",0.004,0,0
+Austria,Europe,12/1/2000,10.00%,"$2,403 ",0.005,81,75
+Belarus,Europe,12/1/2000,6.10%,$64 ,0.011,75,63
+Belgium,Europe,12/1/2000,8.10%,"$1,845 ",0.005,81,75
+Bosnia and Herzegovina,Europe,12/1/2000,7.10%,$103 ,0.008,77,72
+Bulgaria,Europe,12/1/2000,6.20%,$98 ,0.018,75,68
+Croatia,Europe,12/1/2000,7.80%,$377 ,0.007,77,69
+Cyprus,Europe,12/1/2000,5.80%,$744 ,0.006,80,76
+Czech Republic,Europe,12/1/2000,6.30%,$361 ,0.006,78,72
+Denmark,Europe,12/1/2000,8.70%,"$2,613 ",0.005,79,74
+Estonia,Europe,12/1/2000,5.30%,$213 ,0.009,76,65
+Faeroe Islands,Europe,12/1/2000,0,0,0,82,76
+Finland,Europe,12/1/2000,7.20%,"$1,700 ",0.004,81,74
+France,Europe,12/1/2000,10.10%,"$2,209 ",0.004,83,75
+Germany,Europe,12/1/2000,10.40%,"$2,387 ",0.004,81,75
+Greece,Europe,12/1/2000,7.90%,$918 ,0.007,81,75
+Hungary,Europe,12/1/2000,7.20%,$326 ,0.01,76,67
+Iceland,Europe,12/1/2000,9.50%,"$2,961 ",0.003,82,78
+Ireland,Europe,12/1/2000,6.10%,"$1,572 ",0.006,79,74
+Isle of Man,Europe,12/1/2000,0,0,0,0,0
+Italy,Europe,12/1/2000,7.90%,"$1,527 ",0.005,83,77
+Kosovo,Europe,12/1/2000,0,0,0,70,66
+Latvia,Europe,12/1/2000,6.00%,$197 ,0.015,76,65
+Liechtenstein,Europe,12/1/2000,0,0,0,80,74
+Lithuania,Europe,12/1/2000,6.50%,$212 ,0.01,78,67
+Luxembourg,Europe,12/1/2000,7.50%,"$3,495 ",0.004,81,75
+North Macedonia,Europe,12/1/2000,8.70%,$153 ,0.014,76,71
+Malta,Europe,12/1/2000,6.60%,$643 ,0.007,80,76
+Moldova,Europe,12/1/2000,6.70%,$24 ,0.025,71,63
+Monaco,Europe,12/1/2000,3.30%,"$2,685 ",0.004,0,0
+Montenegro,Europe,12/1/2000,7.50%,$121 ,0.013,77,71
+Netherlands,Europe,12/1/2000,8.00%,"$1,932 ",0.005,81,76
+Norway,Europe,12/1/2000,9.10%,"$3,432 ",0.004,81,76
+Poland,Europe,12/1/2000,5.50%,$247 ,0.008,78,70
+Portugal,Europe,12/1/2000,9.30%,"$1,070 ",0.006,80,73
+Romania,Europe,12/1/2000,4.30%,$72 ,0.023,75,68
+Russia,Europe,12/1/2000,5.40%,$96 ,0.02,72,59
+San Marino,Europe,12/1/2000,5.30%,"$2,161 ",0.005,84,77
+Serbia,Europe,12/1/2000,7.40%,$51 ,0.011,75,70
+Slovakia,Europe,12/1/2000,5.50%,$208 ,0.01,77,69
+Slovenia,Europe,12/1/2000,8.30%,$831 ,0.005,79,72
+Spain,Europe,12/1/2000,7.20%,"$1,045 ",0.005,83,76
+Sweden,Europe,12/1/2000,8.20%,"$2,282 ",0.003,82,77
+Switzerland,Europe,12/1/2000,9.90%,"$3,541 ",0.005,83,77
+Turkey,Europe,12/1/2000,4.90%,$196 ,0.034,74,66
+Ukraine,Europe,12/1/2000,5.60%,$36 ,0.016,74,62
+United Kingdom,Europe,12/1/2000,7.00%,"$1,761 ",0.006,80,75
+Bahrain,Middle East,12/1/2000,3.50%,$476 ,0.011,76,74
+Iran,Middle East,12/1/2000,4.60%,$231 ,0.029,71,69
+Iraq,Middle East,12/1/2000,0.80%,$7 ,0.036,73,69
+Israel,Middle East,12/1/2000,7.40%,"$1,454 ",0.006,81,77
+Jordan,Middle East,12/1/2000,9.70%,$171 ,0.023,73,70
+Kuwait,Middle East,12/1/2000,2.50%,$494 ,0.011,74,72
+Lebanon,Middle East,12/1/2000,10.90%,$579 ,0.017,76,73
+Oman,Middle East,12/1/2000,3.10%,$264 ,0.014,74,70
+Qatar,Middle East,12/1/2000,2.20%,$652 ,0.011,78,76
+Saudi Arabia,Middle East,12/1/2000,4.20%,$398 ,0.019,74,71
+Syria,Middle East,12/1/2000,4.90%,$59 ,0.02,75,72
+United Arab Emirates,Middle East,12/1/2000,2.20%,$752 ,0.01,75,73
+Yemen,Middle East,12/1/2000,4.10%,$25 ,0.069,62,59
+American Samoa,Oceania,12/1/2000,0,0,0,0,0
+Australia,Oceania,12/1/2000,8.10%,"$1,713 ",0.005,82,77
+Fiji,Oceania,12/1/2000,3.90%,$80 ,0.021,70,65
+French Polynesia,Oceania,12/1/2000,0,0,0,75,70
+Guam,Oceania,12/1/2000,0,0,0,78,73
+Kiribati,Oceania,12/1/2000,7.90%,$65 ,0.054,68,62
+Marshall Islands,Oceania,12/1/2000,22.50%,$466 ,0.034,68,63
+"Micronesia, Fed. Sts.",Oceania,12/1/2000,7.80%,$170 ,0.042,68,67
+New Caledonia,Oceania,12/1/2000,0,0,0,78,72
+New Zealand,Oceania,12/1/2000,7.60%,"$1,052 ",0.006,81,76
+Papua New Guinea,Oceania,12/1/2000,4.00%,$26 ,0.058,61,57
+Samoa,Oceania,12/1/2000,6.00%,$80 ,0.019,73,66
+Solomon Islands,Oceania,12/1/2000,4.60%,$48 ,0.028,64,62
+Tonga,Oceania,12/1/2000,4.80%,$92 ,0.015,73,69
+Vanuatu,Oceania,12/1/2000,3.60%,$52 ,0.02,69,66
+Antigua and Barbuda,The Americas,12/1/2000,4.00%,$408 ,0.014,76,71
+Argentina,The Americas,12/1/2000,9.20%,$710 ,0.018,78,70
+Aruba,The Americas,12/1/2000,0,0,0,76,71
+"Bahamas, The",The Americas,12/1/2000,5.20%,"$1,107 ",0.013,75,69
+Barbados,The Americas,12/1/2000,6.30%,$602 ,0.015,75,71
+Belize,The Americas,12/1/2000,4.00%,$139 ,0.021,74,67
+Bermuda,The Americas,12/1/2000,0,0,0,81,75
+Bolivia,The Americas,12/1/2000,6.10%,$60 ,0.057,65,61
+Brazil,The Americas,12/1/2000,7.20%,$265 ,0.029,74,67
+Canada,The Americas,12/1/2000,8.80%,"$2,090 ",0.005,82,77
+Cayman Islands,The Americas,12/1/2000,0,0,0,0,0
+Chile,The Americas,12/1/2000,7.70%,$390 ,0.009,80,74
+Colombia,The Americas,12/1/2000,5.90%,$148 ,0.021,75,67
+Costa Rica,The Americas,12/1/2000,7.10%,$287 ,0.011,80,75
+Cuba,The Americas,12/1/2000,6.10%,$166 ,0.007,79,75
+Curacao,The Americas,12/1/2000,0,0,0,0,0
+Dominica,The Americas,12/1/2000,5.00%,$231 ,0.014,0,0
+Dominican Republic,The Americas,12/1/2000,6.30%,$173 ,0.033,74,68
+Ecuador,The Americas,12/1/2000,3.60%,$53 ,0.028,76,71
+El Salvador,The Americas,12/1/2000,8.10%,$179 ,0.027,74,65
+Greenland,The Americas,12/1/2000,0,0,0,70,64
+Grenada,The Americas,12/1/2000,6.60%,$339 ,0.014,73,68
+Guatemala,The Americas,12/1/2000,5.60%,$96 ,0.04,71,64
+Guyana,The Americas,12/1/2000,5.80%,$56 ,0.039,67,60
+Haiti,The Americas,12/1/2000,6.10%,$26 ,0.075,59,56
+Honduras,The Americas,12/1/2000,6.60%,$76 ,0.031,73,68
+Jamaica,The Americas,12/1/2000,5.50%,$189 ,0.02,73,68
+Mexico,The Americas,12/1/2000,5.10%,$328 ,0.022,77,72
+Nicaragua,The Americas,12/1/2000,5.40%,$54 ,0.033,72,67
+Panama,The Americas,12/1/2000,7.80%,$295 ,0.022,78,73
+Paraguay,The Americas,12/1/2000,8.10%,$124 ,0.028,72,68
+Peru,The Americas,12/1/2000,4.70%,$96 ,0.03,73,68
+Puerto Rico,The Americas,12/1/2000,0,0,0,81,73
+Sint Maarten (Dutch part),The Americas,12/1/2000,0,0,0,0,0
+St. Kitts and Nevis,The Americas,12/1/2000,4.30%,$392 ,0.014,0,0
+St. Lucia,The Americas,12/1/2000,5.60%,$272 ,0.015,73,70
+St. Martin (French part),The Americas,12/1/2000,0,0,0,80,74
+St. Vincent and the Grenadines,The Americas,12/1/2000,3.70%,$137 ,0.019,73,68
+Suriname,The Americas,12/1/2000,8.70%,$167 ,0.03,71,65
+Trinidad and Tobago,The Americas,12/1/2000,4.00%,$260 ,0.025,72,65
+Turks and Caicos Islands,The Americas,12/1/2000,0,0,0,0,0
+United States,The Americas,12/1/2000,13.60%,"$4,790 ",0.007,79,74
+Uruguay,The Americas,12/1/2000,11.20%,$773 ,0.015,78,71
+Venezuela,The Americas,12/1/2000,5.70%,$273 ,0.018,75,70
+Algeria,Africa,12/1/2001,3.80%,$65 ,0.033,71,68
+Angola,Africa,12/1/2001,5.80%,$36 ,0.127,47,45
+Benin,Africa,12/1/2001,4.70%,$16 ,0.088,57,54
+Botswana,Africa,12/1/2001,5.20%,$175 ,0.054,51,48
+Burkina Faso,Africa,12/1/2001,4.90%,$12 ,0.095,52,50
+Burundi,Africa,12/1/2001,6.80%,$7 ,0.089,50,47
+Cameroon,Africa,12/1/2001,4.70%,$27 ,0.09,53,51
+Central African Republic,Africa,12/1/2001,4.00%,$10 ,0.113,45,42
+Chad,Africa,12/1/2001,6.00%,$12 ,0.105,48,46
+Comoros,Africa,12/1/2001,2.80%,$11 ,0.073,60,57
+Congo (Kinshasa),Africa,12/1/2001,4.30%,$6 ,0.114,48,45
+Congo (Brazzaville),Africa,12/1/2001,2.40%,$21 ,0.075,54,51
+Cote d'Ivoire,Africa,12/1/2001,5.20%,$34 ,0.098,47,46
+Djibouti,Africa,12/1/2001,5.40%,$41 ,0.078,59,56
+Egypt,Africa,12/1/2001,5.80%,$76 ,0.034,71,66
+Equatorial Guinea,Africa,12/1/2001,1.50%,$50 ,0.096,49,47
+Eritrea,Africa,12/1/2001,3.90%,$7 ,0.056,59,54
+Ethiopia,Africa,12/1/2001,4.70%,$6 ,0.087,54,52
+Gabon,Africa,12/1/2001,3.30%,$125 ,0.055,61,58
+"Gambia, The",Africa,12/1/2001,4.60%,$25 ,0.062,57,54
+Ghana,Africa,12/1/2001,5.60%,$15 ,0.063,58,56
+Guinea,Africa,12/1/2001,5.90%,$19 ,0.099,51,51
+Guinea-Bissau,Africa,12/1/2001,5.00%,$15 ,0.106,53,51
+Kenya,Africa,12/1/2001,4.60%,$19 ,0.068,54,52
+Lesotho,Africa,12/1/2001,7.50%,$28 ,0.082,46,45
+Liberia,Africa,12/1/2001,6.40%,$11 ,0.112,53,52
+Libya,Africa,12/1/2001,4.10%,$261 ,0.024,74,71
+Madagascar,Africa,12/1/2001,5.00%,$14 ,0.067,60,58
+Malawi,Africa,12/1/2001,5.10%,$8 ,0.097,46,46
+Mali,Africa,12/1/2001,6.40%,$18 ,0.113,49,50
+Mauritania,Africa,12/1/2001,4.80%,$19 ,0.076,61,58
+Mauritius,Africa,12/1/2001,3.80%,$147 ,0.015,75,68
+Morocco,Africa,12/1/2001,4.40%,$58 ,0.041,70,67
+Mozambique,Africa,12/1/2001,5.60%,$12 ,0.109,49,46
+Namibia,Africa,12/1/2001,6.20%,$113 ,0.049,56,52
+Niger,Africa,12/1/2001,7.40%,$12 ,0.098,51,51
+Nigeria,Africa,12/1/2001,4.80%,$18 ,0.11,47,46
+Rwanda,Africa,12/1/2001,4.40%,$8 ,0.101,50,48
+Sao Tome and Principe,Africa,12/1/2001,10.30%,$52 ,0.056,65,62
+Senegal,Africa,12/1/2001,5.00%,$24 ,0.067,60,57
+Seychelles,Africa,12/1/2001,4.70%,$356 ,0.012,0,0
+Sierra Leone,Africa,12/1/2001,16.00%,$40 ,0.139,40,38
+Somalia,Africa,12/1/2001,0,0,0.105,53,50
+South Africa,Africa,12/1/2001,8.60%,$223 ,0.053,57,53
+South Sudan,Africa,12/1/2001,0,0,0.105,51,48
+Sudan,Africa,12/1/2001,3.50%,$16 ,0.067,60,57
+Swaziland,Africa,12/1/2001,5.20%,$65 ,0.081,48,47
+Tanzania,Africa,12/1/2001,3.50%,$11 ,0.076,51,50
+Togo,Africa,12/1/2001,5.20%,$14 ,0.075,54,53
+Tunisia,Africa,12/1/2001,5.30%,$122 ,0.024,75,71
+Uganda,Africa,12/1/2001,7.20%,$17 ,0.085,49,49
+Zambia,Africa,12/1/2001,6.00%,$21 ,0.095,43,42
+Zimbabwe,Africa,12/1/2001,0,0,0.06,43,43
+Afghanistan,Asia,12/1/2001,0,0,0.093,56,54
+Armenia,Asia,12/1/2001,5.90%,$41 ,0.025,75,68
+Azerbaijan,Asia,12/1/2001,4.50%,$31 ,0.057,70,64
+Bangladesh,Asia,12/1/2001,3.00%,$10 ,0.062,66,66
+Bhutan,Asia,12/1/2001,6.20%,$51 ,0.056,61,61
+Brunei,Asia,12/1/2001,3.20%,$525 ,0.008,78,74
+Cambodia,Asia,12/1/2001,6.20%,$20 ,0.076,66,60
+China,Asia,12/1/2001,4.60%,$47 ,0.028,74,71
+Georgia,Asia,12/1/2001,7.80%,$54 ,0.029,76,68
+Hong Kong SAR,Asia,12/1/2001,0,0,0,85,78
+India,Asia,12/1/2001,4.50%,$21 ,0.064,64,61
+Indonesia,Asia,12/1/2001,2.20%,$17 ,0.039,70,66
+Japan,Asia,12/1/2001,7.80%,"$2,554 ",0.003,85,78
+Kazakhstan,Asia,12/1/2001,3.50%,$53 ,0.036,71,61
+North Korea,Asia,12/1/2001,0,0,0.039,70,62
+South Korea,Asia,12/1/2001,5.00%,$528 ,0.006,80,73
+Kyrgyzstan,Asia,12/1/2001,4.80%,$15 ,0.04,73,65
+Laos,Asia,12/1/2001,4.10%,$13 ,0.08,64,61
+Macao SAR,Asia,12/1/2001,0,0,0,80,76
+Malaysia,Asia,12/1/2001,3.30%,$130 ,0.008,75,71
+Maldives,Asia,12/1/2001,5.30%,$153 ,0.032,72,70
+Mongolia,Asia,12/1/2001,4.60%,$24 ,0.047,67,60
+Myanmar,Asia,12/1/2001,2.10%,$2 ,0.057,64,60
+Nepal,Asia,12/1/2001,5.30%,$13 ,0.057,64,62
+Pakistan,Asia,12/1/2001,2.80%,$13 ,0.086,65,63
+Philippines,Asia,12/1/2001,3.00%,$29 ,0.03,70,64
+Singapore,Asia,12/1/2001,2.40%,$526 ,0.003,80,76
+Sri Lanka,Asia,12/1/2001,3.70%,$31 ,0.013,76,68
+Tajikistan,Asia,12/1/2001,4.60%,$8 ,0.07,68,60
+Thailand,Asia,12/1/2001,3.30%,$61 ,0.018,75,67
+Timor-Leste,Asia,12/1/2001,6.20%,$20 ,0.08,62,59
+Turkmenistan,Asia,12/1/2001,3.80%,$58 ,0.065,68,60
+Uzbekistan,Asia,12/1/2001,5.30%,$24 ,0.052,70,64
+Vietnam,Asia,12/1/2001,5.60%,$22 ,0.026,79,69
+Albania,Europe,12/1/2001,6.00%,$75 ,0.022,78,72
+Andorra,Europe,12/1/2001,5.60%,"$1,294 ",0.004,0,0
+Austria,Europe,12/1/2001,10.10%,"$2,406 ",0.005,82,76
+Belarus,Europe,12/1/2001,6.60%,$83 ,0.01,75,63
+Belgium,Europe,12/1/2001,8.30%,"$1,878 ",0.005,81,75
+Bosnia and Herzegovina,Europe,12/1/2001,7.20%,$108 ,0.008,77,73
+Bulgaria,Europe,12/1/2001,7.40%,$129 ,0.017,75,69
+Croatia,Europe,12/1/2001,7.20%,$376 ,0.007,78,71
+Cyprus,Europe,12/1/2001,5.80%,$776 ,0.005,80,76
+Czech Republic,Europe,12/1/2001,6.40%,$403 ,0.005,78,72
+Denmark,Europe,12/1/2001,9.10%,"$2,730 ",0.005,79,75
+Estonia,Europe,12/1/2001,4.90%,$218 ,0.008,76,65
+Faeroe Islands,Europe,12/1/2001,0,0,0,82,77
+Finland,Europe,12/1/2001,7.40%,"$1,786 ",0.003,82,75
+France,Europe,12/1/2001,10.20%,"$2,241 ",0.004,83,76
+Germany,Europe,12/1/2001,10.50%,"$2,402 ",0.004,81,76
+Greece,Europe,12/1/2001,8.80%,"$1,055 ",0.006,81,76
+Hungary,Europe,12/1/2001,7.20%,$374 ,0.009,77,68
+Iceland,Europe,12/1/2001,9.30%,"$2,612 ",0.003,83,78
+Ireland,Europe,12/1/2001,6.70%,"$1,848 ",0.006,80,75
+Isle of Man,Europe,12/1/2001,0,0,0,0,0
+Italy,Europe,12/1/2001,8.10%,"$1,590 ",0.004,83,77
+Kosovo,Europe,12/1/2001,0,0,0,70,66
+Latvia,Europe,12/1/2001,6.20%,$215 ,0.014,77,65
+Liechtenstein,Europe,12/1/2001,0,0,0,82,76
+Lithuania,Europe,12/1/2001,6.30%,$220 ,0.009,78,66
+Luxembourg,Europe,12/1/2001,7.40%,"$3,405 ",0.004,81,75
+North Macedonia,Europe,12/1/2001,8.50%,$141 ,0.014,76,71
+Malta,Europe,12/1/2001,7.00%,$675 ,0.007,81,77
+Moldova,Europe,12/1/2001,7.10%,$29 ,0.024,71,63
+Monaco,Europe,12/1/2001,3.30%,"$2,718 ",0.004,0,0
+Montenegro,Europe,12/1/2001,8.50%,$160 ,0.012,77,71
+Netherlands,Europe,12/1/2001,8.30%,"$2,079 ",0.005,81,76
+Norway,Europe,12/1/2001,9.80%,"$3,705 ",0.004,82,76
+Poland,Europe,12/1/2001,5.90%,$292 ,0.008,78,70
+Portugal,Europe,12/1/2001,9.30%,"$1,087 ",0.005,80,73
+Romania,Europe,12/1/2001,4.40%,$79 ,0.022,75,68
+Russia,Europe,12/1/2001,5.70%,$119 ,0.019,72,59
+San Marino,Europe,12/1/2001,5.20%,"$2,183 ",0.005,84,78
+Serbia,Europe,12/1/2001,7.60%,$84 ,0.011,75,70
+Slovakia,Europe,12/1/2001,5.50%,$216 ,0.01,78,70
+Slovenia,Europe,12/1/2001,8.60%,$883 ,0.004,80,72
+Spain,Europe,12/1/2001,7.20%,"$1,089 ",0.005,83,76
+Sweden,Europe,12/1/2001,8.90%,"$2,268 ",0.003,82,78
+Switzerland,Europe,12/1/2001,10.30%,"$3,748 ",0.005,83,77
+Turkey,Europe,12/1/2001,5.20%,$148 ,0.032,74,67
+Ukraine,Europe,12/1/2001,5.70%,$44 ,0.015,74,63
+United Kingdom,Europe,12/1/2001,7.30%,"$1,819 ",0.006,80,76
+Bahrain,Middle East,12/1/2001,3.80%,$488 ,0.011,76,74
+Iran,Middle East,12/1/2001,5.10%,$294 ,0.027,71,69
+Iraq,Middle East,12/1/2001,1.10%,$8 ,0.035,73,69
+Israel,Middle East,12/1/2001,7.90%,"$1,499 ",0.005,81,78
+Jordan,Middle East,12/1/2001,9.90%,$184 ,0.023,73,71
+Kuwait,Middle East,12/1/2001,3.60%,$634 ,0.011,74,73
+Lebanon,Middle East,12/1/2001,10.90%,$571 ,0.016,77,73
+Oman,Middle East,12/1/2001,3.10%,$263 ,0.013,75,71
+Qatar,Middle East,12/1/2001,2.60%,$732 ,0.01,78,76
+Saudi Arabia,Middle East,12/1/2001,4.50%,$397 ,0.019,75,71
+Syria,Middle East,12/1/2001,4.90%,$58 ,0.019,75,72
+United Arab Emirates,Middle East,12/1/2001,2.50%,$815 ,0.009,76,74
+Yemen,Middle East,12/1/2001,4.30%,$27 ,0.067,62,59
+American Samoa,Oceania,12/1/2001,0,0,0,0,0
+Australia,Oceania,12/1/2001,8.20%,"$1,632 ",0.005,82,77
+Fiji,Oceania,12/1/2001,3.30%,$67 ,0.02,70,65
+French Polynesia,Oceania,12/1/2001,0,0,0,76,70
+Guam,Oceania,12/1/2001,0,0,0,78,73
+Kiribati,Oceania,12/1/2001,8.80%,$67 ,0.053,68,62
+Marshall Islands,Oceania,12/1/2001,19.40%,$412 ,0.033,0,0
+"Micronesia, Fed. Sts.",Oceania,12/1/2001,8.50%,$190 ,0.041,68,67
+New Caledonia,Oceania,12/1/2001,0,0,0,78,72
+New Zealand,Oceania,12/1/2001,7.70%,"$1,052 ",0.006,81,76
+Papua New Guinea,Oceania,12/1/2001,4.50%,$25 ,0.058,61,57
+Samoa,Oceania,12/1/2001,5.80%,$79 ,0.018,73,67
+Solomon Islands,Oceania,12/1/2001,6.40%,$61 ,0.029,65,62
+Tonga,Oceania,12/1/2001,5.70%,$96 ,0.015,73,69
+Vanuatu,Oceania,12/1/2001,3.70%,$50 ,0.019,70,66
+Antigua and Barbuda,The Americas,12/1/2001,4.40%,$429 ,0.013,76,71
+Argentina,The Americas,12/1/2001,9.40%,$676 ,0.018,78,70
+Aruba,The Americas,12/1/2001,0,0,0,76,71
+"Bahamas, The",The Americas,12/1/2001,5.10%,"$1,107 ",0.013,76,70
+Barbados,The Americas,12/1/2001,6.70%,$635 ,0.015,76,71
+Belize,The Americas,12/1/2001,4.50%,$160 ,0.021,74,67
+Bermuda,The Americas,12/1/2001,0,0,0,81,75
+Bolivia,The Americas,12/1/2001,6.30%,$59 ,0.054,65,61
+Brazil,The Americas,12/1/2001,7.30%,$228 ,0.027,74,67
+Canada,The Americas,12/1/2001,9.30%,"$2,152 ",0.005,82,77
+Cayman Islands,The Americas,12/1/2001,0,0,0,0,0
+Chile,The Americas,12/1/2001,7.70%,$348 ,0.009,80,74
+Colombia,The Americas,12/1/2001,6.00%,$144 ,0.021,75,68
+Costa Rica,The Americas,12/1/2001,7.10%,$291 ,0.011,80,76
+Cuba,The Americas,12/1/2001,6.30%,$178 ,0.006,79,75
+Curacao,The Americas,12/1/2001,0,0,0,0,0
+Dominica,The Americas,12/1/2001,5.00%,$236 ,0.013,0,0
+Dominican Republic,The Americas,12/1/2001,6.20%,$173 ,0.032,74,68
+Ecuador,The Americas,12/1/2001,4.00%,$77 ,0.027,77,71
+El Salvador,The Americas,12/1/2001,8.00%,$184 ,0.025,75,65
+Greenland,The Americas,12/1/2001,0,0,0,70,65
+Grenada,The Americas,12/1/2001,7.60%,$392 ,0.013,73,68
+Guatemala,The Americas,12/1/2001,6.40%,$105 ,0.039,72,65
+Guyana,The Americas,12/1/2001,5.80%,$54 ,0.038,67,60
+Haiti,The Americas,12/1/2001,5.60%,$23 ,0.073,59,56
+Honduras,The Americas,12/1/2001,6.90%,$83 ,0.03,73,68
+Jamaica,The Americas,12/1/2001,5.10%,$178 ,0.02,74,68
+Mexico,The Americas,12/1/2001,5.40%,$373 ,0.02,77,72
+Nicaragua,The Americas,12/1/2001,5.30%,$54 ,0.031,73,67
+Panama,The Americas,12/1/2001,7.70%,$293 ,0.021,78,73
+Paraguay,The Americas,12/1/2001,7.60%,$107 ,0.027,73,68
+Peru,The Americas,12/1/2001,4.70%,$96 ,0.028,74,68
+Puerto Rico,The Americas,12/1/2001,0,0,0,81,73
+Sint Maarten (Dutch part),The Americas,12/1/2001,0,0,0,0,0
+St. Kitts and Nevis,The Americas,12/1/2001,3.80%,$378 ,0.013,0,0
+St. Lucia,The Americas,12/1/2001,6.20%,$278 ,0.015,74,70
+St. Martin (French part),The Americas,12/1/2001,0,0,0,81,74
+St. Vincent and the Grenadines,The Americas,12/1/2001,3.60%,$145 ,0.019,73,68
+Suriname,The Americas,12/1/2001,8.40%,$136 ,0.029,72,65
+Trinidad and Tobago,The Americas,12/1/2001,4.40%,$305 ,0.025,72,65
+Turks and Caicos Islands,The Americas,12/1/2001,0,0,0,0,0
+United States,The Americas,12/1/2001,14.20%,"$5,138 ",0.007,79,74
+Uruguay,The Americas,12/1/2001,11.20%,$703 ,0.014,79,71
+Venezuela,The Americas,12/1/2001,6.00%,$295 ,0.018,76,70
+Algeria,Africa,12/1/2002,3.70%,$65 ,0.032,71,68
+Angola,Africa,12/1/2002,4.40%,$33 ,0.126,48,45
+Benin,Africa,12/1/2002,4.30%,$16 ,0.085,58,54
+Botswana,Africa,12/1/2002,5.70%,$193 ,0.054,49,48
+Burkina Faso,Africa,12/1/2002,5.00%,$13 ,0.094,52,50
+Burundi,Africa,12/1/2002,7.10%,$6 ,0.086,50,48
+Cameroon,Africa,12/1/2002,4.80%,$31 ,0.087,53,51
+Central African Republic,Africa,12/1/2002,4.20%,$11 ,0.113,46,42
+Chad,Africa,12/1/2002,8.00%,$18 ,0.104,48,46
+Comoros,Africa,12/1/2002,3.40%,$15 ,0.072,60,57
+Congo (Kinshasa),Africa,12/1/2002,4.20%,$5 ,0.113,48,46
+Congo (Brazzaville),Africa,12/1/2002,2.50%,$23 ,0.073,54,52
+Cote d'Ivoire,Africa,12/1/2002,4.70%,$33 ,0.096,47,46
+Djibouti,Africa,12/1/2002,5.40%,$42 ,0.076,59,56
+Egypt,Africa,12/1/2002,6.10%,$74 ,0.031,71,67
+Equatorial Guinea,Africa,12/1/2002,1.80%,$71 ,0.094,49,47
+Eritrea,Africa,12/1/2002,4.00%,$6 ,0.054,59,55
+Ethiopia,Africa,12/1/2002,4.70%,$5 ,0.083,55,53
+Gabon,Africa,12/1/2002,3.70%,$142 ,0.054,61,58
+"Gambia, The",Africa,12/1/2002,3.80%,$17 ,0.061,57,55
+Ghana,Africa,12/1/2002,4.80%,$15 ,0.062,58,57
+Guinea,Africa,12/1/2002,6.10%,$20 ,0.095,51,51
+Guinea-Bissau,Africa,12/1/2002,5.80%,$17 ,0.104,53,51
+Kenya,Africa,12/1/2002,4.50%,$18 ,0.066,54,52
+Lesotho,Africa,12/1/2002,6.90%,$24 ,0.082,45,44
+Liberia,Africa,12/1/2002,5.40%,$9 ,0.104,54,52
+Libya,Africa,12/1/2002,4.90%,$185 ,0.023,74,71
+Madagascar,Africa,12/1/2002,5.20%,$14 ,0.064,61,59
+Malawi,Africa,12/1/2002,4.80%,$11 ,0.09,47,47
+Mali,Africa,12/1/2002,6.30%,$19 ,0.109,50,50
+Mauritania,Africa,12/1/2002,6.00%,$24 ,0.076,61,58
+Mauritius,Africa,12/1/2002,4.20%,$168 ,0.014,76,69
+Morocco,Africa,12/1/2002,5.30%,$73 ,0.04,70,67
+Mozambique,Africa,12/1/2002,6.40%,$14 ,0.104,49,46
+Namibia,Africa,12/1/2002,6.20%,$106 ,0.049,56,52
+Niger,Africa,12/1/2002,7.00%,$12 ,0.094,52,52
+Nigeria,Africa,12/1/2002,3.90%,$18 ,0.106,48,47
+Rwanda,Africa,12/1/2002,4.20%,$8 ,0.092,51,50
+Sao Tome and Principe,Africa,12/1/2002,10.60%,$59 ,0.054,66,62
+Senegal,Africa,12/1/2002,5.10%,$26 ,0.065,60,57
+Seychelles,Africa,12/1/2002,4.40%,$371 ,0.012,77,69
+Sierra Leone,Africa,12/1/2002,16.00%,$44 ,0.136,40,39
+Somalia,Africa,12/1/2002,0,0,0.105,53,50
+South Africa,Africa,12/1/2002,8.50%,$205 ,0.053,55,52
+South Sudan,Africa,12/1/2002,0,0,0.1,51,49
+Sudan,Africa,12/1/2002,3.60%,$18 ,0.066,61,57
+Swaziland,Africa,12/1/2002,5.20%,$58 ,0.082,47,46
+Tanzania,Africa,12/1/2002,3.40%,$10 ,0.071,52,51
+Togo,Africa,12/1/2002,5.00%,$14 ,0.073,55,53
+Tunisia,Africa,12/1/2002,5.30%,$128 ,0.023,75,71
+Uganda,Africa,12/1/2002,7.50%,$18 ,0.081,50,50
+Zambia,Africa,12/1/2002,6.70%,$24 ,0.091,44,43
+Zimbabwe,Africa,12/1/2002,0,0,0.059,43,43
+Afghanistan,Asia,12/1/2002,8.90%,$14 ,0.091,57,55
+Armenia,Asia,12/1/2002,5.40%,$42 ,0.024,76,69
+Azerbaijan,Asia,12/1/2002,4.50%,$34 ,0.053,70,65
+Bangladesh,Asia,12/1/2002,3.10%,$11 ,0.059,67,66
+Bhutan,Asia,12/1/2002,7.90%,$71 ,0.053,62,62
+Brunei,Asia,12/1/2002,3.10%,$526 ,0.008,78,75
+Cambodia,Asia,12/1/2002,6.40%,$22 ,0.069,67,61
+China,Asia,12/1/2002,4.80%,$54 ,0.026,74,72
+Georgia,Asia,12/1/2002,8.70%,$64 ,0.028,76,69
+Hong Kong SAR,Asia,12/1/2002,0,0,0,85,79
+India,Asia,12/1/2002,4.40%,$21 ,0.062,64,62
+Indonesia,Asia,12/1/2002,2.20%,$20 ,0.038,70,66
+Japan,Asia,12/1/2002,7.90%,"$2,455 ",0.003,85,78
+Kazakhstan,Asia,12/1/2002,3.60%,$61 ,0.034,72,61
+North Korea,Asia,12/1/2002,0,0,0.034,70,63
+South Korea,Asia,12/1/2002,4.80%,$581 ,0.006,80,73
+Kyrgyzstan,Asia,12/1/2002,5.40%,$17 ,0.039,72,64
+Laos,Asia,12/1/2002,4.00%,$13 ,0.078,64,62
+Macao SAR,Asia,12/1/2002,0,0,0,80,76
+Malaysia,Asia,12/1/2002,3.30%,$138 ,0.008,75,71
+Maldives,Asia,12/1/2002,5.20%,$152 ,0.028,73,70
+Mongolia,Asia,12/1/2002,4.80%,$28 ,0.044,67,61
+Myanmar,Asia,12/1/2002,2.40%,$3 ,0.056,65,61
+Nepal,Asia,12/1/2002,5.60%,$14 ,0.054,64,62
+Pakistan,Asia,12/1/2002,3.00%,$15 ,0.085,65,64
+Philippines,Asia,12/1/2002,2.80%,$28 ,0.029,70,64
+Singapore,Asia,12/1/2002,2.90%,$632 ,0.003,81,77
+Sri Lanka,Asia,12/1/2002,3.90%,$34 ,0.013,76,69
+Tajikistan,Asia,12/1/2002,4.50%,$9 ,0.066,68,61
+Thailand,Asia,12/1/2002,3.70%,$74 ,0.018,75,68
+Timor-Leste,Asia,12/1/2002,6.10%,$19 ,0.076,63,60
+Turkmenistan,Asia,12/1/2002,3.30%,$63 ,0.063,68,60
+Uzbekistan,Asia,12/1/2002,5.40%,$21 ,0.05,70,64
+Vietnam,Asia,12/1/2002,5.10%,$22 ,0.026,79,69
+Albania,Europe,12/1/2002,6.50%,$89 ,0.021,78,72
+Andorra,Europe,12/1/2002,5.80%,"$1,486 ",0.004,0,0
+Austria,Europe,12/1/2002,10.10%,"$2,599 ",0.004,82,76
+Belarus,Europe,12/1/2002,6.50%,$96 ,0.009,74,62
+Belgium,Europe,12/1/2002,8.50%,"$2,075 ",0.004,81,75
+Bosnia and Herzegovina,Europe,12/1/2002,7.10%,$122 ,0.007,77,73
+Bulgaria,Europe,12/1/2002,7.60%,$154 ,0.016,75,69
+Croatia,Europe,12/1/2002,6.30%,$375 ,0.007,78,71
+Cyprus,Europe,12/1/2002,6.10%,$882 ,0.005,80,76
+Czech Republic,Europe,12/1/2002,6.80%,$522 ,0.005,79,72
+Denmark,Europe,12/1/2002,9.30%,"$3,023 ",0.004,79,75
+Estonia,Europe,12/1/2002,4.80%,$256 ,0.008,77,65
+Faeroe Islands,Europe,12/1/2002,0,0,0,82,77
+Finland,Europe,12/1/2002,7.80%,"$2,032 ",0.003,82,75
+France,Europe,12/1/2002,10.60%,"$2,497 ",0.004,83,76
+Germany,Europe,12/1/2002,10.70%,"$2,610 ",0.004,81,75
+Greece,Europe,12/1/2002,9.10%,"$1,223 ",0.006,81,76
+Hungary,Europe,12/1/2002,7.60%,$495 ,0.009,77,68
+Iceland,Europe,12/1/2002,10.20%,"$3,156 ",0.003,83,79
+Ireland,Europe,12/1/2002,7.00%,"$2,221 ",0.005,80,75
+Isle of Man,Europe,12/1/2002,0,0,0,82,75
+Italy,Europe,12/1/2002,8.20%,"$1,761 ",0.004,83,77
+Kosovo,Europe,12/1/2002,0,0,0,70,66
+Latvia,Europe,12/1/2002,6.30%,$248 ,0.013,77,65
+Liechtenstein,Europe,12/1/2002,0,0,0,82,77
+Lithuania,Europe,12/1/2002,6.40%,$263 ,0.009,78,66
+Luxembourg,Europe,12/1/2002,8.30%,"$4,202 ",0.003,82,75
+North Macedonia,Europe,12/1/2002,9.30%,$170 ,0.013,76,71
+Malta,Europe,12/1/2002,7.90%,$839 ,0.006,81,76
+Moldova,Europe,12/1/2002,8.10%,$37 ,0.023,71,63
+Monaco,Europe,12/1/2002,3.40%,"$2,985 ",0.004,0,0
+Montenegro,Europe,12/1/2002,8.60%,$180 ,0.011,77,71
+Netherlands,Europe,12/1/2002,8.90%,"$2,411 ",0.005,81,76
+Norway,Europe,12/1/2002,10.40%,"$4,418 ",0.004,82,77
+Poland,Europe,12/1/2002,6.30%,$328 ,0.007,79,70
+Portugal,Europe,12/1/2002,9.30%,"$1,190 ",0.005,81,74
+Romania,Europe,12/1/2002,4.60%,$97 ,0.022,75,67
+Russia,Europe,12/1/2002,6.00%,$142 ,0.018,72,59
+San Marino,Europe,12/1/2002,6.50%,"$2,894 ",0.004,85,78
+Serbia,Europe,12/1/2002,8.90%,$179 ,0.01,75,70
+Slovakia,Europe,12/1/2002,5.60%,$256 ,0.009,78,70
+Slovenia,Europe,12/1/2002,8.60%,"$1,000 ",0.004,80,72
+Spain,Europe,12/1/2002,7.30%,"$1,215 ",0.005,83,76
+Sweden,Europe,12/1/2002,9.20%,"$2,599 ",0.003,82,78
+Switzerland,Europe,12/1/2002,10.60%,"$4,190 ",0.005,83,78
+Turkey,Europe,12/1/2002,5.40%,$180 ,0.03,75,68
+Ukraine,Europe,12/1/2002,6.30%,$55 ,0.014,74,63
+United Kingdom,Europe,12/1/2002,7.60%,"$2,065 ",0.005,81,76
+Bahrain,Middle East,12/1/2002,3.90%,$510 ,0.01,76,74
+Iran,Middle East,12/1/2002,5.10%,$102 ,0.026,72,69
+Iraq,Middle East,12/1/2002,1.40%,$9 ,0.035,73,68
+Israel,Middle East,12/1/2002,7.80%,"$1,334 ",0.005,82,78
+Jordan,Middle East,12/1/2002,9.70%,$189 ,0.022,74,71
+Kuwait,Middle East,12/1/2002,3.60%,$661 ,0.011,74,73
+Lebanon,Middle East,12/1/2002,10.00%,$546 ,0.015,77,74
+Oman,Middle East,12/1/2002,3.20%,$278 ,0.013,75,71
+Qatar,Middle East,12/1/2002,2.70%,$833 ,0.01,78,76
+Saudi Arabia,Middle East,12/1/2002,4.30%,$375 ,0.018,75,71
+Syria,Middle East,12/1/2002,4.90%,$57 ,0.018,76,72
+United Arab Emirates,Middle East,12/1/2002,2.70%,$917 ,0.009,76,74
+Yemen,Middle East,12/1/2002,4.20%,$27 ,0.064,62,60
+American Samoa,Oceania,12/1/2002,0,0,0,0,0
+Australia,Oceania,12/1/2002,8.40%,"$1,847 ",0.005,83,77
+Fiji,Oceania,12/1/2002,3.50%,$79 ,0.02,71,65
+French Polynesia,Oceania,12/1/2002,0,0,0,76,70
+Guam,Oceania,12/1/2002,0,0,0,78,73
+Kiribati,Oceania,12/1/2002,8.80%,$76 ,0.052,68,63
+Marshall Islands,Oceania,12/1/2002,18.20%,$418 ,0.033,0,0
+"Micronesia, Fed. Sts.",Oceania,12/1/2002,7.90%,$178 ,0.04,68,67
+New Caledonia,Oceania,12/1/2002,0,0,0,79,71
+New Zealand,Oceania,12/1/2002,8.00%,"$1,244 ",0.006,81,77
+Papua New Guinea,Oceania,12/1/2002,4.60%,$24 ,0.057,62,57
+Samoa,Oceania,12/1/2002,5.50%,$83 ,0.018,73,67
+Solomon Islands,Oceania,12/1/2002,6.10%,$48 ,0.029,66,63
+Tonga,Oceania,12/1/2002,5.00%,$92 ,0.015,73,69
+Vanuatu,Oceania,12/1/2002,3.80%,$52 ,0.019,70,67
+Antigua and Barbuda,The Americas,12/1/2002,4.30%,$433 ,0.012,76,71
+Argentina,The Americas,12/1/2002,8.30%,$225 ,0.017,78,71
+Aruba,The Americas,12/1/2002,0,0,0,76,71
+"Bahamas, The",The Americas,12/1/2002,5.30%,"$1,183 ",0.013,76,70
+Barbados,The Americas,12/1/2002,7.40%,$677 ,0.015,76,71
+Belize,The Americas,12/1/2002,4.40%,$162 ,0.02,75,68
+Bermuda,The Americas,12/1/2002,0,0,0,81,76
+Bolivia,The Americas,12/1/2002,6.50%,$58 ,0.052,66,62
+Brazil,The Americas,12/1/2002,7.20%,$203 ,0.025,75,67
+Canada,The Americas,12/1/2002,9.60%,"$2,254 ",0.005,82,77
+Cayman Islands,The Americas,12/1/2002,0,0,0,0,0
+Chile,The Americas,12/1/2002,7.50%,$331 ,0.008,81,75
+Colombia,The Americas,12/1/2002,5.70%,$135 ,0.02,75,68
+Costa Rica,The Americas,12/1/2002,8.00%,$332 ,0.01,80,76
+Cuba,The Americas,12/1/2002,6.50%,$195 ,0.006,79,75
+Curacao,The Americas,12/1/2002,0,0,0,0,0
+Dominica,The Americas,12/1/2002,5.10%,$237 ,0.013,79,75
+Dominican Republic,The Americas,12/1/2002,6.30%,$176 ,0.032,74,68
+Ecuador,The Americas,12/1/2002,4.80%,$105 ,0.026,77,71
+El Salvador,The Americas,12/1/2002,7.70%,$184 ,0.024,75,65
+Greenland,The Americas,12/1/2002,0,0,0,71,65
+Grenada,The Americas,12/1/2002,6.60%,$353 ,0.013,73,68
+Guatemala,The Americas,12/1/2002,6.20%,$110 ,0.037,72,65
+Guyana,The Americas,12/1/2002,5.80%,$56 ,0.037,67,60
+Haiti,The Americas,12/1/2002,5.50%,$20 ,0.071,60,56
+Honduras,The Americas,12/1/2002,7.30%,$88 ,0.029,73,69
+Jamaica,The Americas,12/1/2002,4.90%,$180 ,0.019,74,68
+Mexico,The Americas,12/1/2002,5.60%,$396 ,0.019,77,72
+Nicaragua,The Americas,12/1/2002,5.70%,$57 ,0.03,74,68
+Panama,The Americas,12/1/2002,8.00%,$310 ,0.021,78,73
+Paraguay,The Americas,12/1/2002,7.00%,$79 ,0.026,73,69
+Peru,The Americas,12/1/2002,4.80%,$102 ,0.026,74,69
+Puerto Rico,The Americas,12/1/2002,0,0,0,82,74
+Sint Maarten (Dutch part),The Americas,12/1/2002,0,0,0,0,0
+St. Kitts and Nevis,The Americas,12/1/2002,3.70%,$374 ,0.012,74,69
+St. Lucia,The Americas,12/1/2002,6.40%,$289 ,0.015,74,70
+St. Martin (French part),The Americas,12/1/2002,0,0,0,81,74
+St. Vincent and the Grenadines,The Americas,12/1/2002,3.90%,$168 ,0.019,73,68
+Suriname,The Americas,12/1/2002,7.10%,$161 ,0.029,72,65
+Trinidad and Tobago,The Americas,12/1/2002,5.00%,$352 ,0.025,73,65
+Turks and Caicos Islands,The Americas,12/1/2002,0,0,0,0,0
+United States,The Americas,12/1/2002,15.10%,"$5,578 ",0.007,80,74
+Uruguay,The Americas,12/1/2002,11.00%,$449 ,0.014,79,71
+Venezuela,The Americas,12/1/2002,5.70%,$207 ,0.017,76,70
+Algeria,Africa,12/1/2003,3.60%,$74 ,0.031,71,68
+Angola,Africa,12/1/2003,4.90%,$45 ,0.125,49,46
+Benin,Africa,12/1/2003,4.60%,$21 ,0.082,58,55
+Botswana,Africa,12/1/2003,4.30%,$190 ,0.051,48,47
+Burkina Faso,Africa,12/1/2003,5.50%,$19 ,0.091,53,51
+Burundi,Africa,12/1/2003,7.20%,$6 ,0.082,50,48
+Cameroon,Africa,12/1/2003,4.90%,$39 ,0.084,53,51
+Central African Republic,Africa,12/1/2003,4.40%,$13 ,0.112,46,43
+Chad,Africa,12/1/2003,5.80%,$17 ,0.103,48,46
+Comoros,Africa,12/1/2003,3.60%,$21 ,0.072,60,57
+Congo (Kinshasa),Africa,12/1/2003,5.10%,$6 ,0.111,49,46
+Congo (Brazzaville),Africa,12/1/2003,2.60%,$27 ,0.07,54,52
+Cote d'Ivoire,Africa,12/1/2003,5.10%,$42 ,0.094,47,46
+Djibouti,Africa,12/1/2003,6.20%,$50 ,0.075,59,56
+Egypt,Africa,12/1/2003,5.60%,$56 ,0.029,72,67
+Equatorial Guinea,Africa,12/1/2003,2.00%,$101 ,0.092,49,47
+Eritrea,Africa,12/1/2003,3.20%,$6 ,0.051,60,55
+Ethiopia,Africa,12/1/2003,4.90%,$6 ,0.079,55,54
+Gabon,Africa,12/1/2003,3.80%,$174 ,0.053,61,58
+"Gambia, The",Africa,12/1/2003,4.20%,$15 ,0.059,57,55
+Ghana,Africa,12/1/2003,4.80%,$18 ,0.06,59,57
+Guinea,Africa,12/1/2003,4.90%,$18 ,0.092,52,52
+Guinea-Bissau,Africa,12/1/2003,5.80%,$20 ,0.101,53,51
+Kenya,Africa,12/1/2003,4.40%,$20 ,0.065,54,52
+Lesotho,Africa,12/1/2003,7.10%,$36 ,0.083,44,44
+Liberia,Africa,12/1/2003,3.40%,$5 ,0.097,54,53
+Libya,Africa,12/1/2003,4.10%,$194 ,0.022,75,71
+Madagascar,Africa,12/1/2003,4.80%,$15 ,0.061,62,59
+Malawi,Africa,12/1/2003,6.30%,$13 ,0.084,47,47
+Mali,Africa,12/1/2003,6.20%,$24 ,0.105,50,51
+Mauritania,Africa,12/1/2003,5.40%,$23 ,0.076,62,59
+Mauritius,Africa,12/1/2003,3.90%,$188 ,0.014,76,69
+Morocco,Africa,12/1/2003,5.30%,$88 ,0.038,70,67
+Mozambique,Africa,12/1/2003,6.40%,$15 ,0.099,49,46
+Namibia,Africa,12/1/2003,6.50%,$162 ,0.049,56,52
+Niger,Africa,12/1/2003,6.80%,$15 ,0.09,53,53
+Nigeria,Africa,12/1/2003,7.50%,$39 ,0.103,48,47
+Rwanda,Africa,12/1/2003,6.30%,$13 ,0.083,53,51
+Sao Tome and Principe,Africa,12/1/2003,11.80%,$78 ,0.052,66,62
+Senegal,Africa,12/1/2003,5.40%,$35 ,0.062,61,58
+Seychelles,Africa,12/1/2003,4.80%,$403 ,0.012,76,66
+Sierra Leone,Africa,12/1/2003,15.50%,$45 ,0.133,41,40
+Somalia,Africa,12/1/2003,0,0,0.105,53,50
+South Africa,Africa,12/1/2003,8.60%,$310 ,0.053,54,51
+South Sudan,Africa,12/1/2003,0,0,0.095,51,49
+Sudan,Africa,12/1/2003,3.80%,$23 ,0.064,61,57
+Swaziland,Africa,12/1/2003,5.80%,$98 ,0.082,46,46
+Tanzania,Africa,12/1/2003,3.70%,$12 ,0.066,53,51
+Togo,Africa,12/1/2003,5.60%,$18 ,0.072,55,53
+Tunisia,Africa,12/1/2003,5.40%,$151 ,0.022,75,71
+Uganda,Africa,12/1/2003,7.60%,$18 ,0.077,51,51
+Zambia,Africa,12/1/2003,6.70%,$27 ,0.086,45,44
+Zimbabwe,Africa,12/1/2003,0,0,0.058,42,43
+Afghanistan,Asia,12/1/2003,10.00%,$18 ,0.088,57,55
+Armenia,Asia,12/1/2003,5.60%,$51 ,0.023,76,69
+Azerbaijan,Asia,12/1/2003,6.60%,$57 ,0.05,71,65
+Bangladesh,Asia,12/1/2003,3.00%,$11 ,0.056,67,66
+Bhutan,Asia,12/1/2003,5.10%,$51 ,0.051,63,62
+Brunei,Asia,12/1/2003,3.10%,$575 ,0.008,79,75
+Cambodia,Asia,12/1/2003,7.30%,$26 ,0.063,68,62
+China,Asia,12/1/2003,4.80%,$61 ,0.024,75,72
+Georgia,Asia,12/1/2003,8.50%,$74 ,0.026,76,69
+Hong Kong SAR,Asia,12/1/2003,0,0,0,84,79
+India,Asia,12/1/2003,4.30%,$24 ,0.06,65,62
+Indonesia,Asia,12/1/2003,2.50%,$27 ,0.036,70,66
+Japan,Asia,12/1/2003,8.00%,"$2,693 ",0.003,85,78
+Kazakhstan,Asia,12/1/2003,3.70%,$77 ,0.032,72,61
+North Korea,Asia,12/1/2003,0,0,0.03,71,64
+South Korea,Asia,12/1/2003,5.20%,$695 ,0.005,81,74
+Kyrgyzstan,Asia,12/1/2003,5.40%,$21 ,0.037,72,65
+Laos,Asia,12/1/2003,4.90%,$18 ,0.075,65,62
+Macao SAR,Asia,12/1/2003,0,0,0,81,76
+Malaysia,Asia,12/1/2003,3.90%,$172 ,0.007,76,71
+Maldives,Asia,12/1/2003,6.00%,$199 ,0.025,74,71
+Mongolia,Asia,12/1/2003,7.40%,$48 ,0.042,68,61
+Myanmar,Asia,12/1/2003,2.30%,$4 ,0.054,65,61
+Nepal,Asia,12/1/2003,5.40%,$14 ,0.052,65,63
+Pakistan,Asia,12/1/2003,2.90%,$16 ,0.083,65,64
+Philippines,Asia,12/1/2003,3.20%,$33 ,0.029,71,64
+Singapore,Asia,12/1/2003,3.60%,$823 ,0.003,82,77
+Sri Lanka,Asia,12/1/2003,3.90%,$38 ,0.013,77,70
+Tajikistan,Asia,12/1/2003,4.50%,$11 ,0.061,69,61
+Thailand,Asia,12/1/2003,3.60%,$79 ,0.017,75,68
+Timor-Leste,Asia,12/1/2003,7.50%,$24 ,0.072,63,60
+Turkmenistan,Asia,12/1/2003,3.80%,$95 ,0.062,68,60
+Uzbekistan,Asia,12/1/2003,5.20%,$20 ,0.049,71,64
+Vietnam,Asia,12/1/2003,5.20%,$25 ,0.025,79,70
+Albania,Europe,12/1/2003,6.20%,$108 ,0.02,79,72
+Andorra,Europe,12/1/2003,5.80%,"$1,891 ",0.003,0,0
+Austria,Europe,12/1/2003,10.30%,"$3,223 ",0.004,82,76
+Belarus,Europe,12/1/2003,6.60%,$120 ,0.009,75,63
+Belgium,Europe,12/1/2003,10.00%,"$3,000 ",0.004,81,75
+Bosnia and Herzegovina,Europe,12/1/2003,8.00%,$174 ,0.007,78,73
+Bulgaria,Europe,12/1/2003,7.60%,$201 ,0.016,76,69
+Croatia,Europe,12/1/2003,6.40%,$495 ,0.006,78,71
+Cyprus,Europe,12/1/2003,6.80%,"$1,235 ",0.005,81,76
+Czech Republic,Europe,12/1/2003,7.10%,$666 ,0.005,79,72
+Denmark,Europe,12/1/2003,9.50%,"$3,756 ",0.004,80,75
+Estonia,Europe,12/1/2003,4.90%,$352 ,0.007,77,66
+Faeroe Islands,Europe,12/1/2003,0,0,0,82,77
+Finland,Europe,12/1/2003,8.20%,"$2,572 ",0.003,82,75
+France,Europe,12/1/2003,10.80%,"$3,137 ",0.004,83,76
+Germany,Europe,12/1/2003,10.90%,"$3,206 ",0.004,81,76
+Greece,Europe,12/1/2003,8.90%,"$1,579 ",0.006,81,77
+Hungary,Europe,12/1/2003,8.60%,$706 ,0.008,77,68
+Iceland,Europe,12/1/2003,10.60%,"$4,020 ",0.003,83,80
+Ireland,Europe,12/1/2003,7.30%,"$2,918 ",0.005,81,76
+Isle of Man,Europe,12/1/2003,0,0,0,0,0
+Italy,Europe,12/1/2003,8.20%,"$2,157 ",0.004,83,77
+Kosovo,Europe,12/1/2003,0,0,0,71,66
+Latvia,Europe,12/1/2003,6.20%,$295 ,0.012,77,66
+Liechtenstein,Europe,12/1/2003,0,0,0,82,78
+Lithuania,Europe,12/1/2003,6.50%,$351 ,0.009,78,67
+Luxembourg,Europe,12/1/2003,7.70%,"$4,984 ",0.003,81,75
+North Macedonia,Europe,12/1/2003,9.30%,$212 ,0.013,76,71
+Malta,Europe,12/1/2003,8.20%,"$1,074 ",0.006,81,76
+Moldova,Europe,12/1/2003,8.30%,$46 ,0.021,72,64
+Monaco,Europe,12/1/2003,3.90%,"$4,216 ",0.004,0,0
+Montenegro,Europe,12/1/2003,9.10%,$254 ,0.011,76,71
+Netherlands,Europe,12/1/2003,9.80%,"$3,249 ",0.005,81,76
+Norway,Europe,12/1/2003,10.60%,"$5,220 ",0.004,82,77
+Poland,Europe,12/1/2003,6.20%,$354 ,0.007,79,71
+Portugal,Europe,12/1/2003,9.70%,"$1,514 ",0.004,81,74
+Romania,Europe,12/1/2003,5.30%,$146 ,0.021,75,68
+Russia,Europe,12/1/2003,5.60%,$167 ,0.017,72,59
+San Marino,Europe,12/1/2003,5.10%,"$2,837 ",0.004,85,78
+Serbia,Europe,12/1/2003,8.80%,$171 ,0.009,75,70
+Slovakia,Europe,12/1/2003,5.80%,$360 ,0.009,78,70
+Slovenia,Europe,12/1/2003,8.60%,"$1,263 ",0.004,81,73
+Spain,Europe,12/1/2003,8.20%,"$1,730 ",0.005,83,76
+Sweden,Europe,12/1/2003,9.30%,"$3,277 ",0.003,82,78
+Switzerland,Europe,12/1/2003,10.90%,"$5,002 ",0.004,83,78
+Turkey,Europe,12/1/2003,5.30%,$232 ,0.029,75,68
+Ukraine,Europe,12/1/2003,6.90%,$73 ,0.014,74,63
+United Kingdom,Europe,12/1/2003,7.80%,"$2,444 ",0.005,81,76
+Bahrain,Middle East,12/1/2003,3.70%,$536 ,0.01,76,74
+Iran,Middle East,12/1/2003,4.70%,$97 ,0.024,72,70
+Iraq,Middle East,12/1/2003,4.40%,$16 ,0.034,73,68
+Israel,Middle East,12/1/2003,7.70%,"$1,364 ",0.005,82,78
+Jordan,Middle East,12/1/2003,9.20%,$187 ,0.022,74,71
+Kuwait,Middle East,12/1/2003,3.20%,$728 ,0.01,75,73
+Lebanon,Middle East,12/1/2003,9.30%,$498 ,0.014,78,74
+Oman,Middle East,12/1/2003,3.20%,$294 ,0.012,76,72
+Qatar,Middle East,12/1/2003,4.10%,"$1,476 ",0.01,78,76
+Saudi Arabia,Middle East,12/1/2003,4.00%,$384 ,0.018,75,72
+Syria,Middle East,12/1/2003,5.10%,$60 ,0.018,76,72
+United Arab Emirates,Middle East,12/1/2003,2.60%,$968 ,0.009,76,74
+Yemen,Middle East,12/1/2003,5.00%,$35 ,0.061,63,60
+American Samoa,Oceania,12/1/2003,0,0,0,0,0
+Australia,Oceania,12/1/2003,8.30%,"$2,323 ",0.005,83,78
+Fiji,Oceania,12/1/2003,3.40%,$95 ,0.02,71,66
+French Polynesia,Oceania,12/1/2003,0,0,0,76,71
+Guam,Oceania,12/1/2003,0,0,0,79,74
+Kiribati,Oceania,12/1/2003,9.60%,$103 ,0.051,69,63
+Marshall Islands,Oceania,12/1/2003,17.30%,$411 ,0.033,0,0
+"Micronesia, Fed. Sts.",Oceania,12/1/2003,9.50%,$218 ,0.039,68,67
+New Caledonia,Oceania,12/1/2003,0,0,0,79,72
+New Zealand,Oceania,12/1/2003,7.90%,"$1,602 ",0.006,81,77
+Papua New Guinea,Oceania,12/1/2003,4.10%,$25 ,0.057,62,58
+Samoa,Oceania,12/1/2003,5.10%,$93 ,0.017,74,67
+Solomon Islands,Oceania,12/1/2003,6.00%,$45 ,0.029,66,63
+Tonga,Oceania,12/1/2003,5.10%,$106 ,0.014,74,69
+Vanuatu,Oceania,12/1/2003,3.70%,$58 ,0.018,71,67
+Antigua and Barbuda,The Americas,12/1/2003,4.40%,$457 ,0.012,77,72
+Argentina,The Americas,12/1/2003,8.20%,$280 ,0.017,78,71
+Aruba,The Americas,12/1/2003,0,0,0,76,72
+"Bahamas, The",The Americas,12/1/2003,5.60%,"$1,237 ",0.013,76,70
+Barbados,The Americas,12/1/2003,7.10%,$702 ,0.015,76,71
+Belize,The Americas,12/1/2003,4.50%,$174 ,0.019,75,68
+Bermuda,The Americas,12/1/2003,0,0,0,81,76
+Bolivia,The Americas,12/1/2003,5.60%,$50 ,0.049,66,62
+Brazil,The Americas,12/1/2003,7.00%,$214 ,0.024,75,67
+Canada,The Americas,12/1/2003,9.80%,"$2,680 ",0.005,82,77
+Cayman Islands,The Americas,12/1/2003,0,0,0,0,0
+Chile,The Americas,12/1/2003,7.10%,$338 ,0.008,81,75
+Colombia,The Americas,12/1/2003,5.90%,$134 ,0.02,76,68
+Costa Rica,The Americas,12/1/2003,8.10%,$343 ,0.009,81,76
+Cuba,The Americas,12/1/2003,6.30%,$202 ,0.006,79,75
+Curacao,The Americas,12/1/2003,0,0,0,0,0
+Dominica,The Americas,12/1/2003,4.90%,$240 ,0.013,0,0
+Dominican Republic,The Americas,12/1/2003,6.50%,$143 ,0.031,74,68
+Ecuador,The Americas,12/1/2003,6.70%,$164 ,0.026,77,71
+El Salvador,The Americas,12/1/2003,7.30%,$182 ,0.023,75,66
+Greenland,The Americas,12/1/2003,0,0,0,71,66
+Grenada,The Americas,12/1/2003,6.20%,$359 ,0.013,73,69
+Guatemala,The Americas,12/1/2003,6.40%,$116 ,0.036,73,66
+Guyana,The Americas,12/1/2003,5.60%,$55 ,0.037,68,61
+Haiti,The Americas,12/1/2003,5.30%,$17 ,0.069,60,57
+Honduras,The Americas,12/1/2003,8.30%,$103 ,0.028,74,69
+Jamaica,The Americas,12/1/2003,4.60%,$162 ,0.019,74,68
+Mexico,The Americas,12/1/2003,5.80%,$397 ,0.018,78,73
+Nicaragua,The Americas,12/1/2003,6.10%,$61 ,0.029,74,68
+Panama,The Americas,12/1/2003,7.60%,$303 ,0.02,78,73
+Paraguay,The Americas,12/1/2003,6.10%,$71 ,0.025,73,69
+Peru,The Americas,12/1/2003,4.50%,$102 ,0.025,74,69
+Puerto Rico,The Americas,12/1/2003,0,0,0,82,74
+Sint Maarten (Dutch part),The Americas,12/1/2003,0,0,0,0,0
+St. Kitts and Nevis,The Americas,12/1/2003,3.70%,$359 ,0.012,0,0
+St. Lucia,The Americas,12/1/2003,6.20%,$299 ,0.015,74,70
+St. Martin (French part),The Americas,12/1/2003,0,0,0,81,74
+St. Vincent and the Grenadines,The Americas,12/1/2003,3.90%,$174 ,0.019,73,69
+Suriname,The Americas,12/1/2003,6.60%,$173 ,0.028,72,65
+Trinidad and Tobago,The Americas,12/1/2003,5.10%,$449 ,0.025,73,65
+Turks and Caicos Islands,The Americas,12/1/2003,0,0,0,0,0
+United States,The Americas,12/1/2003,15.60%,"$5,993 ",0.007,80,75
+Uruguay,The Americas,12/1/2003,9.70%,$351 ,0.013,79,72
+Venezuela,The Americas,12/1/2003,5.90%,$190 ,0.017,76,70
+Algeria,Africa,12/1/2004,3.50%,$90 ,0.03,71,68
+Angola,Africa,12/1/2004,5.10%,$63 ,0.123,49,47
+Benin,Africa,12/1/2004,4.60%,$23 ,0.078,58,55
+Botswana,Africa,12/1/2004,4.90%,$268 ,0.046,48,47
+Burkina Faso,Africa,12/1/2004,6.10%,$24 ,0.089,53,51
+Burundi,Africa,12/1/2004,9.70%,$9 ,0.079,51,48
+Cameroon,Africa,12/1/2004,4.60%,$41 ,0.081,53,51
+Central African Republic,Africa,12/1/2004,4.10%,$14 ,0.111,46,43
+Chad,Africa,12/1/2004,5.10%,$23 ,0.102,48,47
+Comoros,Africa,12/1/2004,4.00%,$25 ,0.071,60,57
+Congo (Kinshasa),Africa,12/1/2004,5.40%,$7 ,0.108,49,46
+Congo (Brazzaville),Africa,12/1/2004,2.60%,$34 ,0.066,55,52
+Cote d'Ivoire,Africa,12/1/2004,5.60%,$50 ,0.091,48,46
+Djibouti,Africa,12/1/2004,6.80%,$57 ,0.073,59,56
+Egypt,Africa,12/1/2004,5.30%,$57 ,0.027,72,67
+Equatorial Guinea,Africa,12/1/2004,2.10%,$191 ,0.089,50,47
+Eritrea,Africa,12/1/2004,2.90%,$7 ,0.049,60,56
+Ethiopia,Africa,12/1/2004,4.30%,$6 ,0.074,56,55
+Gabon,Africa,12/1/2004,3.40%,$180 ,0.052,61,59
+"Gambia, The",Africa,12/1/2004,4.40%,$18 ,0.058,58,55
+Ghana,Africa,12/1/2004,6.10%,$26 ,0.059,59,57
+Guinea,Africa,12/1/2004,5.30%,$20 ,0.088,52,52
+Guinea-Bissau,Africa,12/1/2004,5.30%,$20 ,0.099,53,51
+Kenya,Africa,12/1/2004,4.30%,$20 ,0.063,55,53
+Lesotho,Africa,12/1/2004,7.00%,$45 ,0.084,44,43
+Liberia,Africa,12/1/2004,8.80%,$13 ,0.09,55,53
+Libya,Africa,12/1/2004,3.50%,$205 ,0.021,75,72
+Madagascar,Africa,12/1/2004,4.90%,$12 ,0.058,62,59
+Malawi,Africa,12/1/2004,7.80%,$16 ,0.078,48,48
+Mali,Africa,12/1/2004,6.30%,$27 ,0.101,51,51
+Mauritania,Africa,12/1/2004,5.90%,$28 ,0.075,62,59
+Mauritius,Africa,12/1/2004,4.20%,$227 ,0.014,76,69
+Morocco,Africa,12/1/2004,5.20%,$99 ,0.037,71,67
+Mozambique,Africa,12/1/2004,5.90%,$16 ,0.095,49,46
+Namibia,Africa,12/1/2004,6.50%,$213 ,0.048,57,53
+Niger,Africa,12/1/2004,7.10%,$16 ,0.086,53,53
+Nigeria,Africa,12/1/2004,7.00%,$45 ,0.1,49,48
+Rwanda,Africa,12/1/2004,5.80%,$13 ,0.075,55,52
+Sao Tome and Principe,Africa,12/1/2004,11.00%,$79 ,0.05,66,62
+Senegal,Africa,12/1/2004,5.70%,$42 ,0.059,62,58
+Seychelles,Africa,12/1/2004,4.30%,$421 ,0.012,76,69
+Sierra Leone,Africa,12/1/2004,15.40%,$45 ,0.13,42,41
+Somalia,Africa,12/1/2004,0,0,0.105,54,51
+South Africa,Africa,12/1/2004,8.90%,$410 ,0.052,53,51
+South Sudan,Africa,12/1/2004,0,0,0.091,52,50
+Sudan,Africa,12/1/2004,4.10%,$29 ,0.063,61,58
+Swaziland,Africa,12/1/2004,5.90%,$130 ,0.082,46,46
+Tanzania,Africa,12/1/2004,3.40%,$12 ,0.061,53,52
+Togo,Africa,12/1/2004,5.90%,$21 ,0.07,55,53
+Tunisia,Africa,12/1/2004,5.60%,$179 ,0.021,75,71
+Uganda,Africa,12/1/2004,7.90%,$24 ,0.073,52,52
+Zambia,Africa,12/1/2004,6.70%,$33 ,0.081,46,45
+Zimbabwe,Africa,12/1/2004,0,0,0.058,43,44
+Afghanistan,Asia,12/1/2004,9.80%,$19 ,0.086,58,55
+Armenia,Asia,12/1/2004,5.50%,$65 ,0.022,76,70
+Azerbaijan,Asia,12/1/2004,7.90%,$81 ,0.047,71,66
+Bangladesh,Asia,12/1/2004,3.10%,$12 ,0.053,68,67
+Bhutan,Asia,12/1/2004,4.40%,$49 ,0.048,63,63
+Brunei,Asia,12/1/2004,3.00%,$658 ,0.008,79,75
+Cambodia,Asia,12/1/2004,7.10%,$29 ,0.057,69,63
+China,Asia,12/1/2004,4.70%,$70 ,0.022,75,73
+Georgia,Asia,12/1/2004,8.50%,$97 ,0.024,76,69
+Hong Kong SAR,Asia,12/1/2004,0,0,0,85,79
+India,Asia,12/1/2004,4.50%,$29 ,0.058,65,62
+Indonesia,Asia,12/1/2004,2.40%,$27 ,0.035,71,67
+Japan,Asia,12/1/2004,8.00%,"$2,914 ",0.003,86,79
+Kazakhstan,Asia,12/1/2004,4.00%,$114 ,0.03,72,60
+North Korea,Asia,12/1/2004,0,0,0.028,72,64
+South Korea,Asia,12/1/2004,5.20%,$784 ,0.005,81,75
+Kyrgyzstan,Asia,12/1/2004,5.60%,$25 ,0.036,72,64
+Laos,Asia,12/1/2004,4.60%,$19 ,0.073,65,63
+Macao SAR,Asia,12/1/2004,0,0,0,81,76
+Malaysia,Asia,12/1/2004,3.70%,$181 ,0.007,76,71
+Maldives,Asia,12/1/2004,5.90%,$217 ,0.022,75,72
+Mongolia,Asia,12/1/2004,7.00%,$56 ,0.039,69,61
+Myanmar,Asia,12/1/2004,2.30%,$5 ,0.052,65,61
+Nepal,Asia,12/1/2004,5.80%,$17 ,0.049,65,63
+Pakistan,Asia,12/1/2004,2.80%,$18 ,0.082,66,64
+Philippines,Asia,12/1/2004,3.20%,$35 ,0.028,71,64
+Singapore,Asia,12/1/2004,3.20%,$826 ,0.002,82,77
+Sri Lanka,Asia,12/1/2004,4.20%,$44 ,0.012,77,70
+Tajikistan,Asia,12/1/2004,4.30%,$13 ,0.058,69,62
+Thailand,Asia,12/1/2004,3.50%,$87 ,0.016,76,69
+Timor-Leste,Asia,12/1/2004,8.60%,$27 ,0.069,64,61
+Turkmenistan,Asia,12/1/2004,3.70%,$111 ,0.06,68,60
+Uzbekistan,Asia,12/1/2004,5.10%,$24 ,0.048,71,64
+Vietnam,Asia,12/1/2004,5.50%,$30 ,0.024,79,70
+Albania,Europe,12/1/2004,6.50%,$148 ,0.019,79,73
+Andorra,Europe,12/1/2004,5.70%,"$2,193 ",0.003,0,0
+Austria,Europe,12/1/2004,10.40%,"$3,720 ",0.004,82,76
+Belarus,Europe,12/1/2004,6.60%,$157 ,0.008,75,63
+Belgium,Europe,12/1/2004,10.00%,"$3,482 ",0.004,82,76
+Bosnia and Herzegovina,Europe,12/1/2004,9.00%,$236 ,0.007,78,73
+Bulgaria,Europe,12/1/2004,7.30%,$238 ,0.015,76,69
+Croatia,Europe,12/1/2004,6.60%,$614 ,0.006,79,72
+Cyprus,Europe,12/1/2004,6.40%,"$1,353 ",0.004,81,76
+Czech Republic,Europe,12/1/2004,6.90%,$771 ,0.005,79,73
+Denmark,Europe,12/1/2004,9.70%,"$4,387 ",0.004,80,75
+Estonia,Europe,12/1/2004,5.10%,$450 ,0.006,78,66
+Faeroe Islands,Europe,12/1/2004,0,0,0,82,77
+Finland,Europe,12/1/2004,8.20%,"$2,974 ",0.003,82,75
+France,Europe,12/1/2004,11.00%,"$3,620 ",0.004,84,77
+Germany,Europe,12/1/2004,10.70%,"$3,524 ",0.004,82,76
+Greece,Europe,12/1/2004,8.70%,"$1,809 ",0.005,82,77
+Hungary,Europe,12/1/2004,8.20%,$828 ,0.008,77,69
+Iceland,Europe,12/1/2004,10.00%,"$4,567 ",0.003,83,79
+Ireland,Europe,12/1/2004,7.50%,"$3,487 ",0.005,81,76
+Isle of Man,Europe,12/1/2004,0,0,0,0,0
+Italy,Europe,12/1/2004,8.50%,"$2,549 ",0.004,84,78
+Kosovo,Europe,12/1/2004,0,0,0,71,66
+Latvia,Europe,12/1/2004,6.50%,$387 ,0.012,77,67
+Liechtenstein,Europe,12/1/2004,0,0,0,85,79
+Lithuania,Europe,12/1/2004,5.70%,$374 ,0.008,78,66
+Luxembourg,Europe,12/1/2004,8.20%,"$6,145 ",0.003,82,76
+North Macedonia,Europe,12/1/2004,8.70%,$230 ,0.012,77,72
+Malta,Europe,12/1/2004,8.60%,"$1,247 ",0.006,81,77
+Moldova,Europe,12/1/2004,8.50%,$61 ,0.02,72,64
+Monaco,Europe,12/1/2004,4.00%,"$4,885 ",0.004,0,0
+Montenegro,Europe,12/1/2004,8.70%,$293 ,0.01,76,71
+Netherlands,Europe,12/1/2004,10.00%,"$3,739 ",0.005,81,77
+Norway,Europe,12/1/2004,10.10%,"$5,733 ",0.003,82,78
+Poland,Europe,12/1/2004,6.20%,$410 ,0.007,79,71
+Portugal,Europe,12/1/2004,10.00%,"$1,779 ",0.004,81,75
+Romania,Europe,12/1/2004,5.40%,$190 ,0.02,75,68
+Russia,Europe,12/1/2004,5.20%,$212 ,0.015,72,59
+San Marino,Europe,12/1/2004,5.30%,"$3,359 ",0.004,85,79
+Serbia,Europe,12/1/2004,8.70%,$204 ,0.008,75,70
+Slovakia,Europe,12/1/2004,7.20%,$565 ,0.009,78,70
+Slovenia,Europe,12/1/2004,8.30%,"$1,415 ",0.004,81,74
+Spain,Europe,12/1/2004,8.20%,"$2,028 ",0.005,83,77
+Sweden,Europe,12/1/2004,9.10%,"$3,666 ",0.003,83,78
+Switzerland,Europe,12/1/2004,11.00%,"$5,570 ",0.004,84,79
+Turkey,Europe,12/1/2004,5.40%,$297 ,0.027,76,69
+Ukraine,Europe,12/1/2004,6.60%,$90 ,0.013,74,63
+United Kingdom,Europe,12/1/2004,8.00%,"$2,955 ",0.005,81,77
+Bahrain,Middle East,12/1/2004,3.90%,$539 ,0.01,76,75
+Iran,Middle East,12/1/2004,4.70%,$117 ,0.023,73,70
+Iraq,Middle East,12/1/2004,5.60%,$55 ,0.034,72,67
+Israel,Middle East,12/1/2004,7.60%,"$1,410 ",0.005,82,78
+Jordan,Middle East,12/1/2004,9.10%,$203 ,0.021,74,71
+Kuwait,Middle East,12/1/2004,2.70%,$743 ,0.01,75,73
+Lebanon,Middle East,12/1/2004,8.20%,$458 ,0.013,78,75
+Oman,Middle East,12/1/2004,3.00%,$310 ,0.011,76,72
+Qatar,Middle East,12/1/2004,3.60%,"$1,589 ",0.009,78,76
+Saudi Arabia,Middle East,12/1/2004,3.70%,$399 ,0.017,76,72
+Syria,Middle East,12/1/2004,4.50%,$61 ,0.017,76,73
+United Arab Emirates,Middle East,12/1/2004,2.50%,$995 ,0.009,76,74
+Yemen,Middle East,12/1/2004,4.90%,$38 ,0.059,63,60
+American Samoa,Oceania,12/1/2004,0,0,0,0,0
+Australia,Oceania,12/1/2004,8.60%,"$2,872 ",0.005,83,78
+Fiji,Oceania,12/1/2004,3.60%,$120 ,0.02,71,66
+French Polynesia,Oceania,12/1/2004,0,0,0,77,71
+Guam,Oceania,12/1/2004,0,0,0,79,74
+Kiribati,Oceania,12/1/2004,10.40%,$119 ,0.05,69,63
+Marshall Islands,Oceania,12/1/2004,17.60%,$449 ,0.033,0,0
+"Micronesia, Fed. Sts.",Oceania,12/1/2004,10.40%,$233 ,0.038,68,67
+New Caledonia,Oceania,12/1/2004,0,0,0,79,72
+New Zealand,Oceania,12/1/2004,8.00%,"$1,974 ",0.006,82,78
+Papua New Guinea,Oceania,12/1/2004,4.60%,$30 ,0.056,62,58
+Samoa,Oceania,12/1/2004,4.90%,$106 ,0.017,74,68
+Solomon Islands,Oceania,12/1/2004,5.60%,$46 ,0.029,67,64
+Tonga,Oceania,12/1/2004,4.80%,$115 ,0.014,74,69
+Vanuatu,Oceania,12/1/2004,3.50%,$62 ,0.018,71,67
+Antigua and Barbuda,The Americas,12/1/2004,4.10%,$453 ,0.011,77,72
+Argentina,The Americas,12/1/2004,8.20%,$327 ,0.016,78,71
+Aruba,The Americas,12/1/2004,0,0,0,77,72
+"Bahamas, The",The Americas,12/1/2004,6.00%,"$1,326 ",0.013,77,70
+Barbados,The Americas,12/1/2004,7.10%,$737 ,0.015,76,71
+Belize,The Americas,12/1/2004,4.40%,$175 ,0.019,75,69
+Bermuda,The Americas,12/1/2004,0,0,0,81,76
+Bolivia,The Americas,12/1/2004,5.30%,$51 ,0.046,67,62
+Brazil,The Americas,12/1/2004,7.10%,$257 ,0.022,75,68
+Mauritius,Africa,12/1/2005,4.50%,$239 ,0.014,76,69
+Tunisia,Africa,12/1/2005,5.60%,$181 ,0.02,76,72
+Seychelles,Africa,12/1/2005,4.00%,$423 ,0.012,77,67
+Morocco,Africa,12/1/2005,5.10%,$100 ,0.035,71,67
+Algeria,Africa,12/1/2005,3.10%,$95 ,0.029,71,68
+South Africa,Africa,12/1/2005,8.80%,$450 ,0.051,53,50
+Libya,Africa,12/1/2005,2.60%,$213 ,0.02,75,72
+Egypt,Africa,12/1/2005,5.10%,$64 ,0.026,72,67
+Botswana,Africa,12/1/2005,5.60%,$298 ,0.043,47,46
+Lesotho,Africa,12/1/2005,6.30%,$45 ,0.085,44,44
+Namibia,Africa,12/1/2005,7.30%,$262 ,0.046,58,54
+Djibouti,Africa,12/1/2005,7.20%,$63 ,0.071,59,57
+Zimbabwe,Africa,12/1/2005,0,0,0.057,43,44
+Swaziland,Africa,12/1/2005,6.80%,$159 ,0.081,46,46
+Gabon,Africa,12/1/2005,3.00%,$187 ,0.05,61,59
+Ghana,Africa,12/1/2005,7.00%,$35 ,0.058,60,58
+Central African Republic,Africa,12/1/2005,4.40%,$15 ,0.111,47,43
+Cote d'Ivoire,Africa,12/1/2005,5.70%,$53 ,0.089,48,46
+Mauritania,Africa,12/1/2005,5.00%,$29 ,0.075,62,59
+Equatorial Guinea,Africa,12/1/2005,1.60%,$220 ,0.087,50,48
+Togo,Africa,12/1/2005,6.60%,$25 ,0.068,55,53
+Rwanda,Africa,12/1/2005,6.10%,$17 ,0.067,56,54
+Sudan,Africa,12/1/2005,4.10%,$35 ,0.061,62,58
+Madagascar,Africa,12/1/2005,4.90%,$13 ,0.055,63,60
+Sao Tome and Principe,Africa,12/1/2005,10.00%,$81 ,0.048,66,63
+Congo (Brazzaville),Africa,12/1/2005,2.40%,$42 ,0.062,55,53
+Kenya,Africa,12/1/2005,4.40%,$23 ,0.061,56,54
+Ethiopia,Africa,12/1/2005,4.10%,$7 ,0.07,58,56
+Comoros,Africa,12/1/2005,4.30%,$28 ,0.07,60,58
+Senegal,Africa,12/1/2005,5.40%,$41 ,0.057,62,59
+South Sudan,Africa,12/1/2005,0,0,0.087,52,50
+Cameroon,Africa,12/1/2005,4.90%,$45 ,0.078,53,51
+Guinea-Bissau,Africa,12/1/2005,5.70%,$24 ,0.096,53,51
+Guinea,Africa,12/1/2005,5.30%,$16 ,0.085,53,52
+Liberia,Africa,12/1/2005,8.00%,$13 ,0.083,56,54
+Benin,Africa,12/1/2005,4.70%,$25 ,0.075,59,56
+Eritrea,Africa,12/1/2005,2.80%,$6 ,0.047,61,56
+Sierra Leone,Africa,12/1/2005,15.90%,$51 ,0.128,42,42
+Nigeria,Africa,12/1/2005,6.60%,$53 ,0.097,49,48
+Malawi,Africa,12/1/2005,8.20%,$17 ,0.073,49,49
+Tanzania,Africa,12/1/2005,4.00%,$15 ,0.057,54,53
+Zambia,Africa,12/1/2005,7.10%,$44 ,0.076,48,47
+Mozambique,Africa,12/1/2005,6.90%,$22 ,0.091,49,47
+Burundi,Africa,12/1/2005,10.10%,$14 ,0.075,51,49
+"Gambia, The",Africa,12/1/2005,4.50%,$20 ,0.057,58,56
+Burkina Faso,Africa,12/1/2005,6.90%,$28 ,0.086,53,52
+Congo (Kinshasa),Africa,12/1/2005,5.30%,$7 ,0.105,49,46
+Somalia,Africa,12/1/2005,0,0,0.105,54,51
+Uganda,Africa,12/1/2005,9.20%,$29 ,0.068,53,52
+Mali,Africa,12/1/2005,6.30%,$29 ,0.097,51,52
+Angola,Africa,12/1/2005,4.20%,$71 ,0.122,50,47
+Chad,Africa,12/1/2005,4.70%,$25 ,0.101,48,47
+Niger,Africa,12/1/2005,7.70%,$20 ,0.082,54,54
+Mauritius,Africa,12/1/2006,4.80%,$269 ,0.014,76,69
+Seychelles,Africa,12/1/2006,3.80%,$438 ,0.012,76,69
+Tunisia,Africa,12/1/2006,5.60%,$194 ,0.019,76,72
+Morocco,Africa,12/1/2006,5.20%,$113 ,0.034,71,68
+Algeria,Africa,12/1/2006,3.10%,$106 ,0.028,72,68
+South Africa,Africa,12/1/2006,8.50%,$455 ,0.05,53,50
+Libya,Africa,12/1/2006,2.50%,$237 ,0.019,76,72
+Egypt,Africa,12/1/2006,5.20%,$75 ,0.024,72,67
+Botswana,Africa,12/1/2006,4.90%,$263 ,0.043,47,46
+Lesotho,Africa,12/1/2006,7.10%,$52 ,0.084,44,44
+Namibia,Africa,12/1/2006,7.20%,$280 ,0.044,60,55
+Djibouti,Africa,12/1/2006,7.10%,$66 ,0.069,60,57
+Swaziland,Africa,12/1/2006,6.80%,$180 ,0.076,46,46
+Zimbabwe,Africa,12/1/2006,0,0,0.057,44,46
+Gabon,Africa,12/1/2006,3.20%,$216 ,0.049,61,59
+Ghana,Africa,12/1/2006,5.40%,$48 ,0.057,60,58
+Cote d'Ivoire,Africa,12/1/2006,6.00%,$59 ,0.087,49,47
+Central African Republic,Africa,12/1/2006,4.00%,$15 ,0.109,47,44
+Sudan,Africa,12/1/2006,5.00%,$54 ,0.06,62,59
+Mauritania,Africa,12/1/2006,3.50%,$30 ,0.074,62,59
+Madagascar,Africa,12/1/2006,5.00%,$15 ,0.052,63,60
+Equatorial Guinea,Africa,12/1/2006,2.30%,$287 ,0.085,51,48
+Togo,Africa,12/1/2006,6.40%,$25 ,0.067,55,54
+Kenya,Africa,12/1/2006,4.50%,$28 ,0.059,57,55
+Rwanda,Africa,12/1/2006,10.00%,$32 ,0.061,58,56
+Ethiopia,Africa,12/1/2006,4.20%,$8 ,0.065,59,57
+Sao Tome and Principe,Africa,12/1/2006,7.80%,$68 ,0.046,67,63
+South Sudan,Africa,12/1/2006,0,0,0.083,53,50
+Congo (Brazzaville),Africa,12/1/2006,2.40%,$50 ,0.057,56,53
+Comoros,Africa,12/1/2006,4.60%,$30 ,0.069,61,58
+Senegal,Africa,12/1/2006,5.40%,$44 ,0.055,63,60
+Cameroon,Africa,12/1/2006,4.80%,$46 ,0.076,53,51
+Guinea-Bissau,Africa,12/1/2006,5.90%,$24 ,0.094,54,52
+Guinea,Africa,12/1/2006,5.50%,$16 ,0.082,54,53
+Liberia,Africa,12/1/2006,10.90%,$18 ,0.077,57,55
+Benin,Africa,12/1/2006,4.80%,$26 ,0.072,59,56
+Eritrea,Africa,12/1/2006,3.20%,$8 ,0.046,61,57
+Sierra Leone,Africa,12/1/2006,14.20%,$51 ,0.125,43,43
+Nigeria,Africa,12/1/2006,5.70%,$59 ,0.094,50,49
+Malawi,Africa,12/1/2006,9.00%,$21 ,0.068,50,50
+Tanzania,Africa,12/1/2006,6.50%,$23 ,0.054,56,54
+Mozambique,Africa,12/1/2006,6.50%,$21 ,0.087,49,47
+Zambia,Africa,12/1/2006,6.40%,$58 ,0.073,49,48
+Burundi,Africa,12/1/2006,11.60%,$18 ,0.072,52,49
+Burkina Faso,Africa,12/1/2006,7.40%,$28 ,0.083,54,52
+"Gambia, The",Africa,12/1/2006,4.70%,$21 ,0.056,58,56
+Congo (Kinshasa),Africa,12/1/2006,5.50%,$9 ,0.102,50,46
+Uganda,Africa,12/1/2006,9.60%,$32 ,0.064,54,53
+Somalia,Africa,12/1/2006,0,0,0.105,54,51
+Mali,Africa,12/1/2006,6.60%,$33 ,0.093,52,52
+Chad,Africa,12/1/2006,4.00%,$24 ,0.1,49,47
+Angola,Africa,12/1/2006,4.50%,$111 ,0.12,50,48
+Niger,Africa,12/1/2006,7.90%,$21 ,0.079,55,55
+Mauritius,Africa,12/1/2007,5.00%,$316 ,0.014,76,69
+Tunisia,Africa,12/1/2007,5.60%,$217 ,0.018,76,72
+Seychelles,Africa,12/1/2007,3.40%,$393 ,0.012,78,69
+Morocco,Africa,12/1/2007,5.50%,$134 ,0.033,71,68
+South Africa,Africa,12/1/2007,7.80%,$449 ,0.047,53,51
+Algeria,Africa,12/1/2007,3.50%,$135 ,0.026,72,69
+Libya,Africa,12/1/2007,2.50%,$276 ,0.017,76,72
+Egypt,Africa,12/1/2007,4.90%,$85 ,0.023,72,68
+Botswana,Africa,12/1/2007,4.70%,$269 ,0.043,46,46
+Lesotho,Africa,12/1/2007,8.50%,$69 ,0.082,45,45
+Namibia,Africa,12/1/2007,6.90%,$294 ,0.042,62,56
+Djibouti,Africa,12/1/2007,7.70%,$78 ,0.067,60,57
+Swaziland,Africa,12/1/2007,7.00%,$190 ,0.075,47,47
+Zimbabwe,Africa,12/1/2007,0,0,0.058,46,47
+Ghana,Africa,12/1/2007,6.00%,$66 ,0.057,61,59
+Gabon,Africa,12/1/2007,3.30%,$262 ,0.048,62,60
+Central African Republic,Africa,12/1/2007,4.30%,$18 ,0.108,48,45
+Cote d'Ivoire,Africa,12/1/2007,6.60%,$72 ,0.084,49,47
+Sudan,Africa,12/1/2007,6.20%,$85 ,0.059,62,59
+Mauritania,Africa,12/1/2007,4.40%,$37 ,0.073,62,59
+Ethiopia,Africa,12/1/2007,4.80%,$11 ,0.061,60,58
+Madagascar,Africa,12/1/2007,5.00%,$19 ,0.049,63,61
+Equatorial Guinea,Africa,12/1/2007,2.40%,$380 ,0.082,51,49
+Togo,Africa,12/1/2007,6.50%,$28 ,0.065,55,54
+Kenya,Africa,12/1/2007,4.40%,$32 ,0.058,58,55
+Rwanda,Africa,12/1/2007,10.00%,$38 ,0.055,60,57
+Sao Tome and Principe,Africa,12/1/2007,7.10%,$66 ,0.044,67,63
+South Sudan,Africa,12/1/2007,0,0,0.079,53,51
+Guinea,Africa,12/1/2007,6.30%,$26 ,0.079,55,53
+Congo (Brazzaville),Africa,12/1/2007,2.50%,$57 ,0.053,57,54
+Liberia,Africa,12/1/2007,10.20%,$21 ,0.072,58,56
+Benin,Africa,12/1/2007,4.50%,$29 ,0.069,59,57
+Comoros,Africa,12/1/2007,4.90%,$36 ,0.068,61,58
+Senegal,Africa,12/1/2007,4.70%,$45 ,0.052,63,60
+Sierra Leone,Africa,12/1/2007,14.00%,$56 ,0.122,44,43
+Cameroon,Africa,12/1/2007,4.70%,$50 ,0.073,53,52
+Guinea-Bissau,Africa,12/1/2007,6.10%,$29 ,0.091,54,52
+Eritrea,Africa,12/1/2007,3.30%,$8 ,0.044,62,57
+Nigeria,Africa,12/1/2007,7.20%,$81 ,0.091,50,49
+Malawi,Africa,12/1/2007,6.70%,$18 ,0.064,51,51
+Tanzania,Africa,12/1/2007,5.70%,$23 ,0.05,57,55
+Mozambique,Africa,12/1/2007,6.00%,$22 ,0.082,49,47
+Zambia,Africa,12/1/2007,6.00%,$57 ,0.07,51,49
+Burundi,Africa,12/1/2007,10.00%,$16 ,0.069,53,50
+Burkina Faso,Africa,12/1/2007,7.70%,$32 ,0.079,54,53
+"Gambia, The",Africa,12/1/2007,4.10%,$21 ,0.055,59,56
+Congo (Kinshasa),Africa,12/1/2007,5.90%,$10 ,0.1,50,47
+Somalia,Africa,12/1/2007,0,0,0.104,55,51
+Uganda,Africa,12/1/2007,9.40%,$37 ,0.061,55,54
+Angola,Africa,12/1/2007,3.40%,$115 ,0.117,51,48
+Mali,Africa,12/1/2007,7.00%,$39 ,0.09,52,53
+Chad,Africa,12/1/2007,4.20%,$27 ,0.099,49,48
+Niger,Africa,12/1/2007,7.40%,$22 ,0.075,55,55
+Mauritius,Africa,12/1/2008,4.60%,$362 ,0.014,76,69
+Seychelles,Africa,12/1/2008,2.70%,$289 ,0.012,79,68
+Tunisia,Africa,12/1/2008,5.60%,$246 ,0.017,76,72
+Morocco,Africa,12/1/2008,5.40%,$156 ,0.031,71,68
+South Africa,Africa,12/1/2008,8.00%,$437 ,0.046,54,51
+Libya,Africa,12/1/2008,2.20%,$318 ,0.016,76,73
+Egypt,Africa,12/1/2008,4.80%,$101 ,0.021,72,68
+Algeria,Africa,12/1/2008,3.80%,$183 ,0.025,72,69
+Botswana,Africa,12/1/2008,5.30%,$307 ,0.043,46,46
+Lesotho,Africa,12/1/2008,8.90%,$73 ,0.082,46,46
+Namibia,Africa,12/1/2008,6.90%,$287 ,0.041,63,57
+Djibouti,Africa,12/1/2008,8.00%,$92 ,0.066,61,58
+Swaziland,Africa,12/1/2008,8.20%,$214 ,0.074,47,48
+Zimbabwe,Africa,12/1/2008,0,0,0.058,49,49
+Ghana,Africa,12/1/2008,5.60%,$69 ,0.056,61,59
+Gabon,Africa,12/1/2008,2.70%,$283 ,0.046,62,60
+Central African Republic,Africa,12/1/2008,4.30%,$20 ,0.107,48,45
+Cote d'Ivoire,Africa,12/1/2008,6.50%,$83 ,0.082,50,48
+Ethiopia,Africa,12/1/2008,4.30%,$14 ,0.057,61,59
+Mauritania,Africa,12/1/2008,4.30%,$46 ,0.072,62,59
+Sudan,Africa,12/1/2008,7.50%,$118 ,0.058,63,59
+Madagascar,Africa,12/1/2008,4.30%,$20 ,0.047,64,61
+Equatorial Guinea,Africa,12/1/2008,3.40%,$792 ,0.08,52,49
+Sao Tome and Principe,Africa,12/1/2008,6.30%,$75 ,0.043,67,64
+South Sudan,Africa,12/1/2008,2.00%,$34 ,0.076,53,51
+Togo,Africa,12/1/2008,6.50%,$34 ,0.064,56,54
+Kenya,Africa,12/1/2008,4.20%,$33 ,0.056,59,56
+Liberia,Africa,12/1/2008,11.80%,$27 ,0.067,59,57
+Comoros,Africa,12/1/2008,5.20%,$42 ,0.066,61,58
+Rwanda,Africa,12/1/2008,10.10%,$47 ,0.05,61,59
+Cameroon,Africa,12/1/2008,5.00%,$60 ,0.071,54,52
+Guinea-Bissau,Africa,12/1/2008,6.00%,$34 ,0.089,55,52
+Guinea,Africa,12/1/2008,6.00%,$26 ,0.077,55,54
+Congo (Brazzaville),Africa,12/1/2008,2.10%,$64 ,0.049,57,55
+Benin,Africa,12/1/2008,4.20%,$31 ,0.066,60,57
+Eritrea,Africa,12/1/2008,3.40%,$9 ,0.042,63,58
+Senegal,Africa,12/1/2008,4.90%,$54 ,0.051,64,61
+Sierra Leone,Africa,12/1/2008,14.20%,$64 ,0.12,44,44
+Tanzania,Africa,12/1/2008,5.40%,$26 ,0.047,58,56
+Mozambique,Africa,12/1/2008,5.50%,$24 ,0.078,50,47
+Nigeria,Africa,12/1/2008,6.50%,$88 ,0.088,51,50
+Malawi,Africa,12/1/2008,8.40%,$25 ,0.059,52,52
+Zambia,Africa,12/1/2008,6.60%,$78 ,0.067,52,51
+Burkina Faso,Africa,12/1/2008,8.60%,$39 ,0.076,55,54
+"Gambia, The",Africa,12/1/2008,4.10%,$25 ,0.054,59,56
+Congo (Kinshasa),Africa,12/1/2008,7.30%,$15 ,0.097,50,47
+Burundi,Africa,12/1/2008,7.90%,$15 ,0.066,53,50
+Somalia,Africa,12/1/2008,0,0,0.102,55,52
+Uganda,Africa,12/1/2008,8.80%,$39 ,0.057,56,55
+Chad,Africa,12/1/2008,3.60%,$27 ,0.097,50,48
+Angola,Africa,12/1/2008,3.80%,$177 ,0.115,51,48
+Mali,Africa,12/1/2008,6.70%,$45 ,0.088,53,53
+Niger,Africa,12/1/2008,7.10%,$26 ,0.072,56,56
+Mauritius,Africa,12/1/2009,5.00%,$357 ,0.014,77,69
+Seychelles,Africa,12/1/2009,2.70%,$250 ,0.012,78,68
+Tunisia,Africa,12/1/2009,6.20%,$259 ,0.016,77,73
+Morocco,Africa,12/1/2009,5.70%,$165 ,0.03,72,68
+South Africa,Africa,12/1/2009,8.70%,$484 ,0.04,55,52
+Libya,Africa,12/1/2009,3.50%,$349 ,0.015,77,73
+Egypt,Africa,12/1/2009,5.00%,$118 ,0.021,73,68
+Algeria,Africa,12/1/2009,4.60%,$174 ,0.024,72,69
+Botswana,Africa,12/1/2009,6.10%,$318 ,0.041,46,47
+Namibia,Africa,12/1/2009,7.90%,$326 ,0.039,64,59
+Lesotho,Africa,12/1/2009,9.80%,$84 ,0.08,47,46
+Djibouti,Africa,12/1/2009,8.30%,$100 ,0.064,61,58
+Swaziland,Africa,12/1/2009,8.40%,$227 ,0.068,48,48
+Zimbabwe,Africa,12/1/2009,0,0,0.059,51,51
+Ghana,Africa,12/1/2009,5.10%,$56 ,0.056,61,59
+Gabon,Africa,12/1/2009,3.70%,$291 ,0.045,63,61
+Central African Republic,Africa,12/1/2009,3.60%,$17 ,0.105,49,46
+Ethiopia,Africa,12/1/2009,4.50%,$15 ,0.054,62,59
+Sudan,Africa,12/1/2009,7.40%,$112 ,0.056,63,60
+Cote d'Ivoire,Africa,12/1/2009,6.80%,$84 ,0.079,50,48
+Mauritania,Africa,12/1/2009,5.40%,$46 ,0.071,62,59
+Madagascar,Africa,12/1/2009,4.50%,$19 ,0.045,64,61
+Equatorial Guinea,Africa,12/1/2009,5.60%,$861 ,0.078,52,50
+Kenya,Africa,12/1/2009,4.60%,$36 ,0.054,60,57
+Rwanda,Africa,12/1/2009,10.00%,$50 ,0.047,63,60
+Sao Tome and Principe,Africa,12/1/2009,7.50%,$94 ,0.041,68,64
+South Sudan,Africa,12/1/2009,2.40%,$30 ,0.073,54,52
+Togo,Africa,12/1/2009,7.20%,$37 ,0.062,56,54
+Benin,Africa,12/1/2009,4.40%,$32 ,0.064,60,57
+Liberia,Africa,12/1/2009,14.40%,$43 ,0.064,60,58
+Comoros,Africa,12/1/2009,3.80%,$31 ,0.065,61,59
+Sierra Leone,Africa,12/1/2009,16.90%,$74 ,0.117,45,44
+Cameroon,Africa,12/1/2009,5.10%,$56 ,0.069,54,52
+Guinea-Bissau,Africa,12/1/2009,6.80%,$36 ,0.087,55,52
+Guinea,Africa,12/1/2009,6.30%,$28 ,0.074,56,54
+Congo (Brazzaville),Africa,12/1/2009,2.30%,$54 ,0.045,58,55
+Eritrea,Africa,12/1/2009,3.10%,$10 ,0.041,63,58
+Senegal,Africa,12/1/2009,4.80%,$49 ,0.049,64,61
+Mozambique,Africa,12/1/2009,6.00%,$25 ,0.074,50,48
+Malawi,Africa,12/1/2009,8.30%,$29 ,0.055,53,53
+Tanzania,Africa,12/1/2009,5.60%,$28 ,0.044,59,57
+Nigeria,Africa,12/1/2009,6.80%,$74 ,0.085,51,51
+Zambia,Africa,12/1/2009,6.40%,$64 ,0.065,54,52
+Burkina Faso,Africa,12/1/2009,7.30%,$41 ,0.073,55,54
+"Gambia, The",Africa,12/1/2009,4.50%,$25 ,0.053,59,57
+Congo (Kinshasa),Africa,12/1/2009,9.10%,$17 ,0.095,50,47
+Burundi,Africa,12/1/2009,7.00%,$14 ,0.063,54,51
+Uganda,Africa,12/1/2009,9.30%,$42 ,0.054,57,56
+Somalia,Africa,12/1/2009,0,0,0.1,55,52
+Angola,Africa,12/1/2009,4.40%,$174 ,0.112,52,49
+Chad,Africa,12/1/2009,4.50%,$28 ,0.095,50,49
+Mali,Africa,12/1/2009,6.80%,$45 ,0.085,53,54
+Niger,Africa,12/1/2009,7.70%,$27 ,0.069,57,56
+Mauritius,Africa,12/1/2010,5.40%,$427 ,0.013,77,69
+Seychelles,Africa,12/1/2010,3.70%,$394 ,0.012,78,69
+Tunisia,Africa,12/1/2010,6.70%,$282 ,0.015,77,73
+South Africa,Africa,12/1/2010,8.70%,$615 ,0.035,56,53
+Morocco,Africa,12/1/2010,5.90%,$168 ,0.029,72,68
+Libya,Africa,12/1/2010,3.30%,$389 ,0.014,77,73
+Botswana,Africa,12/1/2010,5.60%,$394 ,0.04,46,47
+Egypt,Africa,12/1/2010,4.80%,$126 ,0.02,73,68
+Algeria,Africa,12/1/2010,4.20%,$181 ,0.024,72,69
+Namibia,Africa,12/1/2010,8.20%,$416 ,0.038,65,60
+Lesotho,Africa,12/1/2010,10.80%,$118 ,0.077,48,47
+Djibouti,Africa,12/1/2010,8.80%,$111 ,0.062,62,59
+Swaziland,Africa,12/1/2010,8.40%,$261 ,0.063,48,49
+Zimbabwe,Africa,12/1/2010,0,0,0.059,54,53
+Ghana,Africa,12/1/2010,5.30%,$70 ,0.055,62,60
+Gabon,Africa,12/1/2010,3.50%,$322 ,0.043,63,61
+Central African Republic,Africa,12/1/2010,3.90%,$18 ,0.103,50,46
+Ethiopia,Africa,12/1/2010,4.70%,$14 ,0.051,63,60
+Mauritania,Africa,12/1/2010,6.00%,$58 ,0.07,63,60
+Sudan,Africa,12/1/2010,6.50%,$119 ,0.055,63,60
+Madagascar,Africa,12/1/2010,4.50%,$19 ,0.044,65,62
+Sao Tome and Principe,Africa,12/1/2010,7.10%,$86 ,0.04,68,64
+Cote d'Ivoire,Africa,12/1/2010,6.90%,$83 ,0.077,50,49
+Equatorial Guinea,Africa,12/1/2010,4.30%,$757 ,0.076,53,50
+South Sudan,Africa,12/1/2010,2.10%,$32 ,0.071,54,52
+Togo,Africa,12/1/2010,7.50%,$37 ,0.061,56,55
+Kenya,Africa,12/1/2010,4.40%,$35 ,0.052,61,58
+Liberia,Africa,12/1/2010,13.10%,$43 ,0.06,60,59
+Comoros,Africa,12/1/2010,3.40%,$27 ,0.063,62,59
+Rwanda,Africa,12/1/2010,10.80%,$56 ,0.044,64,61
+Sierra Leone,Africa,12/1/2010,15.40%,$69 ,0.114,45,45
+Guinea,Africa,12/1/2010,6.20%,$27 ,0.071,56,55
+Benin,Africa,12/1/2010,4.30%,$30 ,0.062,60,57
+Eritrea,Africa,12/1/2010,3.20%,$12 ,0.039,64,59
+Guinea-Bissau,Africa,12/1/2010,7.10%,$38 ,0.085,55,52
+Cameroon,Africa,12/1/2010,5.30%,$57 ,0.066,55,53
+Congo (Brazzaville),Africa,12/1/2010,2.30%,$67 ,0.042,59,56
+Senegal,Africa,12/1/2010,4.80%,$48 ,0.047,64,61
+Mozambique,Africa,12/1/2010,5.70%,$22 ,0.072,50,48
+Malawi,Africa,12/1/2010,8.50%,$30 ,0.053,54,53
+Tanzania,Africa,12/1/2010,7.20%,$37 ,0.041,60,58
+Nigeria,Africa,12/1/2010,5.60%,$80 ,0.082,52,51
+Zambia,Africa,12/1/2010,6.10%,$75 ,0.064,56,53
+Burkina Faso,Africa,12/1/2010,7.40%,$41 ,0.07,56,54
+"Gambia, The",Africa,12/1/2010,4.70%,$27 ,0.052,59,57
+Congo (Kinshasa),Africa,12/1/2010,7.00%,$15 ,0.092,51,47
+Burundi,Africa,12/1/2010,8.80%,$19 ,0.061,54,51
+Somalia,Africa,12/1/2010,0,0,0.097,56,52
+Uganda,Africa,12/1/2010,9.20%,$43 ,0.051,58,56
+Angola,Africa,12/1/2010,3.40%,$144 ,0.11,52,49
+Chad,Africa,12/1/2010,4.00%,$29 ,0.094,51,49
+Mali,Africa,12/1/2010,6.90%,$46 ,0.083,54,54
+Niger,Africa,12/1/2010,6.90%,$24 ,0.066,57,57
+Mauritius,Africa,12/1/2011,4.90%,$450 ,0.013,77,70
+Seychelles,Africa,12/1/2011,3.60%,$413 ,0.012,78,68
+Tunisia,Africa,12/1/2011,7.00%,$304 ,0.014,77,73
+South Africa,Africa,12/1/2011,8.70%,$670 ,0.034,57,53
+Morocco,Africa,12/1/2011,6.30%,$195 ,0.028,72,69
+Libya,Africa,12/1/2011,3.90%,$211 ,0.014,77,73
+Botswana,Africa,12/1/2011,5.20%,$404 ,0.039,46,47
+Egypt,Africa,12/1/2011,4.90%,$137 ,0.019,73,68
+Algeria,Africa,12/1/2011,4.40%,$233 ,0.023,72,69
+Namibia,Africa,12/1/2011,8.60%,$486 ,0.036,66,61
+Lesotho,Africa,12/1/2011,11.70%,$146 ,0.073,48,48
+Djibouti,Africa,12/1/2011,8.70%,$119 ,0.061,62,59
+Swaziland,Africa,12/1/2011,8.30%,$270 ,0.058,48,49
+Zimbabwe,Africa,12/1/2011,0,0,0.058,56,55
+Ghana,Africa,12/1/2011,5.30%,$83 ,0.054,62,60
+Gabon,Africa,12/1/2011,3.40%,$401 ,0.042,64,62
+Sudan,Africa,12/1/2011,6.70%,$119 ,0.054,63,60
+Ethiopia,Africa,12/1/2011,4.10%,$14 ,0.048,64,61
+Central African Republic,Africa,12/1/2011,3.90%,$19 ,0.1,51,47
+Mauritania,Africa,12/1/2011,5.90%,$51 ,0.069,63,60
+Madagascar,Africa,12/1/2011,4.10%,$19 ,0.042,65,62
+Equatorial Guinea,Africa,12/1/2011,4.50%,"$1,051 ",0.073,54,51
+Comoros,Africa,12/1/2011,3.60%,$31 ,0.061,62,59
+Kenya,Africa,12/1/2011,4.40%,$35 ,0.05,62,59
+Rwanda,Africa,12/1/2011,11.00%,$62 ,0.041,65,61
+Sao Tome and Principe,Africa,12/1/2011,7.60%,$108 ,0.039,68,64
+Cote d'Ivoire,Africa,12/1/2011,6.80%,$84 ,0.075,51,49
+South Sudan,Africa,12/1/2011,1.70%,$32 ,0.068,55,53
+Togo,Africa,12/1/2011,8.00%,$43 ,0.059,57,55
+Benin,Africa,12/1/2011,4.50%,$34 ,0.06,60,58
+Liberia,Africa,12/1/2011,15.60%,$59 ,0.058,61,59
+Sierra Leone,Africa,12/1/2011,16.30%,$82 ,0.112,45,45
+Guinea-Bissau,Africa,12/1/2011,6.30%,$35 ,0.082,55,52
+Cameroon,Africa,12/1/2011,5.40%,$64 ,0.064,55,53
+Guinea,Africa,12/1/2011,6.00%,$27 ,0.069,56,55
+Congo (Brazzaville),Africa,12/1/2011,2.50%,$85 ,0.039,59,56
+Eritrea,Africa,12/1/2011,2.70%,$12 ,0.038,64,59
+Senegal,Africa,12/1/2011,5.00%,$54 ,0.046,65,62
+Mozambique,Africa,12/1/2011,6.40%,$33 ,0.068,50,49
+Malawi,Africa,12/1/2011,8.30%,$30 ,0.049,54,54
+Tanzania,Africa,12/1/2011,7.40%,$38 ,0.039,61,59
+Nigeria,Africa,12/1/2011,5.70%,$85 ,0.079,52,51
+Burkina Faso,Africa,12/1/2011,6.40%,$39 ,0.068,56,55
+Zambia,Africa,12/1/2011,6.20%,$87 ,0.059,57,54
+"Gambia, The",Africa,12/1/2011,4.70%,$24 ,0.051,60,57
+Congo (Kinshasa),Africa,12/1/2011,6.10%,$15 ,0.09,51,48
+Uganda,Africa,12/1/2011,9.30%,$41 ,0.049,59,57
+Burundi,Africa,12/1/2011,9.00%,$21 ,0.059,55,51
+Somalia,Africa,12/1/2011,0,0,0.095,56,53
+Angola,Africa,12/1/2011,3.40%,$178 ,0.107,53,50
+Chad,Africa,12/1/2011,2.80%,$25 ,0.092,51,49
+Mali,Africa,12/1/2011,6.80%,$51 ,0.081,54,54
+Niger,Africa,12/1/2011,6.80%,$25 ,0.064,58,57
+Mauritius,Africa,12/1/2012,4.80%,$444 ,0.013,77,70
+Seychelles,Africa,12/1/2012,4.70%,$521 ,0.012,78,68
+Tunisia,Africa,12/1/2012,7.00%,$297 ,0.014,77,73
+South Africa,Africa,12/1/2012,8.80%,$645 ,0.034,58,54
+Libya,Africa,12/1/2012,3.90%,$578 ,0.013,77,73
+Morocco,Africa,12/1/2012,6.40%,$190 ,0.027,72,69
+Botswana,Africa,12/1/2012,5.30%,$384 ,0.037,46,48
+Egypt,Africa,12/1/2012,5.00%,$152 ,0.019,73,69
+Algeria,Africa,12/1/2012,5.20%,$279 ,0.022,73,69
+Namibia,Africa,12/1/2012,8.30%,$473 ,0.036,67,61
+Lesotho,Africa,12/1/2012,11.60%,$138 ,0.074,49,49
+Djibouti,Africa,12/1/2012,8.80%,$129 ,0.059,63,60
+Swaziland,Africa,12/1/2012,8.50%,$259 ,0.057,48,49
+Ghana,Africa,12/1/2012,5.20%,$83 ,0.053,62,60
+Zimbabwe,Africa,12/1/2012,0,0,0.055,59,57
+Gabon,Africa,12/1/2012,3.50%,$397 ,0.04,64,62
+Central African Republic,Africa,12/1/2012,3.80%,$18 ,0.098,51,48
+Mauritania,Africa,12/1/2012,6.40%,$52 ,0.068,63,60
+Sudan,Africa,12/1/2012,7.20%,$115 ,0.053,64,60
+Ethiopia,Africa,12/1/2012,3.80%,$18 ,0.046,65,61
+Madagascar,Africa,12/1/2012,4.10%,$18 ,0.041,66,63
+Sao Tome and Principe,Africa,12/1/2012,7.90%,$109 ,0.038,68,64
+Equatorial Guinea,Africa,12/1/2012,4.70%,"$1,138 ",0.071,54,51
+Liberia,Africa,12/1/2012,15.50%,$65 ,0.056,61,59
+Comoros,Africa,12/1/2012,4.50%,$38 ,0.059,62,59
+Kenya,Africa,12/1/2012,4.70%,$45 ,0.049,63,59
+Rwanda,Africa,12/1/2012,10.70%,$66 ,0.039,65,62
+Sierra Leone,Africa,12/1/2012,15.10%,$96 ,0.11,46,45
+Cote d'Ivoire,Africa,12/1/2012,7.10%,$88 ,0.073,51,50
+South Sudan,Africa,12/1/2012,2.60%,$27 ,0.066,56,54
+Guinea,Africa,12/1/2012,6.30%,$32 ,0.067,57,55
+Togo,Africa,12/1/2012,8.60%,$41 ,0.057,57,55
+Benin,Africa,12/1/2012,4.50%,$33 ,0.058,61,58
+Eritrea,Africa,12/1/2012,2.60%,$15 ,0.037,65,60
+Guinea-Bissau,Africa,12/1/2012,5.90%,$30 ,0.08,56,53
+Cameroon,Africa,12/1/2012,5.10%,$59 ,0.062,56,54
+Congo (Brazzaville),Africa,12/1/2012,3.20%,$100 ,0.037,60,57
+Senegal,Africa,12/1/2012,5.00%,$51 ,0.045,65,62
+Mozambique,Africa,12/1/2012,6.40%,$37 ,0.064,51,49
+Malawi,Africa,12/1/2012,9.20%,$25 ,0.046,55,55
+Tanzania,Africa,12/1/2012,7.00%,$41 ,0.038,62,60
+Burkina Faso,Africa,12/1/2012,6.20%,$38 ,0.066,56,55
+Nigeria,Africa,12/1/2012,6.10%,$94 ,0.077,52,52
+Congo (Kinshasa),Africa,12/1/2012,5.60%,$15 ,0.088,51,48
+Zambia,Africa,12/1/2012,6.50%,$96 ,0.057,59,55
+"Gambia, The",Africa,12/1/2012,5.00%,$26 ,0.05,60,57
+Somalia,Africa,12/1/2012,0,0,0.092,56,53
+Uganda,Africa,12/1/2012,8.00%,$44 ,0.045,60,58
+Angola,Africa,12/1/2012,3.50%,$190 ,0.104,53,50
+Burundi,Africa,12/1/2012,8.10%,$20 ,0.057,56,52
+Chad,Africa,12/1/2012,2.80%,$25 ,0.09,52,50
+Mali,Africa,12/1/2012,5.80%,$42 ,0.079,54,55
+Niger,Africa,12/1/2012,7.20%,$25 ,0.062,58,58
+Macao SAR,Asia,12/1/2005,0,0,0,81,76
+Hong Kong SAR,Asia,12/1/2005,0,0,0,85,79
+Japan,Asia,12/1/2005,8.20%,"$2,928 ",0.003,85,79
+South Korea,Asia,12/1/2005,5.60%,$988 ,0.005,82,75
+Singapore,Asia,12/1/2005,3.80%,"$1,058 ",0.002,83,78
+China,Asia,12/1/2005,4.70%,$80 ,0.02,75,73
+Thailand,Asia,12/1/2005,3.50%,$95 ,0.015,76,69
+Georgia,Asia,12/1/2005,8.60%,$123 ,0.022,77,69
+Armenia,Asia,12/1/2005,5.30%,$85 ,0.021,77,70
+North Korea,Asia,12/1/2005,0,0,0.026,72,65
+Azerbaijan,Asia,12/1/2005,7.90%,$122 ,0.044,72,66
+Vietnam,Asia,12/1/2005,5.90%,$36 ,0.024,80,70
+Kazakhstan,Asia,12/1/2005,4.10%,$154 ,0.029,72,60
+Myanmar,Asia,12/1/2005,2.10%,$5 ,0.051,66,61
+Sri Lanka,Asia,12/1/2005,4.00%,$49 ,0.012,77,70
+Malaysia,Asia,12/1/2005,3.20%,$179 ,0.007,76,72
+Mongolia,Asia,12/1/2005,6.00%,$60 ,0.037,69,62
+Uzbekistan,Asia,12/1/2005,5.10%,$28 ,0.047,71,64
+Brunei,Asia,12/1/2005,2.60%,$671 ,0.007,79,75
+Kyrgyzstan,Asia,12/1/2005,5.80%,$28 ,0.034,72,64
+Indonesia,Asia,12/1/2005,2.80%,$36 ,0.033,71,67
+Maldives,Asia,12/1/2005,7.00%,$235 ,0.019,75,73
+Turkmenistan,Asia,12/1/2005,3.00%,$107 ,0.058,69,60
+India,Asia,12/1/2005,4.20%,$32 ,0.056,66,63
+Bhutan,Asia,12/1/2005,4.30%,$55 ,0.045,64,64
+Bangladesh,Asia,12/1/2005,3.20%,$13 ,0.051,68,67
+Cambodia,Asia,12/1/2005,6.90%,$33 ,0.052,70,65
+Philippines,Asia,12/1/2005,3.90%,$47 ,0.028,71,64
+Laos,Asia,12/1/2005,4.30%,$20 ,0.07,66,63
+Pakistan,Asia,12/1/2005,3.20%,$22 ,0.08,66,64
+Nepal,Asia,12/1/2005,5.70%,$19 ,0.047,66,64
+Tajikistan,Asia,12/1/2005,4.80%,$16 ,0.054,69,62
+Timor-Leste,Asia,12/1/2005,7.30%,$33 ,0.065,65,62
+Afghanistan,Asia,12/1/2005,9.20%,$21 ,0.084,58,56
+Macao SAR,Asia,12/1/2006,0,0,0,81,77
+South Korea,Asia,12/1/2006,6.10%,"$1,201 ",0.005,82,76
+Japan,Asia,12/1/2006,8.20%,"$2,794 ",0.003,86,79
+Singapore,Asia,12/1/2006,3.70%,"$1,167 ",0.002,83,78
+Hong Kong SAR,Asia,12/1/2006,0,0,0,86,79
+Thailand,Asia,12/1/2006,3.50%,$110 ,0.015,76,69
+China,Asia,12/1/2006,4.60%,$93 ,0.019,76,73
+Georgia,Asia,12/1/2006,8.40%,$146 ,0.02,77,70
+Armenia,Asia,12/1/2006,4.60%,$97 ,0.02,77,70
+North Korea,Asia,12/1/2006,0,0,0.026,72,65
+Vietnam,Asia,12/1/2006,6.50%,$46 ,0.023,80,70
+Azerbaijan,Asia,12/1/2006,6.20%,$149 ,0.042,72,67
+Malaysia,Asia,12/1/2006,3.60%,$222 ,0.007,76,72
+Myanmar,Asia,12/1/2006,2.00%,$5 ,0.049,66,62
+Sri Lanka,Asia,12/1/2006,4.00%,$57 ,0.011,77,70
+Brunei,Asia,12/1/2006,2.20%,$680 ,0.007,79,75
+Kazakhstan,Asia,12/1/2006,3.90%,$210 ,0.027,72,61
+Mongolia,Asia,12/1/2006,5.40%,$72 ,0.035,70,62
+Uzbekistan,Asia,12/1/2006,5.50%,$35 ,0.045,71,64
+Indonesia,Asia,12/1/2006,2.90%,$47 ,0.032,71,67
+Maldives,Asia,12/1/2006,6.70%,$287 ,0.017,76,74
+Turkmenistan,Asia,12/1/2006,2.20%,$98 ,0.057,69,61
+Bhutan,Asia,12/1/2006,4.40%,$59 ,0.043,65,65
+India,Asia,12/1/2006,4.00%,$33 ,0.054,66,63
+Kyrgyzstan,Asia,12/1/2006,6.70%,$38 ,0.033,72,64
+Bangladesh,Asia,12/1/2006,3.40%,$14 ,0.048,68,67
+Cambodia,Asia,12/1/2006,5.40%,$29 ,0.048,71,65
+Nepal,Asia,12/1/2006,5.60%,$20 ,0.044,66,64
+Philippines,Asia,12/1/2006,4.00%,$55 ,0.027,71,64
+Pakistan,Asia,12/1/2006,3.70%,$29 ,0.079,66,65
+Laos,Asia,12/1/2006,4.30%,$25 ,0.068,66,64
+Tajikistan,Asia,12/1/2006,4.80%,$19 ,0.052,70,63
+Timor-Leste,Asia,12/1/2006,10.60%,$46 ,0.062,65,62
+Afghanistan,Asia,12/1/2006,9.10%,$23 ,0.082,59,56
+Macao SAR,Asia,12/1/2007,0,0,0,82,77
+Japan,Asia,12/1/2007,8.20%,"$2,801 ",0.003,86,79
+South Korea,Asia,12/1/2007,6.40%,"$1,379 ",0.004,83,76
+Singapore,Asia,12/1/2007,3.50%,"$1,333 ",0.002,83,78
+Hong Kong SAR,Asia,12/1/2007,0,0,0,85,79
+Thailand,Asia,12/1/2007,3.60%,$133 ,0.014,76,70
+China,Asia,12/1/2007,4.40%,$113 ,0.017,76,73
+Georgia,Asia,12/1/2007,8.20%,$188 ,0.019,77,70
+Armenia,Asia,12/1/2007,4.30%,$133 ,0.019,77,70
+North Korea,Asia,12/1/2007,0,0,0.026,72,65
+Vietnam,Asia,12/1/2007,7.10%,$58 ,0.022,80,70
+Azerbaijan,Asia,12/1/2007,5.10%,$192 ,0.039,73,67
+Malaysia,Asia,12/1/2007,3.50%,$256 ,0.007,76,72
+Brunei,Asia,12/1/2007,2.30%,$738 ,0.008,79,76
+Myanmar,Asia,12/1/2007,1.90%,$7 ,0.048,66,62
+Sri Lanka,Asia,12/1/2007,3.70%,$59 ,0.011,77,70
+Kazakhstan,Asia,12/1/2007,3.40%,$233 ,0.025,73,61
+Indonesia,Asia,12/1/2007,3.10%,$58 ,0.031,71,67
+Turkmenistan,Asia,12/1/2007,2.10%,$113 ,0.055,69,61
+Mongolia,Asia,12/1/2007,5.70%,$93 ,0.033,70,62
+India,Asia,12/1/2007,3.90%,$40 ,0.052,66,63
+Bhutan,Asia,12/1/2007,5.00%,$88 ,0.041,66,65
+Bangladesh,Asia,12/1/2007,3.50%,$16 ,0.046,69,68
+Maldives,Asia,12/1/2007,6.30%,$315 ,0.015,77,74
+Uzbekistan,Asia,12/1/2007,5.40%,$46 ,0.044,71,64
+Kyrgyzstan,Asia,12/1/2007,6.90%,$51 ,0.032,72,64
+Philippines,Asia,12/1/2007,3.90%,$65 ,0.027,71,64
+Nepal,Asia,12/1/2007,5.50%,$23 ,0.042,67,65
+Cambodia,Asia,12/1/2007,4.50%,$28 ,0.045,72,66
+Pakistan,Asia,12/1/2007,3.50%,$31 ,0.078,66,65
+Laos,Asia,12/1/2007,4.20%,$29 ,0.065,67,64
+Tajikistan,Asia,12/1/2007,5.30%,$28 ,0.05,70,63
+Timor-Leste,Asia,12/1/2007,8.00%,$41 ,0.059,66,63
+Afghanistan,Asia,12/1/2007,10.00%,$30 ,0.08,59,57
+Macao SAR,Asia,12/1/2008,0,0,0,82,77
+South Korea,Asia,12/1/2008,6.60%,"$1,253 ",0.004,83,77
+Japan,Asia,12/1/2008,8.60%,"$3,259 ",0.003,86,79
+Singapore,Asia,12/1/2008,4.00%,"$1,577 ",0.002,83,78
+Hong Kong SAR,Asia,12/1/2008,0,0,0,86,79
+Thailand,Asia,12/1/2008,3.90%,$162 ,0.013,77,70
+China,Asia,12/1/2008,4.60%,$155 ,0.016,76,73
+Georgia,Asia,12/1/2008,9.00%,$261 ,0.017,77,70
+Armenia,Asia,12/1/2008,3.80%,$149 ,0.018,77,71
+North Korea,Asia,12/1/2008,0,0,0.026,72,65
+Azerbaijan,Asia,12/1/2008,4.40%,$241 ,0.037,73,67
+Vietnam,Asia,12/1/2008,6.00%,$63 ,0.022,80,70
+Myanmar,Asia,12/1/2008,2.00%,$10 ,0.046,66,62
+Malaysia,Asia,12/1/2008,3.40%,$288 ,0.007,77,72
+Brunei,Asia,12/1/2008,2.20%,$821 ,0.008,80,76
+Sri Lanka,Asia,12/1/2008,3.40%,$68 ,0.01,77,71
+Bhutan,Asia,12/1/2008,5.20%,$95 ,0.038,66,66
+Indonesia,Asia,12/1/2008,2.80%,$61 ,0.03,72,68
+Turkmenistan,Asia,12/1/2008,1.90%,$81 ,0.054,69,61
+Mongolia,Asia,12/1/2008,6.40%,$136 ,0.032,70,62
+India,Asia,12/1/2008,3.90%,$43 ,0.05,67,63
+Bangladesh,Asia,12/1/2008,3.50%,$19 ,0.043,69,68
+Maldives,Asia,12/1/2008,7.90%,$475 ,0.014,77,75
+Kazakhstan,Asia,12/1/2008,3.90%,$332 ,0.023,72,62
+Uzbekistan,Asia,12/1/2008,5.20%,$53 ,0.043,71,64
+Kyrgyzstan,Asia,12/1/2008,6.10%,$60 ,0.03,73,65
+Nepal,Asia,12/1/2008,6.10%,$27 ,0.04,67,65
+Philippines,Asia,12/1/2008,3.80%,$74 ,0.026,71,65
+Cambodia,Asia,12/1/2008,5.50%,$41 ,0.042,72,67
+Pakistan,Asia,12/1/2008,3.30%,$29 ,0.076,67,65
+Laos,Asia,12/1/2008,4.10%,$36 ,0.063,67,65
+Tajikistan,Asia,12/1/2008,5.60%,$40 ,0.048,70,63
+Timor-Leste,Asia,12/1/2008,8.60%,$55 ,0.056,66,63
+Afghanistan,Asia,12/1/2008,9.70%,$35 ,0.079,60,57
+Macao SAR,Asia,12/1/2009,0,0,0,82,77
+South Korea,Asia,12/1/2009,7.10%,"$1,204 ",0.004,84,77
+Japan,Asia,12/1/2009,9.50%,"$3,746 ",0.002,86,80
+Singapore,Asia,12/1/2009,4.50%,"$1,704 ",0.002,84,79
+Thailand,Asia,12/1/2009,4.10%,$164 ,0.013,77,70
+China,Asia,12/1/2009,5.10%,$189 ,0.015,76,73
+Hong Kong SAR,Asia,12/1/2009,0,0,0,86,80
+North Korea,Asia,12/1/2009,0,0,0.025,72,65
+Georgia,Asia,12/1/2009,10.20%,$249 ,0.016,77,70
+Armenia,Asia,12/1/2009,4.50%,$132 ,0.017,78,71
+Azerbaijan,Asia,12/1/2009,5.90%,$288 ,0.035,73,67
+Vietnam,Asia,12/1/2009,6.50%,$72 ,0.021,80,71
+Brunei,Asia,12/1/2009,2.80%,$766 ,0.008,80,76
+Myanmar,Asia,12/1/2009,2.10%,$13 ,0.045,66,62
+Malaysia,Asia,12/1/2009,3.90%,$285 ,0.007,77,72
+Sri Lanka,Asia,12/1/2009,3.30%,$68 ,0.01,77,71
+Indonesia,Asia,12/1/2009,2.80%,$64 ,0.029,72,68
+Bhutan,Asia,12/1/2009,4.60%,$82 ,0.036,67,66
+Bangladesh,Asia,12/1/2009,3.70%,$22 ,0.041,70,68
+Turkmenistan,Asia,12/1/2009,2.10%,$86 ,0.052,69,61
+India,Asia,12/1/2009,3.90%,$44 ,0.048,67,64
+Kazakhstan,Asia,12/1/2009,4.50%,$328 ,0.021,74,64
+Maldives,Asia,12/1/2009,7.60%,$475 ,0.012,77,75
+Mongolia,Asia,12/1/2009,6.40%,$111 ,0.03,71,63
+Uzbekistan,Asia,12/1/2009,5.40%,$64 ,0.041,71,65
+Nepal,Asia,12/1/2009,6.00%,$29 ,0.038,68,66
+Philippines,Asia,12/1/2009,4.30%,$78 ,0.026,72,65
+Kyrgyzstan,Asia,12/1/2009,6.80%,$61 ,0.029,73,65
+Cambodia,Asia,12/1/2009,6.30%,$46 ,0.039,73,68
+Pakistan,Asia,12/1/2009,3.00%,$28 ,0.075,67,65
+Laos,Asia,12/1/2009,3.60%,$34 ,0.061,68,65
+Tajikistan,Asia,12/1/2009,5.90%,$40 ,0.046,70,64
+Timor-Leste,Asia,12/1/2009,6.80%,$50 ,0.054,67,64
+Afghanistan,Asia,12/1/2009,8.70%,$35 ,0.077,60,58
+Macao SAR,Asia,12/1/2010,0,0,0,82,77
+South Korea,Asia,12/1/2010,7.30%,"$1,498 ",0.004,84,77
+Singapore,Asia,12/1/2010,4.10%,"$1,893 ",0.002,84,79
+Japan,Asia,12/1/2010,9.60%,"$4,115 ",0.002,86,80
+Thailand,Asia,12/1/2010,3.80%,$183 ,0.013,77,71
+China,Asia,12/1/2010,5.00%,$216 ,0.014,76,74
+Hong Kong SAR,Asia,12/1/2010,0,0,0,86,80
+North Korea,Asia,12/1/2010,0,0,0.025,72,66
+Georgia,Asia,12/1/2010,10.10%,$267 ,0.015,77,70
+Armenia,Asia,12/1/2010,4.60%,$143 ,0.016,78,71
+Vietnam,Asia,12/1/2010,6.90%,$83 ,0.021,80,71
+Brunei,Asia,12/1/2010,2.70%,$844 ,0.008,80,76
+Myanmar,Asia,12/1/2010,1.90%,$15 ,0.044,67,63
+Azerbaijan,Asia,12/1/2010,5.30%,$310 ,0.034,74,67
+Sri Lanka,Asia,12/1/2010,3.40%,$82 ,0.009,77,71
+Malaysia,Asia,12/1/2010,4.00%,$345 ,0.007,77,72
+Indonesia,Asia,12/1/2010,2.90%,$86 ,0.027,72,68
+India,Asia,12/1/2010,3.70%,$52 ,0.046,67,64
+Bhutan,Asia,12/1/2010,4.10%,$90 ,0.034,67,67
+Bangladesh,Asia,12/1/2010,3.70%,$24 ,0.039,70,69
+Turkmenistan,Asia,12/1/2010,2.10%,$95 ,0.051,69,61
+Maldives,Asia,12/1/2010,5.80%,$379 ,0.011,78,76
+Mongolia,Asia,12/1/2010,6.30%,$143 ,0.029,71,63
+Kazakhstan,Asia,12/1/2010,4.30%,$398 ,0.019,73,64
+Uzbekistan,Asia,12/1/2010,5.40%,$75 ,0.04,71,65
+Nepal,Asia,12/1/2010,5.90%,$36 ,0.036,68,66
+Philippines,Asia,12/1/2010,4.20%,$90 ,0.025,72,65
+Cambodia,Asia,12/1/2010,5.80%,$46 ,0.037,73,68
+Pakistan,Asia,12/1/2010,3.00%,$30 ,0.073,67,65
+Kyrgyzstan,Asia,12/1/2010,6.70%,$60 ,0.027,74,65
+Laos,Asia,12/1/2010,2.60%,$29 ,0.059,68,66
+Tajikistan,Asia,12/1/2010,6.00%,$44 ,0.045,70,64
+Timor-Leste,Asia,12/1/2010,5.60%,$46 ,0.052,68,64
+Afghanistan,Asia,12/1/2010,8.70%,$43 ,0.075,61,58
+Japan,Asia,12/1/2011,10.00%,"$4,641 ",0.002,86,79
+South Korea,Asia,12/1/2011,7.40%,"$1,652 ",0.003,84,78
+Macao SAR,Asia,12/1/2011,0,0,0,82,78
+Singapore,Asia,12/1/2011,4.20%,"$2,144 ",0.002,84,80
+Thailand,Asia,12/1/2011,4.10%,$214 ,0.012,77,71
+China,Asia,12/1/2011,5.10%,$274 ,0.013,76,74
+North Korea,Asia,12/1/2011,0,0,0.024,73,66
+Georgia,Asia,12/1/2011,9.40%,$310 ,0.014,78,70
+Armenia,Asia,12/1/2011,3.70%,$127 ,0.015,78,71
+Hong Kong SAR,Asia,12/1/2011,0,0,0,87,80
+Vietnam,Asia,12/1/2011,6.80%,$93 ,0.02,80,71
+Brunei,Asia,12/1/2011,2.20%,$917 ,0.008,80,76
+Myanmar,Asia,12/1/2011,1.80%,$19 ,0.042,67,63
+Sri Lanka,Asia,12/1/2011,3.30%,$93 ,0.009,77,71
+Malaysia,Asia,12/1/2011,3.80%,$384 ,0.007,77,72
+Azerbaijan,Asia,12/1/2011,5.00%,$359 ,0.032,74,68
+Bhutan,Asia,12/1/2011,3.70%,$94 ,0.033,68,67
+Indonesia,Asia,12/1/2011,2.90%,$99 ,0.026,72,68
+India,Asia,12/1/2011,3.90%,$62 ,0.045,68,64
+Bangladesh,Asia,12/1/2011,3.80%,$27 ,0.037,71,69
+Turkmenistan,Asia,12/1/2011,2.10%,$114 ,0.05,69,61
+Uzbekistan,Asia,12/1/2011,5.60%,$91 ,0.039,71,65
+Nepal,Asia,12/1/2011,6.10%,$41 ,0.035,69,66
+Maldives,Asia,12/1/2011,8.10%,$525 ,0.01,78,76
+Mongolia,Asia,12/1/2011,6.00%,$190 ,0.028,71,63
+Kazakhstan,Asia,12/1/2011,3.90%,$458 ,0.018,74,64
+Philippines,Asia,12/1/2011,4.40%,$105 ,0.025,72,65
+Pakistan,Asia,12/1/2011,3.00%,$36 ,0.072,67,65
+Cambodia,Asia,12/1/2011,5.60%,$49 ,0.036,74,68
+Kyrgyzstan,Asia,12/1/2011,6.20%,$71 ,0.025,74,66
+Laos,Asia,12/1/2011,2.80%,$35 ,0.057,69,66
+Tajikistan,Asia,12/1/2011,5.80%,$48 ,0.043,71,64
+Timor-Leste,Asia,12/1/2011,4.60%,$46 ,0.05,68,65
+Afghanistan,Asia,12/1/2011,8.40%,$48 ,0.074,61,59
+Japan,Asia,12/1/2012,10.10%,"$4,752 ",0.002,86,80
+Thailand,Asia,12/1/2012,3.90%,$215 ,0.012,78,71
+Macao SAR,Asia,12/1/2012,0,0,0,82,78
+South Korea,Asia,12/1/2012,7.50%,"$1,703 ",0.003,85,78
+Singapore,Asia,12/1/2012,4.70%,"$2,426 ",0.002,85,80
+China,Asia,12/1/2012,5.40%,$322 ,0.012,77,74
+Hong Kong SAR,Asia,12/1/2012,0,0,0,86,81
+North Korea,Asia,12/1/2012,0,0,0.023,73,66
+Georgia,Asia,12/1/2012,9.20%,$333 ,0.013,78,70
+Armenia,Asia,12/1/2012,4.50%,$150 ,0.015,78,71
+Vietnam,Asia,12/1/2012,6.60%,$102 ,0.02,80,71
+Brunei,Asia,12/1/2012,2.30%,$939 ,0.008,80,77
+Myanmar,Asia,12/1/2012,1.80%,$20 ,0.041,67,63
+Sri Lanka,Asia,12/1/2012,3.10%,$89 ,0.009,77,71
+Malaysia,Asia,12/1/2012,3.90%,$410 ,0.007,77,73
+Azerbaijan,Asia,12/1/2012,5.40%,$398 ,0.031,74,68
+Indonesia,Asia,12/1/2012,3.00%,$108 ,0.025,73,69
+Bhutan,Asia,12/1/2012,3.80%,$90 ,0.031,68,68
+Bangladesh,Asia,12/1/2012,3.60%,$26 ,0.035,71,70
+India,Asia,12/1/2012,4.00%,$61 ,0.043,68,65
+Uzbekistan,Asia,12/1/2012,5.90%,$105 ,0.038,72,65
+Turkmenistan,Asia,12/1/2012,2.00%,$129 ,0.048,70,61
+Nepal,Asia,12/1/2012,5.50%,$36 ,0.033,69,67
+Maldives,Asia,12/1/2012,8.50%,$558 ,0.009,79,77
+Mongolia,Asia,12/1/2012,6.30%,$232 ,0.027,71,63
+Kazakhstan,Asia,12/1/2012,4.20%,$521 ,0.016,74,65
+Philippines,Asia,12/1/2012,4.60%,$119 ,0.024,72,65
+Pakistan,Asia,12/1/2012,3.10%,$39 ,0.071,67,66
+Cambodia,Asia,12/1/2012,5.40%,$51 ,0.034,74,69
+Laos,Asia,12/1/2012,2.90%,$40 ,0.055,69,66
+Kyrgyzstan,Asia,12/1/2012,7.10%,$84 ,0.023,74,66
+Tajikistan,Asia,12/1/2012,5.80%,$55 ,0.042,71,64
+Afghanistan,Asia,12/1/2012,8.60%,$51 ,0.072,62,59
+Timor-Leste,Asia,12/1/2012,4.30%,$50 ,0.048,69,66
+Monaco,Europe,12/1/2005,4.00%,"$4,960 ",0.004,0,0
+Faeroe Islands,Europe,12/1/2005,0,0,0,82,77
+Bosnia and Herzegovina,Europe,12/1/2005,8.70%,$246 ,0.007,78,73
+Germany,Europe,12/1/2005,10.80%,"$3,624 ",0.004,82,76
+Ukraine,Europe,12/1/2005,6.40%,$117 ,0.013,74,62
+Belarus,Europe,12/1/2005,6.90%,$215 ,0.007,75,63
+Lithuania,Europe,12/1/2005,5.80%,$446 ,0.008,77,65
+Bulgaria,Europe,12/1/2005,7.30%,$274 ,0.014,76,69
+Slovenia,Europe,12/1/2005,8.40%,"$1,494 ",0.004,81,74
+Russia,Europe,12/1/2005,5.20%,$277 ,0.014,72,59
+Latvia,Europe,12/1/2005,6.40%,$442 ,0.011,77,66
+Romania,Europe,12/1/2005,5.50%,$251 ,0.018,76,68
+Hungary,Europe,12/1/2005,8.40%,$923 ,0.007,77,69
+Serbia,Europe,12/1/2005,9.10%,$307 ,0.008,75,70
+Slovakia,Europe,12/1/2005,7.00%,$627 ,0.008,78,70
+Poland,Europe,12/1/2005,6.20%,$494 ,0.007,79,71
+Croatia,Europe,12/1/2005,7.00%,$705 ,0.006,79,72
+Czech Republic,Europe,12/1/2005,6.90%,$882 ,0.004,79,73
+Portugal,Europe,12/1/2005,10.40%,"$1,886 ",0.004,81,75
+Malta,Europe,12/1/2005,9.10%,"$1,394 ",0.006,81,77
+Austria,Europe,12/1/2005,10.40%,"$3,863 ",0.004,82,77
+Greece,Europe,12/1/2005,9.70%,"$2,093 ",0.005,82,77
+Italy,Europe,12/1/2005,8.70%,"$2,672 ",0.004,84,78
+Switzerland,Europe,12/1/2005,10.90%,"$5,637 ",0.004,84,79
+San Marino,Europe,12/1/2005,5.30%,"$3,399 ",0.004,85,79
+Isle of Man,Europe,12/1/2005,0,0,0,0,0
+Andorra,Europe,12/1/2005,5.80%,"$2,356 ",0.003,0,0
+Estonia,Europe,12/1/2005,5.00%,$513 ,0.006,78,67
+North Macedonia,Europe,12/1/2005,8.10%,$231 ,0.012,77,72
+Finland,Europe,12/1/2005,8.40%,"$3,151 ",0.003,82,76
+Belgium,Europe,12/1/2005,10.00%,"$3,606 ",0.004,82,76
+Liechtenstein,Europe,12/1/2005,0,0,0,84,77
+Spain,Europe,12/1/2005,8.30%,"$2,178 ",0.005,84,77
+Sweden,Europe,12/1/2005,9.10%,"$3,726 ",0.003,83,78
+Moldova,Europe,12/1/2005,9.20%,$76 ,0.019,72,64
+Denmark,Europe,12/1/2005,9.80%,"$4,652 ",0.004,80,76
+Cyprus,Europe,12/1/2005,6.40%,"$1,434 ",0.004,81,77
+United Kingdom,Europe,12/1/2005,8.30%,"$3,161 ",0.005,81,77
+Luxembourg,Europe,12/1/2005,7.90%,"$6,485 ",0.003,82,77
+Netherlands,Europe,12/1/2005,10.90%,"$4,261 ",0.005,82,77
+Norway,Europe,12/1/2005,9.50%,"$6,293 ",0.003,83,78
+Montenegro,Europe,12/1/2005,8.70%,$319 ,0.01,76,71
+France,Europe,12/1/2005,11.00%,"$3,750 ",0.004,84,77
+Albania,Europe,12/1/2005,6.30%,$160 ,0.018,79,73
+Iceland,Europe,12/1/2005,9.60%,"$5,329 ",0.002,84,80
+Ireland,Europe,12/1/2005,7.60%,"$3,734 ",0.004,81,77
+Turkey,Europe,12/1/2005,5.40%,$366 ,0.026,76,69
+Kosovo,Europe,12/1/2005,0,0,0,71,67
+Isle of Man,Europe,12/1/2006,0,0,0,0,0
+Monaco,Europe,12/1/2006,3.80%,"$5,115 ",0.004,0,0
+Faeroe Islands,Europe,12/1/2006,0,0,0,82,77
+Bosnia and Herzegovina,Europe,12/1/2006,8.50%,$275 ,0.007,78,73
+Germany,Europe,12/1/2006,10.60%,"$3,746 ",0.004,82,76
+Croatia,Europe,12/1/2006,7.00%,$790 ,0.006,79,73
+Slovenia,Europe,12/1/2006,8.30%,"$1,610 ",0.003,82,75
+Malta,Europe,12/1/2006,9.00%,"$1,445 ",0.006,82,77
+Austria,Europe,12/1/2006,10.20%,"$4,016 ",0.004,83,77
+Russia,Europe,12/1/2006,5.30%,$365 ,0.013,73,60
+Ukraine,Europe,12/1/2006,6.40%,$147 ,0.012,74,62
+Belarus,Europe,12/1/2006,6.30%,$243 ,0.007,76,64
+Lithuania,Europe,12/1/2006,6.20%,$552 ,0.008,77,65
+Latvia,Europe,12/1/2006,6.80%,$590 ,0.01,77,66
+Romania,Europe,12/1/2006,5.10%,$289 ,0.017,76,69
+Bulgaria,Europe,12/1/2006,6.90%,$297 ,0.013,76,69
+Hungary,Europe,12/1/2006,8.30%,$922 ,0.007,77,69
+Slovakia,Europe,12/1/2006,7.30%,$761 ,0.008,78,70
+Serbia,Europe,12/1/2006,9.40%,$371 ,0.007,76,71
+Poland,Europe,12/1/2006,6.20%,$554 ,0.006,80,71
+Czech Republic,Europe,12/1/2006,6.70%,$969 ,0.004,80,74
+Portugal,Europe,12/1/2006,10.00%,"$1,915 ",0.004,82,75
+Greece,Europe,12/1/2006,9.70%,"$2,293 ",0.005,82,77
+Liechtenstein,Europe,12/1/2006,0,0,0,83,79
+Italy,Europe,12/1/2006,8.80%,"$2,818 ",0.004,84,79
+Switzerland,Europe,12/1/2006,10.40%,"$5,643 ",0.004,84,79
+San Marino,Europe,12/1/2006,5.10%,"$3,444 ",0.004,85,79
+Andorra,Europe,12/1/2006,6.00%,"$2,631 ",0.003,0,0
+Estonia,Europe,12/1/2006,5.00%,$620 ,0.005,78,67
+North Macedonia,Europe,12/1/2006,7.80%,$246 ,0.012,77,72
+Finland,Europe,12/1/2006,8.30%,"$3,302 ",0.003,83,76
+Netherlands,Europe,12/1/2006,10.70%,"$4,459 ",0.004,82,78
+Spain,Europe,12/1/2006,8.40%,"$2,371 ",0.005,84,78
+Moldova,Europe,12/1/2006,10.60%,$101 ,0.018,72,64
+Denmark,Europe,12/1/2006,9.90%,"$5,017 ",0.004,80,76
+Cyprus,Europe,12/1/2006,6.30%,"$1,494 ",0.004,81,77
+United Kingdom,Europe,12/1/2006,8.40%,"$3,423 ",0.005,81,77
+Luxembourg,Europe,12/1/2006,7.70%,"$7,029 ",0.003,82,77
+Belgium,Europe,12/1/2006,9.50%,"$3,608 ",0.004,82,77
+Sweden,Europe,12/1/2006,8.90%,"$3,947 ",0.003,83,79
+Montenegro,Europe,12/1/2006,8.20%,$361 ,0.009,76,71
+France,Europe,12/1/2006,11.00%,"$3,907 ",0.004,85,77
+Norway,Europe,12/1/2006,9.20%,"$6,778 ",0.003,83,78
+Albania,Europe,12/1/2006,6.00%,$168 ,0.017,80,73
+Ireland,Europe,12/1/2006,7.50%,"$3,982 ",0.004,82,77
+Iceland,Europe,12/1/2006,9.40%,"$5,205 ",0.002,83,80
+Kosovo,Europe,12/1/2006,0,0,0,71,67
+Turkey,Europe,12/1/2006,5.80%,$422 ,0.024,76,69
+Monaco,Europe,12/1/2007,3.40%,"$5,671 ",0.004,0,0
+Bosnia and Herzegovina,Europe,12/1/2007,8.60%,$341 ,0.007,78,73
+Germany,Europe,12/1/2007,10.50%,"$4,231 ",0.004,82,77
+Serbia,Europe,12/1/2007,10.40%,$547 ,0.007,76,71
+Croatia,Europe,12/1/2007,7.50%,"$1,008 ",0.005,79,72
+Austria,Europe,12/1/2007,10.30%,"$4,636 ",0.004,83,77
+Malta,Europe,12/1/2007,8.50%,"$1,580 ",0.006,82,78
+San Marino,Europe,12/1/2007,5.00%,"$3,872 ",0.003,85,80
+Andorra,Europe,12/1/2007,6.20%,"$3,012 ",0.003,0,0
+Ukraine,Europe,12/1/2007,6.40%,$194 ,0.012,74,63
+Lithuania,Europe,12/1/2007,6.20%,$725 ,0.007,77,65
+Romania,Europe,12/1/2007,5.20%,$414 ,0.015,76,69
+Bulgaria,Europe,12/1/2007,6.80%,$375 ,0.012,76,69
+Hungary,Europe,12/1/2007,7.70%,"$1,038 ",0.007,77,69
+Slovakia,Europe,12/1/2007,7.80%,"$1,078 ",0.008,78,71
+Poland,Europe,12/1/2007,6.30%,$706 ,0.006,80,71
+Portugal,Europe,12/1/2007,10.00%,"$2,185 ",0.003,82,75
+Slovenia,Europe,12/1/2007,7.90%,"$1,850 ",0.003,82,75
+Greece,Europe,12/1/2007,9.80%,"$2,682 ",0.004,82,77
+Liechtenstein,Europe,12/1/2007,0,0,0,84,79
+Italy,Europe,12/1/2007,8.50%,"$3,058 ",0.004,84,79
+Switzerland,Europe,12/1/2007,10.20%,"$6,126 ",0.004,84,79
+Isle of Man,Europe,12/1/2007,0,0,0,0,0
+Russia,Europe,12/1/2007,5.40%,$487 ,0.012,74,61
+Belarus,Europe,12/1/2007,6.40%,$304 ,0.006,76,65
+Latvia,Europe,12/1/2007,7.00%,$883 ,0.01,77,66
+North Macedonia,Europe,12/1/2007,7.00%,$272 ,0.011,77,72
+Czech Republic,Europe,12/1/2007,6.50%,"$1,144 ",0.004,80,74
+Finland,Europe,12/1/2007,8.00%,"$3,751 ",0.003,83,76
+Luxembourg,Europe,12/1/2007,6.80%,"$7,326 ",0.002,82,77
+Netherlands,Europe,12/1/2007,10.80%,"$5,150 ",0.004,82,78
+Spain,Europe,12/1/2007,8.50%,"$2,752 ",0.004,84,78
+Moldova,Europe,12/1/2007,10.90%,$134 ,0.017,72,64
+Estonia,Europe,12/1/2007,5.10%,$835 ,0.005,79,67
+Denmark,Europe,12/1/2007,10.00%,"$5,710 ",0.004,81,76
+Cyprus,Europe,12/1/2007,6.10%,"$1,691 ",0.004,81,77
+Belgium,Europe,12/1/2007,9.50%,"$4,136 ",0.004,83,77
+Norway,Europe,12/1/2007,9.50%,"$7,978 ",0.003,83,78
+Sweden,Europe,12/1/2007,8.90%,"$4,526 ",0.003,83,79
+Montenegro,Europe,12/1/2007,7.00%,$414 ,0.008,76,72
+Albania,Europe,12/1/2007,6.40%,$218 ,0.017,80,73
+United Kingdom,Europe,12/1/2007,8.50%,"$3,953 ",0.005,82,77
+France,Europe,12/1/2007,10.90%,"$4,413 ",0.004,85,78
+Faeroe Islands,Europe,12/1/2007,0,0,0,83,78
+Iceland,Europe,12/1/2007,9.30%,"$6,182 ",0.002,83,80
+Ireland,Europe,12/1/2007,7.90%,"$4,733 ",0.004,82,77
+Kosovo,Europe,12/1/2007,0,0,0,71,67
+Turkey,Europe,12/1/2007,6.00%,$558 ,0.023,77,70
+Isle of Man,Europe,12/1/2008,0,0,0,0,0
+Monaco,Europe,12/1/2008,3.60%,"$6,623 ",0.003,0,0
+Faeroe Islands,Europe,12/1/2008,0,0,0,83,78
+Bosnia and Herzegovina,Europe,12/1/2008,8.80%,$425 ,0.007,78,73
+Germany,Europe,12/1/2008,10.70%,"$4,718 ",0.004,82,77
+Serbia,Europe,12/1/2008,10.40%,$673 ,0.007,76,71
+Austria,Europe,12/1/2008,10.50%,"$5,211 ",0.004,83,78
+Andorra,Europe,12/1/2008,6.20%,"$3,105 ",0.003,0,0
+Bulgaria,Europe,12/1/2008,7.00%,$474 ,0.012,77,70
+Hungary,Europe,12/1/2008,7.50%,"$1,146 ",0.006,78,70
+Croatia,Europe,12/1/2008,7.80%,"$1,224 ",0.005,80,72
+Portugal,Europe,12/1/2008,10.20%,"$2,425 ",0.003,82,76
+Malta,Europe,12/1/2008,8.20%,"$1,596 ",0.006,82,77
+Italy,Europe,12/1/2008,8.90%,"$3,441 ",0.004,85,79
+Switzerland,Europe,12/1/2008,10.30%,"$7,104 ",0.004,84,80
+Liechtenstein,Europe,12/1/2008,0,0,0,86,80
+Ukraine,Europe,12/1/2008,6.60%,$257 ,0.011,74,63
+Belarus,Europe,12/1/2008,5.90%,$378 ,0.006,77,65
+Lithuania,Europe,12/1/2008,6.60%,$934 ,0.007,78,66
+Latvia,Europe,12/1/2008,6.60%,$979 ,0.009,78,67
+Romania,Europe,12/1/2008,5.40%,$516 ,0.014,76,69
+Slovakia,Europe,12/1/2008,8.00%,"$1,400 ",0.007,79,71
+Poland,Europe,12/1/2008,6.90%,$956 ,0.006,80,71
+North Macedonia,Europe,12/1/2008,6.90%,$325 ,0.01,77,72
+Slovenia,Europe,12/1/2008,8.30%,"$2,265 ",0.003,82,75
+Finland,Europe,12/1/2008,8.30%,"$4,262 ",0.003,83,76
+Netherlands,Europe,12/1/2008,11.00%,"$5,834 ",0.004,82,78
+Greece,Europe,12/1/2008,10.10%,"$3,085 ",0.004,83,78
+Spain,Europe,12/1/2008,8.90%,"$3,146 ",0.004,84,78
+San Marino,Europe,12/1/2008,5.00%,"$4,069 ",0.003,86,80
+Russia,Europe,12/1/2008,5.10%,$594 ,0.012,74,62
+Moldova,Europe,12/1/2008,11.40%,$193 ,0.016,72,64
+Estonia,Europe,12/1/2008,6.00%,"$1,060 ",0.004,79,69
+Montenegro,Europe,12/1/2008,6.30%,$466 ,0.007,76,72
+Czech Republic,Europe,12/1/2008,6.80%,"$1,481 ",0.004,80,74
+Denmark,Europe,12/1/2008,10.20%,"$6,395 ",0.004,81,76
+Cyprus,Europe,12/1/2008,6.90%,"$2,182 ",0.003,81,77
+Belgium,Europe,12/1/2008,9.90%,"$4,715 ",0.004,83,77
+Luxembourg,Europe,12/1/2008,7.30%,"$8,305 ",0.002,83,78
+Sweden,Europe,12/1/2008,9.20%,"$4,886 ",0.003,83,79
+Albania,Europe,12/1/2008,6.10%,$251 ,0.016,80,74
+United Kingdom,Europe,12/1/2008,9.00%,"$3,875 ",0.005,82,78
+Norway,Europe,12/1/2008,9.00%,"$8,626 ",0.003,83,78
+France,Europe,12/1/2008,11.00%,"$4,877 ",0.004,85,78
+Iceland,Europe,12/1/2008,9.30%,"$4,959 ",0.002,83,80
+Ireland,Europe,12/1/2008,9.10%,"$5,393 ",0.004,82,78
+Turkey,Europe,12/1/2008,6.10%,$628 ,0.022,77,70
+Kosovo,Europe,12/1/2008,0,0,0,72,67
+Isle of Man,Europe,12/1/2009,0,0,0,0,0
+Monaco,Europe,12/1/2009,4.30%,"$6,458 ",0.003,0,0
+Faeroe Islands,Europe,12/1/2009,0,0,0,84,78
+Germany,Europe,12/1/2009,11.80%,"$4,727 ",0.004,83,77
+Bosnia and Herzegovina,Europe,12/1/2009,9.90%,$440 ,0.007,78,73
+Portugal,Europe,12/1/2009,10.80%,"$2,382 ",0.003,82,76
+Austria,Europe,12/1/2009,11.20%,"$5,125 ",0.004,83,77
+Andorra,Europe,12/1/2009,6.20%,"$2,762 ",0.003,0,0
+Latvia,Europe,12/1/2009,6.80%,$784 ,0.009,78,68
+Hungary,Europe,12/1/2009,7.70%,$977 ,0.006,78,70
+Serbia,Europe,12/1/2009,10.50%,$577 ,0.007,76,71
+Croatia,Europe,12/1/2009,7.80%,"$1,095 ",0.005,80,73
+Malta,Europe,12/1/2009,8.30%,"$1,669 ",0.006,83,78
+Italy,Europe,12/1/2009,9.40%,"$3,306 ",0.004,85,79
+Switzerland,Europe,12/1/2009,11.00%,"$7,277 ",0.004,84,80
+Ukraine,Europe,12/1/2009,7.80%,$198 ,0.011,75,64
+Belarus,Europe,12/1/2009,6.10%,$314 ,0.005,76,65
+Romania,Europe,12/1/2009,5.60%,$431 ,0.013,77,70
+Bulgaria,Europe,12/1/2009,7.20%,$463 ,0.012,77,70
+Slovakia,Europe,12/1/2009,9.20%,"$1,475 ",0.007,79,71
+North Macedonia,Europe,12/1/2009,6.90%,$306 ,0.01,77,72
+Poland,Europe,12/1/2009,7.20%,$813 ,0.005,80,72
+Czech Republic,Europe,12/1/2009,8.00%,"$1,498 ",0.004,80,74
+Slovenia,Europe,12/1/2009,9.20%,"$2,235 ",0.003,82,76
+Denmark,Europe,12/1/2009,11.50%,"$6,464 ",0.004,81,77
+Finland,Europe,12/1/2009,9.20%,"$4,121 ",0.003,83,77
+Greece,Europe,12/1/2009,10.00%,"$2,861 ",0.004,83,78
+Luxembourg,Europe,12/1/2009,8.00%,"$8,127 ",0.002,83,78
+Netherlands,Europe,12/1/2009,11.90%,"$5,740 ",0.004,83,79
+Spain,Europe,12/1/2009,9.60%,"$3,058 ",0.004,85,79
+Liechtenstein,Europe,12/1/2009,0,0,0,84,80
+San Marino,Europe,12/1/2009,5.10%,"$3,548 ",0.003,86,80
+Russia,Europe,12/1/2009,6.20%,$525 ,0.011,75,63
+Moldova,Europe,12/1/2009,12.50%,$190 ,0.016,72,65
+Lithuania,Europe,12/1/2009,7.50%,$836 ,0.006,79,68
+Estonia,Europe,12/1/2009,6.80%,$968 ,0.004,80,70
+Montenegro,Europe,12/1/2009,6.30%,$424 ,0.007,77,72
+Cyprus,Europe,12/1/2009,7.40%,"$2,115 ",0.003,81,77
+Belgium,Europe,12/1/2009,10.60%,"$4,664 ",0.004,83,77
+Sweden,Europe,12/1/2009,9.90%,"$4,357 ",0.003,83,79
+Albania,Europe,12/1/2009,6.00%,$230 ,0.015,80,74
+United Kingdom,Europe,12/1/2009,9.90%,"$3,512 ",0.005,82,78
+France,Europe,12/1/2009,11.70%,"$4,776 ",0.004,85,78
+Norway,Europe,12/1/2009,10.10%,"$7,944 ",0.003,83,79
+Iceland,Europe,12/1/2009,9.70%,"$3,696 ",0.002,84,80
+Ireland,Europe,12/1/2009,10.00%,"$5,040 ",0.004,83,78
+Turkey,Europe,12/1/2009,6.70%,$580 ,0.021,77,70
+Kosovo,Europe,12/1/2009,0,0,0,72,68
+Isle of Man,Europe,12/1/2010,0,0,0,0,0
+Monaco,Europe,12/1/2010,4.40%,"$6,431 ",0.003,0,0
+Faeroe Islands,Europe,12/1/2010,0,0,0,84,79
+Germany,Europe,12/1/2010,11.50%,"$4,668 ",0.004,83,78
+Latvia,Europe,12/1/2010,6.50%,$742 ,0.008,78,69
+Serbia,Europe,12/1/2010,10.70%,$546 ,0.007,77,71
+Hungary,Europe,12/1/2010,8.00%,"$1,026 ",0.006,78,71
+Bosnia and Herzegovina,Europe,12/1/2010,9.80%,$427 ,0.007,78,73
+Austria,Europe,12/1/2010,11.60%,"$5,272 ",0.004,83,78
+Malta,Europe,12/1/2010,8.50%,"$1,707 ",0.006,84,79
+Liechtenstein,Europe,12/1/2010,0,0,0,84,80
+Italy,Europe,12/1/2010,9.40%,"$3,205 ",0.003,85,80
+Andorra,Europe,12/1/2010,7.20%,"$2,958 ",0.002,0,0
+Bulgaria,Europe,12/1/2010,7.60%,$480 ,0.011,77,70
+Croatia,Europe,12/1/2010,7.80%,"$1,051 ",0.005,80,74
+Portugal,Europe,12/1/2010,10.80%,"$2,324 ",0.003,82,76
+Greece,Europe,12/1/2010,9.40%,"$2,442 ",0.004,83,78
+Spain,Europe,12/1/2010,9.60%,"$2,902 ",0.004,85,79
+Switzerland,Europe,12/1/2010,10.90%,"$7,697 ",0.004,85,80
+Ukraine,Europe,12/1/2010,7.80%,$231 ,0.01,76,65
+Belarus,Europe,12/1/2010,5.60%,$323 ,0.005,77,65
+Romania,Europe,12/1/2010,5.90%,$457 ,0.012,77,70
+Slovakia,Europe,12/1/2010,9.00%,"$1,446 ",0.007,79,72
+Poland,Europe,12/1/2010,7.00%,$860 ,0.005,81,72
+North Macedonia,Europe,12/1/2010,7.00%,$309 ,0.009,77,73
+Czech Republic,Europe,12/1/2010,7.40%,"$1,404 ",0.003,81,74
+Slovenia,Europe,12/1/2010,8.90%,"$2,044 ",0.003,83,76
+Denmark,Europe,12/1/2010,11.10%,"$6,266 ",0.003,81,77
+Finland,Europe,12/1/2010,9.00%,"$3,978 ",0.003,83,77
+Netherlands,Europe,12/1/2010,12.10%,"$5,676 ",0.004,83,79
+San Marino,Europe,12/1/2010,5.30%,"$3,319 ",0.003,86,80
+Moldova,Europe,12/1/2010,11.70%,$190 ,0.015,72,65
+Lithuania,Europe,12/1/2010,7.00%,$782 ,0.006,79,68
+Estonia,Europe,12/1/2010,6.30%,$894 ,0.004,81,71
+Montenegro,Europe,12/1/2010,7.20%,$476 ,0.006,77,72
+Cyprus,Europe,12/1/2010,7.40%,"$2,012 ",0.003,81,77
+Belgium,Europe,12/1/2010,10.50%,"$4,570 ",0.004,83,78
+Luxembourg,Europe,12/1/2010,7.20%,"$7,592 ",0.002,84,78
+Sweden,Europe,12/1/2010,9.50%,"$4,694 ",0.003,84,80
+Russia,Europe,12/1/2010,6.30%,$669 ,0.01,75,63
+Albania,Europe,12/1/2010,5.50%,$207 ,0.015,80,74
+France,Europe,12/1/2010,11.70%,"$4,634 ",0.004,85,78
+United Kingdom,Europe,12/1/2010,9.60%,"$3,489 ",0.004,82,79
+Norway,Europe,12/1/2010,10.00%,"$8,694 ",0.003,83,79
+Iceland,Europe,12/1/2010,9.40%,"$3,730 ",0.002,84,80
+Ireland,Europe,12/1/2010,9.30%,"$4,320 ",0.004,83,79
+Turkey,Europe,12/1/2010,6.80%,$680 ,0.02,78,71
+Kosovo,Europe,12/1/2010,0,0,0,72,68
+Isle of Man,Europe,12/1/2011,0,0,0,0,0
+Andorra,Europe,12/1/2011,7.20%,"$3,053 ",0.002,0,0
+Monaco,Europe,12/1/2011,4.40%,"$7,180 ",0.003,0,0
+Germany,Europe,12/1/2011,11.30%,"$4,996 ",0.003,83,78
+Latvia,Europe,12/1/2011,6.00%,$826 ,0.008,79,69
+Hungary,Europe,12/1/2011,7.90%,"$1,096 ",0.006,79,71
+Serbia,Europe,12/1/2011,10.30%,$622 ,0.006,77,72
+Bosnia and Herzegovina,Europe,12/1/2011,9.90%,$471 ,0.006,79,73
+Portugal,Europe,12/1/2011,10.20%,"$2,302 ",0.003,84,77
+Austria,Europe,12/1/2011,11.30%,"$5,643 ",0.003,84,78
+Italy,Europe,12/1/2011,9.20%,"$3,339 ",0.003,85,80
+Romania,Europe,12/1/2011,5.60%,$480 ,0.012,78,71
+Bulgaria,Europe,12/1/2011,7.30%,$522 ,0.011,78,71
+Poland,Europe,12/1/2011,6.80%,$915 ,0.005,81,73
+Croatia,Europe,12/1/2011,6.80%,$992 ,0.004,80,74
+Czech Republic,Europe,12/1/2011,7.50%,"$1,545 ",0.003,81,75
+Greece,Europe,12/1/2011,9.00%,"$2,304 ",0.004,84,78
+Malta,Europe,12/1/2011,8.70%,"$1,900 ",0.005,83,79
+San Marino,Europe,12/1/2011,5.50%,"$3,553 ",0.003,86,80
+Spain,Europe,12/1/2011,9.30%,"$2,978 ",0.004,86,80
+Switzerland,Europe,12/1/2011,11.00%,"$9,248 ",0.004,85,81
+Ukraine,Europe,12/1/2011,7.30%,$262 ,0.01,76,66
+Lithuania,Europe,12/1/2011,6.70%,$887 ,0.005,79,68
+Estonia,Europe,12/1/2011,5.80%,$928 ,0.003,81,71
+Slovakia,Europe,12/1/2011,7.90%,"$1,415 ",0.007,80,72
+North Macedonia,Europe,12/1/2011,6.90%,$344 ,0.008,77,73
+Slovenia,Europe,12/1/2011,8.90%,"$2,171 ",0.003,83,77
+Finland,Europe,12/1/2011,9.00%,"$4,411 ",0.002,84,77
+Denmark,Europe,12/1/2011,10.90%,"$6,521 ",0.003,82,78
+Netherlands,Europe,12/1/2011,11.90%,"$5,997 ",0.004,83,79
+Luxembourg,Europe,12/1/2011,6.70%,"$7,751 ",0.002,84,79
+Liechtenstein,Europe,12/1/2011,0,0,0,84,80
+Moldova,Europe,12/1/2011,11.40%,$224 ,0.014,73,65
+Belarus,Europe,12/1/2011,4.90%,$311 ,0.004,77,65
+Montenegro,Europe,12/1/2011,7.20%,$522 ,0.006,77,72
+Cyprus,Europe,12/1/2011,7.40%,"$2,123 ",0.003,82,77
+Belgium,Europe,12/1/2011,10.50%,"$4,914 ",0.004,83,78
+Faeroe Islands,Europe,12/1/2011,0,0,0,84,79
+Norway,Europe,12/1/2011,9.90%,"$9,908 ",0.003,84,79
+Sweden,Europe,12/1/2011,9.50%,"$5,419 ",0.002,84,80
+Russia,Europe,12/1/2011,6.10%,$803 ,0.01,76,64
+Albania,Europe,12/1/2011,6.00%,$243 ,0.014,80,74
+United Kingdom,Europe,12/1/2011,9.40%,"$3,659 ",0.004,83,79
+France,Europe,12/1/2011,11.60%,"$4,968 ",0.004,86,79
+Iceland,Europe,12/1/2011,9.20%,"$4,051 ",0.002,84,81
+Ireland,Europe,12/1/2011,8.80%,"$4,306 ",0.003,83,79
+Turkey,Europe,12/1/2011,6.10%,$644 ,0.019,78,71
+Kosovo,Europe,12/1/2011,0,0,0,72,68
+Isle of Man,Europe,12/1/2012,0,0,0,0,0
+Monaco,Europe,12/1/2012,4.40%,"$6,708 ",0.003,0,0
+Germany,Europe,12/1/2012,11.30%,"$4,683 ",0.003,83,79
+Hungary,Europe,12/1/2012,7.80%,$987 ,0.005,79,72
+Serbia,Europe,12/1/2012,10.50%,$561 ,0.006,78,73
+Bosnia and Herzegovina,Europe,12/1/2012,9.90%,$447 ,0.006,79,74
+Portugal,Europe,12/1/2012,9.40%,"$1,905 ",0.003,84,77
+Greece,Europe,12/1/2012,9.30%,"$2,044 ",0.004,83,78
+Austria,Europe,12/1/2012,11.50%,"$5,407 ",0.003,84,78
+Italy,Europe,12/1/2012,9.20%,"$3,032 ",0.003,86,80
+Andorra,Europe,12/1/2012,8.30%,"$3,057 ",0.002,0,0
+San Marino,Europe,12/1/2012,6.50%,"$3,792 ",0.003,0,0
+Lithuania,Europe,12/1/2012,6.70%,$859 ,0.005,80,68
+Latvia,Europe,12/1/2012,6.00%,$792 ,0.008,79,69
+Romania,Europe,12/1/2012,5.10%,$420 ,0.011,78,71
+Bulgaria,Europe,12/1/2012,7.40%,$516 ,0.011,78,71
+Slovakia,Europe,12/1/2012,7.80%,"$1,326 ",0.006,80,73
+Poland,Europe,12/1/2012,6.70%,$854 ,0.005,81,73
+Croatia,Europe,12/1/2012,6.80%,$908 ,0.004,80,74
+Czech Republic,Europe,12/1/2012,7.70%,"$1,432 ",0.003,81,75
+Denmark,Europe,12/1/2012,11.20%,"$6,304 ",0.003,82,78
+Malta,Europe,12/1/2012,9.10%,"$1,835 ",0.005,83,79
+Liechtenstein,Europe,12/1/2012,0,0,0,85,80
+Spain,Europe,12/1/2012,9.60%,"$2,808 ",0.004,85,80
+Switzerland,Europe,12/1/2012,11.30%,"$8,980 ",0.004,85,81
+Ukraine,Europe,12/1/2012,7.60%,$293 ,0.009,76,66
+Estonia,Europe,12/1/2012,5.90%,"$1,010 ",0.003,82,72
+North Macedonia,Europe,12/1/2012,7.10%,$327 ,0.007,77,73
+Slovenia,Europe,12/1/2012,8.80%,"$1,942 ",0.002,83,77
+Belgium,Europe,12/1/2012,10.80%,"$4,711 ",0.004,83,78
+Finland,Europe,12/1/2012,9.10%,"$4,232 ",0.002,84,78
+Netherlands,Europe,12/1/2012,12.40%,"$5,737 ",0.004,83,79
+Luxembourg,Europe,12/1/2012,6.90%,"$7,452 ",0.002,84,79
+Moldova,Europe,12/1/2012,11.70%,$239 ,0.014,73,65
+Belarus,Europe,12/1/2012,5.00%,$339 ,0.004,78,67
+Montenegro,Europe,12/1/2012,7.60%,$493 ,0.005,77,72
+Cyprus,Europe,12/1/2012,7.30%,"$1,949 ",0.003,82,78
+Norway,Europe,12/1/2012,9.00%,"$9,055 ",0.002,84,80
+Sweden,Europe,12/1/2012,9.60%,"$5,319 ",0.002,84,80
+Russia,Europe,12/1/2012,6.30%,$887 ,0.009,76,65
+Albania,Europe,12/1/2012,6.00%,$228 ,0.014,80,74
+France,Europe,12/1/2012,11.70%,"$4,690 ",0.004,86,79
+United Kingdom,Europe,12/1/2012,9.40%,"$3,647 ",0.004,84,80
+Faeroe Islands,Europe,12/1/2012,0,0,0,85,80
+Iceland,Europe,12/1/2012,9.10%,"$3,872 ",0.002,84,82
+Ireland,Europe,12/1/2012,8.10%,"$3,708 ",0.003,83,79
+Turkey,Europe,12/1/2012,6.30%,$665 ,0.017,78,72
+Kosovo,Europe,12/1/2012,0,0,0,73,68
+Lebanon,Middle East,12/1/2005,7.80%,$420 ,0.012,79,75
+Qatar,Middle East,12/1/2005,3.00%,"$1,634 ",0.009,78,77
+United Arab Emirates,Middle East,12/1/2005,2.30%,"$1,030 ",0.008,77,75
+Iran,Middle East,12/1/2005,5.30%,$156 ,0.022,73,70
+Bahrain,Middle East,12/1/2005,3.70%,$573 ,0.009,76,75
+Kuwait,Middle East,12/1/2005,2.40%,$834 ,0.01,75,73
+Israel,Middle East,12/1/2005,7.70%,"$1,480 ",0.005,82,78
+Oman,Middle East,12/1/2005,2.60%,$331 ,0.011,77,72
+Saudi Arabia,Middle East,12/1/2005,3.50%,$466 ,0.017,76,72
+Syria,Middle East,12/1/2005,4.10%,$63 ,0.016,77,73
+Jordan,Middle East,12/1/2005,8.90%,$213 ,0.02,74,71
+Iraq,Middle East,12/1/2005,4.10%,$55 ,0.033,72,67
+Yemen,Middle East,12/1/2005,4.60%,$42 ,0.056,63,60
+Lebanon,Middle East,12/1/2006,8.10%,$443 ,0.011,80,76
+Qatar,Middle East,12/1/2006,2.60%,"$1,625 ",0.009,78,77
+United Arab Emirates,Middle East,12/1/2006,2.30%,"$1,109 ",0.008,77,75
+Iran,Middle East,12/1/2006,5.10%,$174 ,0.021,74,70
+Bahrain,Middle East,12/1/2006,3.60%,$599 ,0.009,76,75
+Kuwait,Middle East,12/1/2006,2.20%,$943 ,0.01,75,73
+Israel,Middle East,12/1/2006,7.40%,"$1,524 ",0.004,83,88
+Oman,Middle East,12/1/2006,2.30%,$346 ,0.011,77,73
+Saudi Arabia,Middle East,12/1/2006,3.70%,$537 ,0.016,76,72
+Syria,Middle East,12/1/2006,3.80%,$66 ,0.015,77,73
+Jordan,Middle East,12/1/2006,8.10%,$224 ,0.02,74,71
+Iraq,Middle East,12/1/2006,3.00%,$58 ,0.033,72,66
+Yemen,Middle East,12/1/2006,4.80%,$52 ,0.054,63,60
+Lebanon,Middle East,12/1/2007,8.00%,$480 ,0.011,80,76
+Qatar,Middle East,12/1/2007,2.30%,"$1,600 ",0.008,79,77
+United Arab Emirates,Middle East,12/1/2007,2.50%,"$1,184 ",0.008,77,75
+Bahrain,Middle East,12/1/2007,3.60%,$648 ,0.009,77,75
+Iran,Middle East,12/1/2007,5.10%,$220 ,0.019,74,70
+Kuwait,Middle East,12/1/2007,2.10%,$954 ,0.01,75,73
+Israel,Middle East,12/1/2007,7.50%,"$1,730 ",0.004,82,88
+Saudi Arabia,Middle East,12/1/2007,3.70%,$566 ,0.016,76,73
+Oman,Middle East,12/1/2007,2.50%,$403 ,0.01,77,73
+Syria,Middle East,12/1/2007,3.80%,$79 ,0.015,77,73
+Jordan,Middle East,12/1/2007,8.30%,$252 ,0.019,75,71
+Yemen,Middle East,12/1/2007,4.90%,$57 ,0.052,63,61
+Iraq,Middle East,12/1/2007,3.70%,$95 ,0.032,72,66
+Lebanon,Middle East,12/1/2008,7.50%,$529 ,0.01,81,76
+Qatar,Middle East,12/1/2008,1.90%,"$1,590 ",0.008,79,77
+United Arab Emirates,Middle East,12/1/2008,2.70%,"$1,353 ",0.008,77,75
+Bahrain,Middle East,12/1/2008,4.10%,$727 ,0.008,77,75
+Iran,Middle East,12/1/2008,6.40%,$313 ,0.018,74,71
+Kuwait,Middle East,12/1/2008,1.90%,"$1,049 ",0.01,75,73
+Saudi Arabia,Middle East,12/1/2008,3.10%,$566 ,0.016,76,73
+Oman,Middle East,12/1/2008,2.10%,$473 ,0.01,78,73
+Israel,Middle East,12/1/2008,7.60%,"$2,076 ",0.004,83,79
+Syria,Middle East,12/1/2008,3.40%,$90 ,0.014,77,73
+Jordan,Middle East,12/1/2008,8.80%,$326 ,0.019,75,72
+Yemen,Middle East,12/1/2008,5.10%,$69 ,0.05,63,61
+Iraq,Middle East,12/1/2008,3.90%,$142 ,0.031,72,65
+Qatar,Middle East,12/1/2009,2.60%,"$1,647 ",0.008,79,77
+Lebanon,Middle East,12/1/2009,7.40%,$604 ,0.009,81,77
+United Arab Emirates,Middle East,12/1/2009,3.40%,"$1,336 ",0.008,77,75
+Bahrain,Middle East,12/1/2009,4.50%,$729 ,0.007,77,75
+Iran,Middle East,12/1/2009,7.20%,$357 ,0.017,75,71
+Kuwait,Middle East,12/1/2009,3.90%,"$1,463 ",0.01,75,73
+Saudi Arabia,Middle East,12/1/2009,4.10%,$582 ,0.015,77,73
+Oman,Middle East,12/1/2009,3.00%,$511 ,0.01,78,74
+Israel,Middle East,12/1/2009,7.60%,"$1,973 ",0.004,83,80
+Syria,Middle East,12/1/2009,3.50%,$95 ,0.014,77,73
+Jordan,Middle East,12/1/2009,9.50%,$368 ,0.018,75,72
+Yemen,Middle East,12/1/2009,5.30%,$65 ,0.048,64,61
+Iraq,Middle East,12/1/2009,4.60%,$143 ,0.031,72,65
+Qatar,Middle East,12/1/2010,2.10%,"$1,496 ",0.008,79,77
+Lebanon,Middle East,12/1/2010,7.20%,$620 ,0.009,81,77
+Bahrain,Middle East,12/1/2010,4.30%,$747 ,0.007,77,76
+United Arab Emirates,Middle East,12/1/2010,3.20%,"$1,283 ",0.008,78,76
+Iran,Middle East,12/1/2010,7.30%,$416 ,0.016,75,71
+Kuwait,Middle East,12/1/2010,2.80%,"$1,116 ",0.009,75,73
+Saudi Arabia,Middle East,12/1/2010,4.00%,$663 ,0.015,77,73
+Oman,Middle East,12/1/2010,2.80%,$582 ,0.01,78,74
+Israel,Middle East,12/1/2010,7.60%,"$2,165 ",0.004,84,80
+Syria,Middle East,12/1/2010,3.40%,$97 ,0.013,78,72
+Jordan,Middle East,12/1/2010,8.50%,$361 ,0.018,75,72
+Yemen,Middle East,12/1/2010,5.10%,$66 ,0.046,64,61
+Iraq,Middle East,12/1/2010,3.10%,$141 ,0.03,73,65
+Qatar,Middle East,12/1/2011,1.90%,"$1,738 ",0.007,79,77
+Lebanon,Middle East,12/1/2011,7.40%,$646 ,0.009,82,77
+Bahrain,Middle East,12/1/2011,3.80%,$766 ,0.006,77,76
+United Arab Emirates,Middle East,12/1/2011,3.10%,"$1,375 ",0.007,78,76
+Iran,Middle East,12/1/2011,6.80%,$483 ,0.016,75,72
+Saudi Arabia,Middle East,12/1/2011,3.50%,$721 ,0.014,77,74
+Kuwait,Middle East,12/1/2011,2.60%,"$1,349 ",0.009,75,73
+Israel,Middle East,12/1/2011,7.60%,"$2,373 ",0.003,84,80
+Oman,Middle East,12/1/2011,2.40%,$610 ,0.01,79,74
+Syria,Middle East,12/1/2011,3.40%,$102 ,0.013,78,72
+Jordan,Middle East,12/1/2011,8.80%,$386 ,0.017,75,72
+Yemen,Middle East,12/1/2011,5.00%,$63 ,0.044,64,61
+Iraq,Middle East,12/1/2011,2.70%,$160 ,0.029,73,65
+Qatar,Middle East,12/1/2012,2.20%,"$2,029 ",0.007,79,78
+Lebanon,Middle East,12/1/2012,7.60%,$675 ,0.008,82,78
+United Arab Emirates,Middle East,12/1/2012,2.80%,"$1,343 ",0.007,78,76
+Bahrain,Middle East,12/1/2012,3.90%,$895 ,0.006,77,76
+Iran,Middle East,12/1/2012,6.70%,$490 ,0.015,76,72
+Saudi Arabia,Middle East,12/1/2012,3.20%,$795 ,0.014,77,74
+Kuwait,Middle East,12/1/2012,2.50%,"$1,428 ",0.009,75,73
+Oman,Middle East,12/1/2012,2.60%,$690 ,0.01,79,75
+Israel,Middle East,12/1/2012,7.50%,"$2,289 ",0.003,84,80
+Syria,Middle East,12/1/2012,3.40%,$105 ,0.012,78,72
+Jordan,Middle East,12/1/2012,9.80%,$388 ,0.017,75,72
+Yemen,Middle East,12/1/2012,5.50%,$71 ,0.042,64,62
+Iraq,Middle East,12/1/2012,3.60%,$226 ,0.029,73,66
+American Samoa,Oceania,12/1/2005,0,0,0,0,0
+Australia,Oceania,12/1/2005,8.50%,"$3,136 ",0.005,83,79
+New Zealand,Oceania,12/1/2005,8.40%,"$2,288 ",0.005,82,78
+New Caledonia,Oceania,12/1/2005,0,0,0,79,72
+French Polynesia,Oceania,12/1/2005,0,0,0,77,72
+Guam,Oceania,12/1/2005,0,0,0,79,74
+Fiji,Oceania,12/1/2005,3.60%,$132 ,0.02,71,66
+Kiribati,Oceania,12/1/2005,10.10%,$118 ,0.05,69,64
+"Micronesia, Fed. Sts.",Oceania,12/1/2005,12.10%,$285 ,0.037,69,67
+Vanuatu,Oceania,12/1/2005,3.30%,$61 ,0.018,71,67
+Samoa,Oceania,12/1/2005,5.00%,$114 ,0.017,74,68
+Tonga,Oceania,12/1/2005,6.40%,$167 ,0.013,74,69
+Papua New Guinea,Oceania,12/1/2005,4.00%,$32 ,0.056,63,59
+Marshall Islands,Oceania,12/1/2005,17.30%,$462 ,0.033,0,0
+Solomon Islands,Oceania,12/1/2005,7.80%,$69 ,0.029,67,64
+Australia,Oceania,12/1/2006,8.50%,"$3,330 ",0.005,84,79
+New Zealand,Oceania,12/1/2006,8.80%,"$2,295 ",0.005,82,78
+French Polynesia,Oceania,12/1/2006,0,0,0,77,72
+New Caledonia,Oceania,12/1/2006,0,0,0,80,73
+Guam,Oceania,12/1/2006,0,0,0,80,74
+American Samoa,Oceania,12/1/2006,0,0,0,0,0
+Fiji,Oceania,12/1/2006,3.80%,$144 ,0.02,72,66
+Kiribati,Oceania,12/1/2006,11.00%,$124 ,0.05,69,64
+"Micronesia, Fed. Sts.",Oceania,12/1/2006,11.90%,$285 ,0.036,69,67
+Vanuatu,Oceania,12/1/2006,3.10%,$64 ,0.017,72,68
+Samoa,Oceania,12/1/2006,5.20%,$129 ,0.016,75,68
+Tonga,Oceania,12/1/2006,5.50%,$159 ,0.013,74,69
+Papua New Guinea,Oceania,12/1/2006,3.50%,$31 ,0.055,63,59
+Solomon Islands,Oceania,12/1/2006,6.70%,$63 ,0.029,67,65
+Marshall Islands,Oceania,12/1/2006,19.60%,$547 ,0.033,0,0
+American Samoa,Oceania,12/1/2007,0,0,0,0,0
+Australia,Oceania,12/1/2007,8.60%,"$3,956 ",0.005,84,79
+New Zealand,Oceania,12/1/2007,8.50%,"$2,694 ",0.005,82,78
+New Caledonia,Oceania,12/1/2007,0,0,0,80,72
+French Polynesia,Oceania,12/1/2007,0,0,0,77,73
+Guam,Oceania,12/1/2007,0,0,0,80,75
+Fiji,Oceania,12/1/2007,3.70%,$152 ,0.02,72,66
+Kiribati,Oceania,12/1/2007,12.10%,$160 ,0.05,70,64
+"Micronesia, Fed. Sts.",Oceania,12/1/2007,12.00%,$292 ,0.035,69,67
+Vanuatu,Oceania,12/1/2007,3.70%,$88 ,0.017,72,68
+Tonga,Oceania,12/1/2007,6.90%,$205 ,0.013,75,69
+Samoa,Oceania,12/1/2007,5.90%,$164 ,0.016,75,68
+Papua New Guinea,Oceania,12/1/2007,4.20%,$41 ,0.054,63,59
+Solomon Islands,Oceania,12/1/2007,5.60%,$67 ,0.029,68,65
+Marshall Islands,Oceania,12/1/2007,19.60%,$587 ,0.032,0,0
+American Samoa,Oceania,12/1/2008,0,0,0,0,0
+Marshall Islands,Oceania,12/1/2008,17.90%,$569 ,0.032,0,0
+Australia,Oceania,12/1/2008,8.80%,"$4,237 ",0.004,84,79
+New Zealand,Oceania,12/1/2008,9.30%,"$2,820 ",0.005,82,78
+New Caledonia,Oceania,12/1/2008,0,0,0,81,72
+French Polynesia,Oceania,12/1/2008,0,0,0,78,73
+Guam,Oceania,12/1/2008,0,0,0,80,75
+Fiji,Oceania,12/1/2008,3.60%,$154 ,0.02,72,66
+Kiribati,Oceania,12/1/2008,13.20%,$183 ,0.049,70,64
+"Micronesia, Fed. Sts.",Oceania,12/1/2008,12.90%,$323 ,0.034,69,68
+Vanuatu,Oceania,12/1/2008,3.70%,$99 ,0.017,72,68
+Tonga,Oceania,12/1/2008,6.30%,$207 ,0.012,75,69
+Samoa,Oceania,12/1/2008,5.10%,$153 ,0.016,75,69
+Papua New Guinea,Oceania,12/1/2008,4.60%,$56 ,0.053,64,60
+Solomon Islands,Oceania,12/1/2008,5.60%,$72 ,0.028,68,65
+American Samoa,Oceania,12/1/2009,0,0,0,0,0
+Marshall Islands,Oceania,12/1/2009,17.50%,$551 ,0.032,0,0
+New Zealand,Oceania,12/1/2009,10.00%,"$2,702 ",0.005,83,79
+Australia,Oceania,12/1/2009,9.00%,"$4,118 ",0.004,84,79
+New Caledonia,Oceania,12/1/2009,0,0,0,81,72
+French Polynesia,Oceania,12/1/2009,0,0,0,78,73
+Guam,Oceania,12/1/2009,0,0,0,81,75
+Fiji,Oceania,12/1/2009,4.20%,$143 ,0.02,72,66
+Kiribati,Oceania,12/1/2009,11.50%,$143 ,0.049,70,65
+"Micronesia, Fed. Sts.",Oceania,12/1/2009,13.40%,$357 ,0.033,69,68
+Vanuatu,Oceania,12/1/2009,3.90%,$103 ,0.016,73,69
+Samoa,Oceania,12/1/2009,5.70%,$160 ,0.016,75,69
+Tonga,Oceania,12/1/2009,4.60%,$145 ,0.012,75,69
+Papua New Guinea,Oceania,12/1/2009,4.20%,$50 ,0.052,64,60
+Solomon Islands,Oceania,12/1/2009,7.80%,$91 ,0.028,68,66
+Marshall Islands,Oceania,12/1/2010,16.00%,$542 ,0.032,0,0
+Australia,Oceania,12/1/2010,8.90%,"$5,138 ",0.004,84,80
+New Zealand,Oceania,12/1/2010,10.20%,"$3,260 ",0.005,83,79
+French Polynesia,Oceania,12/1/2010,0,0,0,78,73
+New Caledonia,Oceania,12/1/2010,0,0,0,79,73
+Guam,Oceania,12/1/2010,0,0,0,81,75
+American Samoa,Oceania,12/1/2010,0,0,0,0,0
+Fiji,Oceania,12/1/2010,4.20%,$154 ,0.02,72,66
+Kiribati,Oceania,12/1/2010,11.20%,$162 ,0.048,71,65
+"Micronesia, Fed. Sts.",Oceania,12/1/2010,13.80%,$393 ,0.033,69,68
+Vanuatu,Oceania,12/1/2010,4.70%,$139 ,0.016,73,69
+Tonga,Oceania,12/1/2010,4.80%,$172 ,0.012,75,69
+Samoa,Oceania,12/1/2010,6.40%,$201 ,0.016,76,69
+Papua New Guinea,Oceania,12/1/2010,4.10%,$57 ,0.051,64,60
+Solomon Islands,Oceania,12/1/2010,7.40%,$95 ,0.027,68,66
+American Samoa,Oceania,12/1/2011,0,0,0,0,0
+Marshall Islands,Oceania,12/1/2011,16.00%,$567 ,0.032,0,0
+New Zealand,Oceania,12/1/2011,10.30%,"$3,715 ",0.005,83,79
+Australia,Oceania,12/1/2011,9.20%,"$6,114 ",0.004,84,80
+New Caledonia,Oceania,12/1/2011,0,0,0,79,73
+French Polynesia,Oceania,12/1/2011,0,0,0,78,74
+Guam,Oceania,12/1/2011,0,0,0,81,76
+Fiji,Oceania,12/1/2011,3.80%,$167 ,0.02,73,67
+Kiribati,Oceania,12/1/2011,10.80%,$181 ,0.047,71,65
+"Micronesia, Fed. Sts.",Oceania,12/1/2011,13.70%,$412 ,0.032,70,68
+Vanuatu,Oceania,12/1/2011,3.80%,$125 ,0.015,73,69
+Tonga,Oceania,12/1/2011,5.00%,$219 ,0.011,75,69
+Samoa,Oceania,12/1/2011,7.00%,$245 ,0.016,76,70
+Papua New Guinea,Oceania,12/1/2011,4.20%,$74 ,0.05,64,60
+Solomon Islands,Oceania,12/1/2011,7.70%,$124 ,0.026,69,66
+American Samoa,Oceania,12/1/2012,0,0,0,0,0
+Marshall Islands,Oceania,12/1/2012,15.60%,$590 ,0.031,0,0
+New Zealand,Oceania,12/1/2012,10.30%,"$3,292 ",0.005,83,79
+Australia,Oceania,12/1/2012,9.10%,"$6,140 ",0.004,84,80
+New Caledonia,Oceania,12/1/2012,0,0,0,79,73
+French Polynesia,Oceania,12/1/2012,0,0,0,78,74
+Guam,Oceania,12/1/2012,0,0,0,81,76
+Fiji,Oceania,12/1/2012,4.00%,$177 ,0.02,73,67
+Kiribati,Oceania,12/1/2012,10.70%,$187 ,0.046,71,66
+"Micronesia, Fed. Sts.",Oceania,12/1/2012,12.80%,$405 ,0.031,70,68
+Tonga,Oceania,12/1/2012,5.40%,$238 ,0.011,75,70
+Vanuatu,Oceania,12/1/2012,3.60%,$116 ,0.015,73,69
+Samoa,Oceania,12/1/2012,6.80%,$245 ,0.016,76,70
+Papua New Guinea,Oceania,12/1/2012,5.20%,$114 ,0.048,64,60
+Solomon Islands,Oceania,12/1/2012,8.00%,$148 ,0.026,69,66
+Cayman Islands,The Americas,12/1/2004,0,0,0,0,0
+Curacao,The Americas,12/1/2004,0,0,0,0,0
+Sint Maarten (Dutch part),The Americas,12/1/2004,0,0,0,0,0
+Turks and Caicos Islands,The Americas,12/1/2004,0,0,0,0,0
+St. Kitts and Nevis,The Americas,12/1/2004,3.50%,$363 ,0.011,0,0
+Dominica,The Americas,12/1/2004,4.70%,$243 ,0.013,0,0
+Canada,The Americas,12/1/2004,9.80%,"$3,047 ",0.005,83,78
+Cuba,The Americas,12/1/2004,6.10%,$209 ,0.006,80,76
+Puerto Rico,The Americas,12/1/2004,0,0,0,82,74
+United States,The Americas,12/1/2004,15.70%,"$6,355 ",0.007,80,75
+Trinidad and Tobago,The Americas,12/1/2004,5.20%,$522 ,0.024,73,65
+Chile,The Americas,12/1/2004,6.70%,$414 ,0.008,81,75
+Greenland,The Americas,12/1/2004,0,0,0,72,66
+Uruguay,The Americas,12/1/2004,8.50%,$350 ,0.013,79,72
+Jamaica,The Americas,12/1/2004,4.80%,$183 ,0.018,74,68
+St. Martin (French part),The Americas,12/1/2004,0,0,0,81,75
+St. Vincent and the Grenadines,The Americas,12/1/2004,3.70%,$179 ,0.019,73,69
+St. Lucia,The Americas,12/1/2004,6.30%,$330 ,0.015,75,71
+Costa Rica,The Americas,12/1/2004,7.80%,$346 ,0.009,81,76
+Grenada,The Americas,12/1/2004,5.80%,$342 ,0.013,74,69
+Suriname,The Americas,12/1/2004,6.90%,$207 ,0.027,72,65
+El Salvador,The Americas,12/1/2004,7.30%,$191 ,0.021,75,66
+Guyana,The Americas,12/1/2004,5.30%,$55 ,0.036,68,61
+Colombia,The Americas,12/1/2004,5.40%,$148 ,0.019,76,68
+Peru,The Americas,12/1/2004,4.40%,$111 ,0.023,75,69
+Venezuela,The Americas,12/1/2004,5.60%,$239 ,0.016,76,70
+Mexico,The Americas,12/1/2004,6.00%,$441 ,0.017,78,73
+Panama,The Americas,12/1/2004,8.10%,$347 ,0.02,79,73
+Dominican Republic,The Americas,12/1/2004,5.10%,$120 ,0.03,75,68
+Ecuador,The Americas,12/1/2004,6.60%,$178 ,0.025,77,72
+Paraguay,The Americas,12/1/2004,5.90%,$82 ,0.025,73,69
+Nicaragua,The Americas,12/1/2004,6.10%,$66 ,0.027,75,69
+Haiti,The Americas,12/1/2004,5.60%,$22 ,0.067,61,57
+Honduras,The Americas,12/1/2004,7.90%,$103 ,0.027,74,69
+Guatemala,The Americas,12/1/2004,6.40%,$124 ,0.035,73,66
+Cayman Islands,The Americas,12/1/2005,0,0,0,0,0
+Curacao,The Americas,12/1/2005,0,0,0,0,0
+Sint Maarten (Dutch part),The Americas,12/1/2005,0,0,0,0,0
+Turks and Caicos Islands,The Americas,12/1/2005,0,0,0,0,0
+Dominica,The Americas,12/1/2005,5.00%,$255 ,0.012,0,0
+St. Kitts and Nevis,The Americas,12/1/2005,3.60%,$389 ,0.011,0,0
+Cuba,The Americas,12/1/2005,8.10%,$306 ,0.005,80,76
+Canada,The Americas,12/1/2005,9.80%,"$3,452 ",0.005,83,78
+Aruba,The Americas,12/1/2005,0,0,0,77,72
+Barbados,The Americas,12/1/2005,7.00%,$765 ,0.015,76,72
+Puerto Rico,The Americas,12/1/2005,0,0,0,82,74
+Bermuda,The Americas,12/1/2005,0,0,0,81,76
+United States,The Americas,12/1/2005,15.80%,"$6,732 ",0.007,80,75
+Trinidad and Tobago,The Americas,12/1/2005,5.30%,$648 ,0.024,73,65
+"Bahamas, The",The Americas,12/1/2005,6.00%,"$1,394 ",0.013,77,71
+Uruguay,The Americas,12/1/2005,8.20%,$430 ,0.012,79,72
+Chile,The Americas,12/1/2005,6.60%,$497 ,0.008,81,75
+Greenland,The Americas,12/1/2005,0,0,0,72,67
+St. Lucia,The Americas,12/1/2005,6.30%,$348 ,0.015,75,71
+Costa Rica,The Americas,12/1/2005,7.70%,$364 ,0.009,81,76
+Brazil,The Americas,12/1/2005,8.20%,$387 ,0.02,76,68
+Jamaica,The Americas,12/1/2005,4.10%,$170 ,0.018,74,69
+St. Vincent and the Grenadines,The Americas,12/1/2005,3.70%,$185 ,0.019,74,69
+Argentina,The Americas,12/1/2005,8.30%,$395 ,0.015,79,71
+St. Martin (French part),The Americas,12/1/2005,0,0,0,81,75
+Grenada,The Americas,12/1/2005,6.10%,$412 ,0.013,74,69
+Antigua and Barbuda,The Americas,12/1/2005,4.50%,$544 ,0.011,77,72
+Suriname,The Americas,12/1/2005,6.80%,$243 ,0.026,72,66
+El Salvador,The Americas,12/1/2005,7.20%,$202 ,0.02,75,66
+Colombia,The Americas,12/1/2005,5.80%,$197 ,0.018,76,69
+Guyana,The Americas,12/1/2005,5.30%,$58 ,0.036,68,62
+Peru,The Americas,12/1/2005,4.50%,$128 ,0.022,75,70
+Venezuela,The Americas,12/1/2005,5.40%,$296 ,0.016,76,70
+Mexico,The Americas,12/1/2005,5.90%,$478 ,0.017,78,73
+Panama,The Americas,12/1/2005,7.50%,$344 ,0.019,79,73
+Dominican Republic,The Americas,12/1/2005,5.30%,$188 ,0.029,75,69
+Ecuador,The Americas,12/1/2005,6.30%,$190 ,0.024,78,72
+Nicaragua,The Americas,12/1/2005,6.10%,$71 ,0.026,75,69
+Paraguay,The Americas,12/1/2005,5.60%,$82 ,0.024,73,69
+Belize,The Americas,12/1/2005,4.40%,$182 ,0.018,75,69
+Haiti,The Americas,12/1/2005,4.40%,$20 ,0.066,61,58
+Bolivia,The Americas,12/1/2005,5.60%,$57 ,0.044,67,63
+Honduras,The Americas,12/1/2005,7.70%,$109 ,0.026,74,69
+Guatemala,The Americas,12/1/2005,6.50%,$138 ,0.033,73,66
+Cayman Islands,The Americas,12/1/2006,0,0,0,0,0
+Sint Maarten (Dutch part),The Americas,12/1/2006,0,0,0,0,0
+Turks and Caicos Islands,The Americas,12/1/2006,0,0,0,0,0
+St. Kitts and Nevis,The Americas,12/1/2006,4.00%,$517 ,0.01,0,0
+Cuba,The Americas,12/1/2006,7.70%,$360 ,0.005,80,76
+Canada,The Americas,12/1/2006,10.00%,"$3,904 ",0.005,83,78
+Aruba,The Americas,12/1/2006,0,0,0,77,72
+Puerto Rico,The Americas,12/1/2006,0,0,0,83,74
+Barbados,The Americas,12/1/2006,7.10%,$826 ,0.014,77,72
+Bermuda,The Americas,12/1/2006,0,0,0,82,76
+Curacao,The Americas,12/1/2006,0,0,0,79,71
+United States,The Americas,12/1/2006,15.90%,"$7,110 ",0.007,80,75
+Dominica,The Americas,12/1/2006,5.00%,$271 ,0.012,0,0
+Trinidad and Tobago,The Americas,12/1/2006,4.40%,$625 ,0.023,73,66
+Greenland,The Americas,12/1/2006,0,0,0,72,67
+"Bahamas, The",The Americas,12/1/2006,6.90%,"$1,645 ",0.012,77,71
+Uruguay,The Americas,12/1/2006,8.30%,$491 ,0.012,80,72
+Chile,The Americas,12/1/2006,6.20%,$587 ,0.008,81,75
+Jamaica,The Americas,12/1/2006,4.20%,$187 ,0.018,75,69
+Brazil,The Americas,12/1/2006,8.50%,$491 ,0.019,76,68
+St. Lucia,The Americas,12/1/2006,6.50%,$393 ,0.015,76,71
+Costa Rica,The Americas,12/1/2006,7.80%,$410 ,0.009,81,76
+St. Vincent and the Grenadines,The Americas,12/1/2006,3.90%,$218 ,0.019,74,69
+Argentina,The Americas,12/1/2006,8.30%,$454 ,0.015,79,71
+Antigua and Barbuda,The Americas,12/1/2006,4.50%,$607 ,0.01,77,72
+St. Martin (French part),The Americas,12/1/2006,0,0,0,81,75
+Grenada,The Americas,12/1/2006,6.40%,$435 ,0.013,74,69
+Suriname,The Americas,12/1/2006,6.20%,$323 ,0.025,73,66
+El Salvador,The Americas,12/1/2006,6.70%,$203 ,0.019,76,66
+Colombia,The Americas,12/1/2006,6.10%,$227 ,0.018,76,69
+Mexico,The Americas,12/1/2006,5.70%,$515 ,0.016,78,73
+Guyana,The Americas,12/1/2006,4.10%,$79 ,0.035,68,62
+Peru,The Americas,12/1/2006,4.50%,$149 ,0.02,75,70
+Venezuela,The Americas,12/1/2006,5.70%,$387 ,0.015,76,71
+Panama,The Americas,12/1/2006,7.00%,$350 ,0.019,79,73
+Dominican Republic,The Americas,12/1/2006,5.20%,$197 ,0.028,75,69
+Ecuador,The Americas,12/1/2006,6.50%,$216 ,0.023,78,72
+Paraguay,The Americas,12/1/2006,5.70%,$101 ,0.023,74,69
+Nicaragua,The Americas,12/1/2006,6.30%,$78 ,0.025,75,69
+Belize,The Americas,12/1/2006,4.40%,$192 ,0.018,75,69
+Haiti,The Americas,12/1/2006,5.70%,$30 ,0.064,62,58
+Bolivia,The Americas,12/1/2006,4.80%,$58 ,0.042,67,63
+Honduras,The Americas,12/1/2006,7.60%,$118 ,0.025,74,69
+Guatemala,The Americas,12/1/2006,7.30%,$171 ,0.032,73,66
+Turks and Caicos Islands,The Americas,12/1/2007,0,0,0,0,0
+Dominica,The Americas,12/1/2007,5.10%,$298 ,0.012,0,0
+St. Kitts and Nevis,The Americas,12/1/2007,4.10%,$551 ,0.01,0,0
+Sint Maarten (Dutch part),The Americas,12/1/2007,0,0,0,77,72
+Cuba,The Americas,12/1/2007,10.40%,$587 ,0.005,80,76
+Canada,The Americas,12/1/2007,10.00%,"$4,330 ",0.005,83,78
+Aruba,The Americas,12/1/2007,0,0,0,77,72
+Puerto Rico,The Americas,12/1/2007,0,0,0,83,74
+Barbados,The Americas,12/1/2007,7.50%,$928 ,0.014,77,72
+Curacao,The Americas,12/1/2007,0,0,0,79,72
+Bermuda,The Americas,12/1/2007,0,0,0,82,76
+Cayman Islands,The Americas,12/1/2007,0,0,0,0,0
+United States,The Americas,12/1/2007,16.10%,"$7,486 ",0.007,80,75
+Trinidad and Tobago,The Americas,12/1/2007,4.80%,$790 ,0.023,73,66
+Greenland,The Americas,12/1/2007,0,0,0,72,68
+"Bahamas, The",The Americas,12/1/2007,7.10%,"$1,721 ",0.012,77,71
+Uruguay,The Americas,12/1/2007,8.00%,$560 ,0.012,80,73
+Chile,The Americas,12/1/2007,6.40%,$665 ,0.008,82,76
+Jamaica,The Americas,12/1/2007,4.90%,$230 ,0.017,75,69
+Brazil,The Americas,12/1/2007,8.50%,$609 ,0.018,76,69
+St. Lucia,The Americas,12/1/2007,6.80%,$452 ,0.014,76,71
+Argentina,The Americas,12/1/2007,8.20%,$548 ,0.014,79,71
+St. Martin (French part),The Americas,12/1/2007,0,0,0,82,75
+Costa Rica,The Americas,12/1/2007,8.40%,$525 ,0.009,81,76
+St. Vincent and the Grenadines,The Americas,12/1/2007,3.90%,$246 ,0.019,74,70
+Antigua and Barbuda,The Americas,12/1/2007,4.60%,$698 ,0.01,77,72
+Suriname,The Americas,12/1/2007,5.90%,$341 ,0.024,73,66
+Grenada,The Americas,12/1/2007,6.10%,$448 ,0.012,74,69
+El Salvador,The Americas,12/1/2007,6.30%,$207 ,0.018,76,66
+Colombia,The Americas,12/1/2007,6.30%,$291 ,0.017,77,69
+Peru,The Americas,12/1/2007,5.10%,$192 ,0.019,76,70
+Mexico,The Americas,12/1/2007,5.80%,$565 ,0.016,78,74
+Panama,The Americas,12/1/2007,6.70%,$382 ,0.018,79,74
+Guyana,The Americas,12/1/2007,3.90%,$89 ,0.034,68,62
+Venezuela,The Americas,12/1/2007,6.00%,$497 ,0.015,77,71
+Dominican Republic,The Americas,12/1/2007,5.00%,$212 ,0.028,75,69
+Ecuador,The Americas,12/1/2007,6.70%,$241 ,0.023,78,72
+Paraguay,The Americas,12/1/2007,6.00%,$135 ,0.023,74,70
+Nicaragua,The Americas,12/1/2007,6.90%,$92 ,0.024,76,70
+Belize,The Americas,12/1/2007,4.80%,$215 ,0.017,76,70
+Haiti,The Americas,12/1/2007,5.40%,$34 ,0.063,62,59
+Bolivia,The Americas,12/1/2007,4.70%,$64 ,0.04,68,63
+Honduras,The Americas,12/1/2007,7.90%,$136 ,0.024,74,70
+Guatemala,The Americas,12/1/2007,7.20%,$184 ,0.031,74,67
+Cayman Islands,The Americas,12/1/2008,0,0,0,0,0
+Turks and Caicos Islands,The Americas,12/1/2008,0,0,0,0,0
+Dominica,The Americas,12/1/2008,4.90%,$316 ,0.012,0,0
+St. Kitts and Nevis,The Americas,12/1/2008,4.20%,$603 ,0.009,0,0
+Cuba,The Americas,12/1/2008,10.80%,$584 ,0.005,80,76
+Aruba,The Americas,12/1/2008,0,0,0,77,72
+Canada,The Americas,12/1/2008,10.30%,"$4,623 ",0.005,83,78
+Puerto Rico,The Americas,12/1/2008,0,0,0,83,75
+Sint Maarten (Dutch part),The Americas,12/1/2008,0,0,0,77,72
+Barbados,The Americas,12/1/2008,7.50%,$996 ,0.014,77,72
+Bermuda,The Americas,12/1/2008,0,0,0,82,77
+Curacao,The Americas,12/1/2008,0,0,0,79,72
+United States,The Americas,12/1/2008,16.50%,"$7,769 ",0.007,81,76
+Trinidad and Tobago,The Americas,12/1/2008,4.40%,$924 ,0.022,73,66
+Greenland,The Americas,12/1/2008,0,0,0,73,68
+Uruguay,The Americas,12/1/2008,8.00%,$722 ,0.011,80,73
+Chile,The Americas,12/1/2008,6.80%,$732 ,0.008,82,76
+Brazil,The Americas,12/1/2008,8.30%,$714 ,0.017,76,69
+Jamaica,The Americas,12/1/2008,5.40%,$272 ,0.017,75,70
+"Bahamas, The",The Americas,12/1/2008,7.30%,"$1,729 ",0.012,77,71
+Costa Rica,The Americas,12/1/2008,9.00%,$593 ,0.009,81,77
+St. Lucia,The Americas,12/1/2008,7.50%,$503 ,0.014,77,71
+Argentina,The Americas,12/1/2008,8.30%,$686 ,0.014,79,72
+St. Martin (French part),The Americas,12/1/2008,0,0,0,82,75
+St. Vincent and the Grenadines,The Americas,12/1/2008,4.70%,$299 ,0.019,74,70
+Antigua and Barbuda,The Americas,12/1/2008,4.40%,$702 ,0.009,77,73
+Suriname,The Americas,12/1/2008,5.90%,$406 ,0.024,73,67
+Grenada,The Americas,12/1/2008,6.00%,$474 ,0.012,74,70
+Colombia,The Americas,12/1/2008,6.60%,$358 ,0.017,77,69
+Mexico,The Americas,12/1/2008,5.80%,$598 ,0.015,79,74
+El Salvador,The Americas,12/1/2008,6.20%,$216 ,0.017,76,67
+Peru,The Americas,12/1/2008,5.70%,$255 ,0.017,76,71
+Venezuela,The Americas,12/1/2008,5.60%,$633 ,0.014,77,71
+Panama,The Americas,12/1/2008,7.30%,$473 ,0.018,80,74
+Guyana,The Americas,12/1/2008,6.60%,$165 ,0.034,68,63
+Ecuador,The Americas,12/1/2008,6.30%,$268 ,0.022,78,72
+Dominican Republic,The Americas,12/1/2008,5.30%,$244 ,0.027,76,69
+Paraguay,The Americas,12/1/2008,5.60%,$167 ,0.022,74,70
+Nicaragua,The Americas,12/1/2008,7.20%,$105 ,0.024,76,70
+Belize,The Americas,12/1/2008,5.10%,$237 ,0.017,76,70
+Haiti,The Americas,12/1/2008,5.50%,$36 ,0.061,63,59
+Bolivia,The Americas,12/1/2008,4.90%,$84 ,0.038,68,64
+Honduras,The Americas,12/1/2008,8.40%,$159 ,0.023,75,70
+Guatemala,The Americas,12/1/2008,6.90%,$199 ,0.03,74,67
+Turks and Caicos Islands,The Americas,12/1/2009,0,0,0,0,0
+Dominica,The Americas,12/1/2009,5.00%,$342 ,0.011,0,0
+St. Kitts and Nevis,The Americas,12/1/2009,5.00%,$686 ,0.009,0,0
+Sint Maarten (Dutch part),The Americas,12/1/2009,0,0,0,78,73
+Cuba,The Americas,12/1/2009,11.70%,$651 ,0.005,81,77
+Aruba,The Americas,12/1/2009,0,0,0,77,72
+Canada,The Americas,12/1/2009,11.40%,"$4,528 ",0.005,83,79
+Puerto Rico,The Americas,12/1/2009,0,0,0,82,74
+Bermuda,The Americas,12/1/2009,0,0,0,82,77
+Barbados,The Americas,12/1/2009,8.00%,"$1,025 ",0.014,77,72
+Curacao,The Americas,12/1/2009,0,0,0,80,72
+United States,The Americas,12/1/2009,17.70%,"$8,009 ",0.006,81,76
+Chile,The Americas,12/1/2009,7.50%,$760 ,0.008,82,76
+Trinidad and Tobago,The Americas,12/1/2009,6.10%,$887 ,0.021,73,66
+Uruguay,The Americas,12/1/2009,8.90%,$803 ,0.011,80,73
+Cayman Islands,The Americas,12/1/2009,0,0,0,0,0
+Greenland,The Americas,12/1/2009,0,0,0,73,68
+Brazil,The Americas,12/1/2009,8.80%,$733 ,0.016,77,69
+Jamaica,The Americas,12/1/2009,5.20%,$229 ,0.016,75,70
+"Bahamas, The",The Americas,12/1/2009,7.40%,"$1,640 ",0.012,78,71
+Costa Rica,The Americas,12/1/2009,9.70%,$619 ,0.009,81,77
+St. Vincent and the Grenadines,The Americas,12/1/2009,5.10%,$317 ,0.019,74,70
+St. Lucia,The Americas,12/1/2009,8.10%,$537 ,0.014,77,72
+Argentina,The Americas,12/1/2009,9.40%,$726 ,0.013,79,72
+Antigua and Barbuda,The Americas,12/1/2009,4.60%,$638 ,0.009,78,73
+St. Martin (French part),The Americas,12/1/2009,0,0,0,82,75
+Suriname,The Americas,12/1/2009,6.10%,$457 ,0.023,73,67
+Grenada,The Americas,12/1/2009,6.20%,$462 ,0.012,75,70
+Colombia,The Americas,12/1/2009,7.00%,$358 ,0.016,77,70
+Mexico,The Americas,12/1/2009,6.40%,$526 ,0.015,79,74
+El Salvador,The Americas,12/1/2009,6.80%,$228 ,0.016,76,67
+Peru,The Americas,12/1/2009,5.30%,$234 ,0.016,76,71
+Venezuela,The Americas,12/1/2009,5.80%,$665 ,0.014,77,71
+Panama,The Americas,12/1/2009,8.10%,$541 ,0.017,80,74
+Guyana,The Americas,12/1/2009,6.40%,$165 ,0.033,68,63
+Dominican Republic,The Americas,12/1/2009,5.40%,$256 ,0.026,76,70
+Ecuador,The Americas,12/1/2009,7.10%,$302 ,0.022,78,73
+Nicaragua,The Americas,12/1/2009,7.70%,$109 ,0.023,77,70
+Paraguay,The Americas,12/1/2009,7.50%,$187 ,0.021,74,70
+Belize,The Americas,12/1/2009,5.80%,$259 ,0.016,76,70
+Haiti,The Americas,12/1/2009,6.50%,$43 ,0.06,63,60
+Bolivia,The Americas,12/1/2009,5.80%,$100 ,0.036,68,64
+Honduras,The Americas,12/1/2009,9.10%,$173 ,0.022,75,70
+Guatemala,The Americas,12/1/2009,7.10%,$190 ,0.029,74,67
+Sint Maarten (Dutch part),The Americas,12/1/2010,0,0,0,0,0
+Turks and Caicos Islands,The Americas,12/1/2010,0,0,0,0,0
+St. Kitts and Nevis,The Americas,12/1/2010,5.40%,$739 ,0.009,0,0
+Cuba,The Americas,12/1/2010,10.60%,$583 ,0.005,81,77
+Aruba,The Americas,12/1/2010,0,0,0,77,73
+Puerto Rico,The Americas,12/1/2010,0,0,0,82,74
+Canada,The Americas,12/1/2010,11.40%,"$5,273 ",0.005,83,79
+Bermuda,The Americas,12/1/2010,0,0,0,82,77
+Dominica,The Americas,12/1/2010,6.00%,$400 ,0.011,0,0
+Barbados,The Americas,12/1/2010,6.70%,$978 ,0.014,77,72
+United States,The Americas,12/1/2010,17.70%,"$8,254 ",0.006,81,76
+Curacao,The Americas,12/1/2010,0,0,0,0,0
+Chile,The Americas,12/1/2010,7.10%,$894 ,0.008,82,76
+Cayman Islands,The Americas,12/1/2010,0,0,0,0,0
+Trinidad and Tobago,The Americas,12/1/2010,5.20%,$805 ,0.021,73,66
+Greenland,The Americas,12/1/2010,0,0,0,73,69
+Jamaica,The Americas,12/1/2010,5.30%,$255 ,0.016,76,70
+Uruguay,The Americas,12/1/2010,8.70%,$998 ,0.011,80,73
+Brazil,The Americas,12/1/2010,9.00%,$989 ,0.015,77,70
+St. Lucia,The Americas,12/1/2010,7.80%,$525 ,0.014,77,72
+"Bahamas, The",The Americas,12/1/2010,7.40%,"$1,626 ",0.011,78,72
+Costa Rica,The Americas,12/1/2010,9.70%,$750 ,0.009,82,77
+St. Vincent and the Grenadines,The Americas,12/1/2010,4.70%,$293 ,0.019,74,70
+Argentina,The Americas,12/1/2010,8.20%,$751 ,0.013,79,72
+Antigua and Barbuda,The Americas,12/1/2010,5.70%,$736 ,0.009,78,73
+St. Martin (French part),The Americas,12/1/2010,0,0,0,82,76
+Suriname,The Americas,12/1/2010,5.80%,$483 ,0.022,74,67
+Grenada,The Americas,12/1/2010,6.00%,$438 ,0.012,75,70
+El Salvador,The Americas,12/1/2010,6.90%,$238 ,0.015,76,67
+Colombia,The Americas,12/1/2010,6.80%,$418 ,0.016,77,70
+Mexico,The Americas,12/1/2010,6.30%,$603 ,0.014,79,74
+Panama,The Americas,12/1/2010,8.50%,$627 ,0.017,80,74
+Peru,The Americas,12/1/2010,4.90%,$257 ,0.015,77,71
+Venezuela,The Americas,12/1/2010,4.70%,$639 ,0.014,77,71
+Guyana,The Americas,12/1/2010,6.60%,$188 ,0.032,68,63
+Dominican Republic,The Americas,12/1/2010,5.50%,$278 ,0.026,76,70
+Ecuador,The Americas,12/1/2010,7.20%,$335 ,0.021,79,73
+Paraguay,The Americas,12/1/2010,8.70%,$271 ,0.021,74,70
+Belize,The Americas,12/1/2010,5.80%,$265 ,0.016,76,70
+Nicaragua,The Americas,12/1/2010,7.60%,$112 ,0.022,77,71
+Bolivia,The Americas,12/1/2010,5.50%,$106 ,0.035,69,64
+Haiti,The Americas,12/1/2010,6.70%,$45 ,0.073,64,60
+Honduras,The Americas,12/1/2010,8.70%,$176 ,0.021,75,70
+Guatemala,The Americas,12/1/2010,6.90%,$198 ,0.028,75,68
+Sint Maarten (Dutch part),The Americas,12/1/2011,0,0,0,0,0
+Turks and Caicos Islands,The Americas,12/1/2011,0,0,0,0,0
+Dominica,The Americas,12/1/2011,6.00%,$402 ,0.011,0,0
+St. Kitts and Nevis,The Americas,12/1/2011,5.80%,$820 ,0.008,0,0
+Cuba,The Americas,12/1/2011,10.60%,$648 ,0.006,81,77
+Aruba,The Americas,12/1/2011,0,0,0,78,73
+Puerto Rico,The Americas,12/1/2011,0,0,0,82,75
+Canada,The Americas,12/1/2011,10.90%,"$5,656 ",0.005,83,79
+Bermuda,The Americas,12/1/2011,0,0,0,82,77
+Barbados,The Americas,12/1/2011,7.20%,$935 ,0.014,77,73
+Curacao,The Americas,12/1/2011,0,0,0,81,74
+United States,The Americas,12/1/2011,17.70%,"$8,467 ",0.006,81,76
+Greenland,The Americas,12/1/2011,0,0,0,0,0
+Chile,The Americas,12/1/2011,7.10%,"$1,022 ",0.007,82,76
+Cayman Islands,The Americas,12/1/2011,0,0,0,0,0
+Trinidad and Tobago,The Americas,12/1/2011,5.30%,$935 ,0.02,73,66
+Brazil,The Americas,12/1/2011,8.90%,"$1,119 ",0.014,77,70
+Jamaica,The Americas,12/1/2011,5.20%,$273 ,0.015,76,71
+"Bahamas, The",The Americas,12/1/2011,7.50%,"$1,622 ",0.011,78,72
+Uruguay,The Americas,12/1/2011,8.80%,"$1,213 ",0.01,80,73
+St. Lucia,The Americas,12/1/2011,7.60%,$513 ,0.013,77,72
+Costa Rica,The Americas,12/1/2011,10.20%,$883 ,0.009,82,77
+St. Vincent and the Grenadines,The Americas,12/1/2011,4.90%,$310 ,0.018,74,70
+Argentina,The Americas,12/1/2011,7.90%,$866 ,0.013,80,72
+Antigua and Barbuda,The Americas,12/1/2011,5.50%,$703 ,0.008,78,73
+St. Martin (French part),The Americas,12/1/2011,0,0,0,82,76
+Suriname,The Americas,12/1/2011,6.00%,$490 ,0.022,74,67
+Grenada,The Americas,12/1/2011,6.50%,$481 ,0.011,75,70
+Colombia,The Americas,12/1/2011,6.50%,$466 ,0.015,77,70
+Mexico,The Americas,12/1/2011,6.00%,$609 ,0.014,79,75
+El Salvador,The Americas,12/1/2011,6.80%,$252 ,0.015,77,67
+Venezuela,The Americas,12/1/2011,4.50%,$487 ,0.014,77,71
+Peru,The Americas,12/1/2011,4.70%,$283 ,0.014,77,72
+Panama,The Americas,12/1/2011,7.90%,$664 ,0.016,80,74
+Guyana,The Americas,12/1/2011,6.80%,$221 ,0.032,69,63
+Ecuador,The Americas,12/1/2011,6.90%,$362 ,0.02,79,73
+Dominican Republic,The Americas,12/1/2011,5.40%,$293 ,0.025,76,70
+Paraguay,The Americas,12/1/2011,8.90%,$352 ,0.02,74,70
+Nicaragua,The Americas,12/1/2011,7.60%,$124 ,0.021,77,71
+Belize,The Americas,12/1/2011,5.80%,$264 ,0.015,77,71
+Haiti,The Americas,12/1/2011,8.50%,$62 ,0.057,64,61
+Bolivia,The Americas,12/1/2011,5.00%,$115 ,0.033,69,65
+Honduras,The Americas,12/1/2011,8.40%,$187 ,0.02,76,71
+Guatemala,The Americas,12/1/2011,6.70%,$215 ,0.028,75,68
+Sint Maarten (Dutch part),The Americas,12/1/2012,0,0,0,0,0
+Turks and Caicos Islands,The Americas,12/1/2012,0,0,0,0,0
+Dominica,The Americas,12/1/2012,5.90%,$392 ,0.011,0,0
+St. Kitts and Nevis,The Americas,12/1/2012,5.90%,$825 ,0.008,0,0
+Aruba,The Americas,12/1/2012,0,0,0,78,73
+Cuba,The Americas,12/1/2012,8.60%,$558 ,0.005,81,77
+Puerto Rico,The Americas,12/1/2012,0,0,0,82,75
+Canada,The Americas,12/1/2012,10.90%,"$5,741 ",0.005,83,79
+Bermuda,The Americas,12/1/2012,0,0,0,82,77
+Cayman Islands,The Americas,12/1/2012,0,0,0,0,0
+Curacao,The Americas,12/1/2012,0,0,0,0,0
+Barbados,The Americas,12/1/2012,6.30%,$938 ,0.014,78,73
+United States,The Americas,12/1/2012,17.90%,"$8,895 ",0.006,81,76
+Greenland,The Americas,12/1/2012,0,0,0,0,0
+Chile,The Americas,12/1/2012,7.20%,"$1,103 ",0.007,82,77
+Trinidad and Tobago,The Americas,12/1/2012,5.40%,$972 ,0.02,74,66
+Brazil,The Americas,12/1/2012,9.30%,"$1,056 ",0.013,77,70
+Jamaica,The Americas,12/1/2012,5.90%,$318 ,0.015,76,71
+"Bahamas, The",The Americas,12/1/2012,7.50%,"$1,647 ",0.011,78,72
+Uruguay,The Americas,12/1/2012,8.90%,"$1,308 ",0.01,80,74
+Costa Rica,The Americas,12/1/2012,10.10%,$951 ,0.009,82,78
+St. Lucia,The Americas,12/1/2012,8.50%,$556 ,0.013,77,72
+St. Martin (French part),The Americas,12/1/2012,0,0,0,82,76
+St. Vincent and the Grenadines,The Americas,12/1/2012,5.20%,$340 ,0.018,75,70
+Argentina,The Americas,12/1/2012,8.50%,$995 ,0.012,80,72
+Antigua and Barbuda,The Americas,12/1/2012,5.20%,$681 ,0.008,78,73
+Suriname,The Americas,12/1/2012,5.90%,$521 ,0.021,74,68
+Grenada,The Americas,12/1/2012,6.40%,$478 ,0.011,75,70
+Colombia,The Americas,12/1/2012,6.80%,$530 ,0.015,78,70
+Mexico,The Americas,12/1/2012,6.10%,$618 ,0.013,80,75
+El Salvador,The Americas,12/1/2012,6.70%,$254 ,0.014,77,68
+Peru,The Americas,12/1/2012,5.10%,$337 ,0.014,77,72
+Venezuela,The Americas,12/1/2012,4.60%,$593 ,0.013,78,72
+Panama,The Americas,12/1/2012,7.60%,$723 ,0.016,80,75
+Guyana,The Americas,12/1/2012,6.60%,$235 ,0.031,69,63
+Dominican Republic,The Americas,12/1/2012,5.40%,$310 ,0.024,76,70
+Ecuador,The Americas,12/1/2012,6.40%,$361 ,0.02,79,73
+Nicaragua,The Americas,12/1/2012,8.20%,$144 ,0.021,78,71
+Paraguay,The Americas,12/1/2012,10.30%,$392 ,0.019,74,70
+Belize,The Americas,12/1/2012,5.80%,$259 ,0.015,77,71
+Haiti,The Americas,12/1/2012,6.40%,$53 ,0.056,65,61
+Bolivia,The Americas,12/1/2012,5.80%,$149 ,0.032,69,65
+Honduras,The Americas,12/1/2012,8.60%,$195 ,0.02,76,71
+Guatemala,The Americas,12/1/2012,6.70%,$226 ,0.027,75,68
